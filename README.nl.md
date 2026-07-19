@@ -24,7 +24,7 @@
 
 ## Bouwen met Muse Video
 
-**[Open de Muse Video-workflow op ImagineVid](https://imaginevid.io/nl/ai-video-generator)**
+**[Open de Muse Video-workflow op ImagineVid](https://imaginevid.io/nl/reference-video)**
 
 Gebruik deze repository om de instructies van een maker te vergelijken met de resulterende beweging. Open ImagineVid wanneer je de shotgrammatica wilt aanpassen voor een nieuwe clip.
 
@@ -78,7 +78,7 @@ De voorbeelden behandelen elke prompt als productiebriefing en houden zichtbare 
 - **Leg exacte aantallen en identiteiten vast** - Benoem welke onderwerpen, gezichten, objecten en ruimtelijke relaties stabiel moeten blijven
 - **Bescherm continuïteit expliciet** - Vermeld welk gezicht, productgeometrie, layout, kostuum of achtergrond niet mag verschuiven
 
-**Actuele verwijzingen:** [Meta AI engineering overview](https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/) · [Meta product announcement](https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/) · [Create videos on ImagineVid](https://imaginevid.io/nl/ai-video-generator)
+**Actuele verwijzingen:** [Meta AI engineering overview](https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/) · [Meta product announcement](https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/) · [Create videos on ImagineVid](https://imaginevid.io/nl/reference-video)
 
 ### Maak van een prompt een shottemplate
 
@@ -183,7 +183,7 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 |--------|-------|
 | Geverifieerde voorbeelden | **5** |
 | Redactionele keuze | **3** |
-| Gegenereerd | **zondag 19 juli 2026 om 03:40:55 UTC** |
+| Gegenereerd | **zondag 19 juli 2026 om 04:54:16 UTC** |
 
 </div>
 
@@ -236,7 +236,7 @@ A photorealistic elephant stands improbably inside a small, warmly lit dining ro
 - **Gepubliceerd:** 7 juli 2026
 - **Prompttaal:** en
 
-**[Maak met deze regie · ImagineVid](https://imaginevid.io/nl/ai-video-generator)**
+**[Maak met deze regie · ImagineVid](https://imaginevid.io/nl/reference-video)**
 
 ---
 
@@ -281,7 +281,7 @@ A baby panda tumbling head over heels down a small grassy slope.
 - **Gepubliceerd:** 7 juli 2026
 - **Prompttaal:** en
 
-**[Maak met deze regie · ImagineVid](https://imaginevid.io/nl/ai-video-generator)**
+**[Maak met deze regie · ImagineVid](https://imaginevid.io/nl/reference-video)**
 
 ---
 
@@ -326,7 +326,7 @@ A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyw
 - **Gepubliceerd:** 7 juli 2026
 - **Prompttaal:** en
 
-**[Maak met deze regie · ImagineVid](https://imaginevid.io/nl/ai-video-generator)**
+**[Maak met deze regie · ImagineVid](https://imaginevid.io/nl/reference-video)**
 
 ---
 
@@ -397,7 +397,7 @@ A mother duck leads a line of exactly FIVE ducklings toward a curb; the fifth an
 - **Gepubliceerd:** 7 juli 2026
 - **Prompttaal:** en
 
-**[Maak met deze regie · ImagineVid](https://imaginevid.io/nl/ai-video-generator)**
+**[Maak met deze regie · ImagineVid](https://imaginevid.io/nl/reference-video)**
 
 ---
 
@@ -447,7 +447,7 @@ First-person point of view strolling along the edge of a small half-frozen pond 
 - **Gepubliceerd:** 7 juli 2026
 - **Prompttaal:** en
 
-**[Maak met deze regie · ImagineVid](https://imaginevid.io/nl/ai-video-generator)**
+**[Maak met deze regie · ImagineVid](https://imaginevid.io/nl/reference-video)**
 
 ---
 
@@ -496,10 +496,10 @@ Redactionele tekst en code van ImagineVid vallen onder [CC BY 4.0](https://creat
 
 <div align="center">
 
-**[Bouwen met Muse Video](https://imaginevid.io/nl/ai-video-generator)** •
+**[Bouwen met Muse Video](https://imaginevid.io/nl/reference-video)** •
 **[Een geverifieerd voorbeeld indienen](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Geef de collectie een ster](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>Gegenereerd uit versiebeheerste lokale data op 2026-07-19T03:40:55.611Z</sub>
+<sub>Gegenereerd uit versiebeheerste lokale data op 2026-07-19T04:54:16.192Z</sub>
 
 </div>

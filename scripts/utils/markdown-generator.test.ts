@@ -87,13 +87,13 @@ test("renders a Muse Video empty-state README without inherited model copy", () 
   assert.match(markdown, /forthcoming video-generation model/);
   assert.match(markdown, /coming soon/);
   assert.match(markdown, /audio-video synchronization/);
-  assert.match(markdown, /imaginevid\.io\/ai-video-generator/);
+  assert.match(markdown, /imaginevid\.io\/reference-video/);
   assert.doesNotMatch(markdown, /unreleased API/i);
 });
 
 test("uses the verified ImagineVid product route", () => {
-  assert.equal(getMuseVideoProductUrl(), "https://imaginevid.io/ai-video-generator");
-  assert.equal(getMuseVideoProductUrl("ja"), "https://imaginevid.io/ja/ai-video-generator");
+  assert.equal(getMuseVideoProductUrl(), "https://imaginevid.io/reference-video");
+  assert.equal(getMuseVideoProductUrl("ja"), "https://imaginevid.io/ja/reference-video");
 });
 
 test("groups a video prompt by its single production workflow", () => {
@@ -180,5 +180,5 @@ test("keeps the English source prompt below a reviewed localization", () => {
   assert.match(markdown, /Slow cinematic push-in/);
   assert.match(markdown, /### Video/);
   assert.match(markdown, /Ver video/);
-  assert.match(markdown, /imaginevid\.io\/es\/ai-video-generator/);
+  assert.match(markdown, /imaginevid\.io\/es\/reference-video/);
 });

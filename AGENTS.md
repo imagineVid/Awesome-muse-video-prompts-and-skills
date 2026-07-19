@@ -16,7 +16,7 @@ package.json - Node 24 与 pnpm 的验证、测试和生成命令。
 ## 产品边界
 - 目标远程为 `imagineVid/Awesome-muse-video-prompts-and-skills`。
 - Muse Video 指 Meta 于 2026 年 7 月预览、尚待正式开放的视频生成模型；不得虚构版本号、开发者接口或普遍可用状态。
-- 官方能力事实只使用 Meta 第一方资料；产品 CTA 指向 `https://imaginevid.io/ai-video-generator` 及已支持的语言路由。
+- 官方能力事实只使用 Meta 第一方资料；产品 CTA 指向真实存在的 `https://imaginevid.io/reference-video` 及已支持的语言路由，不得根据名称猜测站内路径。
 - 当前公开案例来自 Meta 官方预览帖；同一官方帖可包含多个独立视频，但每条记录必须以媒体 URL 区分。
 
 ## 内容规则

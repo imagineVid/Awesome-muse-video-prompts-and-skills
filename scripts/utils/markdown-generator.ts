@@ -51,14 +51,14 @@ export const SUPPORTED_LANGUAGES: LanguageConfig[] = [
 const MAX_REGULAR_PROMPTS_TO_DISPLAY = 120;
 const REPO = "imagineVid/Awesome-muse-video-prompts-and-skills";
 const REPO_URL = `https://github.com/${REPO}`;
-const MUSE_VIDEO_PRODUCT_URL = "https://imaginevid.io/ai-video-generator";
+const MUSE_VIDEO_PRODUCT_PATH = "/reference-video";
 const META_MUSE_RELEASE_URL = "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/";
 const META_AI_URL = "https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/";
 
 export function getMuseVideoProductUrl(locale = "en"): string {
   return locale === "en"
-    ? MUSE_VIDEO_PRODUCT_URL
-    : `https://imaginevid.io/${locale}/ai-video-generator`;
+    ? `https://imaginevid.io${MUSE_VIDEO_PRODUCT_PATH}`
+    : `https://imaginevid.io/${locale}${MUSE_VIDEO_PRODUCT_PATH}`;
 }
 
 export function getPromptCtaLabel(locale: string): string {

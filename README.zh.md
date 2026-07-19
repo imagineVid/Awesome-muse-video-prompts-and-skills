@@ -24,7 +24,7 @@
 
 ## 使用 Muse Video 创作
 
-**[在 ImagineVid 中打开 Muse Video 工作流](https://imaginevid.io/zh/ai-video-generator)**
+**[在 ImagineVid 中打开 Muse Video 工作流](https://imaginevid.io/zh/reference-video)**
 
 用本仓库比较创作者指令与最终运动效果。准备将镜头语法改编成新片段时，打开 ImagineVid。
 
@@ -78,7 +78,7 @@
 - **锁定准确数量与身份** - 明确哪些主体、面孔、物体和空间关系必须保持稳定
 - **明确保护连续性** - 指出脸部、产品结构、布局、服装或背景中不能漂移的部分
 
-**当前参考：** [Meta AI engineering overview](https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/) · [Meta product announcement](https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/) · [Create videos on ImagineVid](https://imaginevid.io/zh/ai-video-generator)
+**当前参考：** [Meta AI engineering overview](https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/) · [Meta product announcement](https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/) · [Create videos on ImagineVid](https://imaginevid.io/zh/reference-video)
 
 ### 把提示词变成镜头模板
 
@@ -183,7 +183,7 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 |--------|-------|
 | 已核验案例 | **5** |
 | 编辑精选 | **3** |
-| 生成时间 | **2026年7月19日星期日 UTC 03:40:55** |
+| 生成时间 | **2026年7月19日星期日 UTC 04:54:16** |
 
 </div>
 
@@ -236,7 +236,7 @@ A photorealistic elephant stands improbably inside a small, warmly lit dining ro
 - **发布时间:** 2026年7月7日
 - **提示词语言:** en
 
-**[按此方向创作 · ImagineVid](https://imaginevid.io/zh/ai-video-generator)**
+**[按此方向创作 · ImagineVid](https://imaginevid.io/zh/reference-video)**
 
 ---
 
@@ -281,7 +281,7 @@ A baby panda tumbling head over heels down a small grassy slope.
 - **发布时间:** 2026年7月7日
 - **提示词语言:** en
 
-**[按此方向创作 · ImagineVid](https://imaginevid.io/zh/ai-video-generator)**
+**[按此方向创作 · ImagineVid](https://imaginevid.io/zh/reference-video)**
 
 ---
 
@@ -326,7 +326,7 @@ A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyw
 - **发布时间:** 2026年7月7日
 - **提示词语言:** en
 
-**[按此方向创作 · ImagineVid](https://imaginevid.io/zh/ai-video-generator)**
+**[按此方向创作 · ImagineVid](https://imaginevid.io/zh/reference-video)**
 
 ---
 
@@ -397,7 +397,7 @@ A mother duck leads a line of exactly FIVE ducklings toward a curb; the fifth an
 - **发布时间:** 2026年7月7日
 - **提示词语言:** en
 
-**[按此方向创作 · ImagineVid](https://imaginevid.io/zh/ai-video-generator)**
+**[按此方向创作 · ImagineVid](https://imaginevid.io/zh/reference-video)**
 
 ---
 
@@ -447,7 +447,7 @@ First-person point of view strolling along the edge of a small half-frozen pond 
 - **发布时间:** 2026年7月7日
 - **提示词语言:** en
 
-**[按此方向创作 · ImagineVid](https://imaginevid.io/zh/ai-video-generator)**
+**[按此方向创作 · ImagineVid](https://imaginevid.io/zh/reference-video)**
 
 ---
 
@@ -496,10 +496,10 @@ ImagineVid 编写的编辑文本和代码依据 [CC BY 4.0](https://creativecomm
 
 <div align="center">
 
-**[使用 Muse Video 创作](https://imaginevid.io/zh/ai-video-generator)** •
+**[使用 Muse Video 创作](https://imaginevid.io/zh/reference-video)** •
 **[提交已核验案例](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[为集合加星](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>根据版本化本地数据生成于 2026-07-19T03:40:55.598Z</sub>
+<sub>根据版本化本地数据生成于 2026-07-19T04:54:16.190Z</sub>
 
 </div>

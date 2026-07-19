@@ -23,4 +23,4 @@ Meta published reusable prompts beside several playable launch clips. They are s
 
 ## Where can I adapt these briefs?
 
-Product links open [ImagineVid's AI video generator](https://imaginevid.io/ai-video-generator). They are creation workflow links, not a claim that ImagineVid currently serves Muse Video.
+Product links open [ImagineVid's reference-to-video workflow](https://imaginevid.io/reference-video). They are creation workflow links, not a claim that ImagineVid currently serves Muse Video.

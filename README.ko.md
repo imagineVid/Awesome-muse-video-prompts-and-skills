@@ -24,7 +24,7 @@
 
 ## Muse Video로 만들기
 
-**[ImagineVid에서 Muse Video 워크플로 열기](https://imaginevid.io/ko/ai-video-generator)**
+**[ImagineVid에서 Muse Video 워크플로 열기](https://imaginevid.io/ko/reference-video)**
 
 이 저장소에서 제작자의 지시와 그 결과로 나온 움직임을 비교하세요. 샷 문법을 새 클립에 적용할 준비가 되면 ImagineVid를 여세요.
 
@@ -78,7 +78,7 @@
 - **정확한 수와 정체성을 고정** - 유지해야 할 인물, 얼굴, 물체와 공간 관계를 명시하세요
 - **연속성을 명시적으로 보호** - 변형되어서는 안 되는 얼굴, 제품의 형태, 레이아웃, 의상 또는 배경을 밝혀 두세요
 
-**현재 참고 자료:** [Meta AI engineering overview](https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/) · [Meta product announcement](https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/) · [Create videos on ImagineVid](https://imaginevid.io/ko/ai-video-generator)
+**현재 참고 자료:** [Meta AI engineering overview](https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/) · [Meta product announcement](https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/) · [Create videos on ImagineVid](https://imaginevid.io/ko/reference-video)
 
 ### 프롬프트를 샷 템플릿으로 바꾸기
 
@@ -183,7 +183,7 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 |--------|-------|
 | 검증된 사례 | **5** |
 | 에디터 추천 | **3** |
-| 생성 시각 | **2026년 7월 19일 일요일 오전 3시 40분 55초 UTC** |
+| 생성 시각 | **2026년 7월 19일 일요일 AM 4시 54분 16초 UTC** |
 
 </div>
 
@@ -236,7 +236,7 @@ A photorealistic elephant stands improbably inside a small, warmly lit dining ro
 - **게시일:** 2026년 7월 7일
 - **프롬프트 언어:** en
 
-**[이 연출로 만들기 · ImagineVid](https://imaginevid.io/ko/ai-video-generator)**
+**[이 연출로 만들기 · ImagineVid](https://imaginevid.io/ko/reference-video)**
 
 ---
 
@@ -281,7 +281,7 @@ A baby panda tumbling head over heels down a small grassy slope.
 - **게시일:** 2026년 7월 7일
 - **프롬프트 언어:** en
 
-**[이 연출로 만들기 · ImagineVid](https://imaginevid.io/ko/ai-video-generator)**
+**[이 연출로 만들기 · ImagineVid](https://imaginevid.io/ko/reference-video)**
 
 ---
 
@@ -326,7 +326,7 @@ A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyw
 - **게시일:** 2026년 7월 7일
 - **프롬프트 언어:** en
 
-**[이 연출로 만들기 · ImagineVid](https://imaginevid.io/ko/ai-video-generator)**
+**[이 연출로 만들기 · ImagineVid](https://imaginevid.io/ko/reference-video)**
 
 ---
 
@@ -397,7 +397,7 @@ A mother duck leads a line of exactly FIVE ducklings toward a curb; the fifth an
 - **게시일:** 2026년 7월 7일
 - **프롬프트 언어:** en
 
-**[이 연출로 만들기 · ImagineVid](https://imaginevid.io/ko/ai-video-generator)**
+**[이 연출로 만들기 · ImagineVid](https://imaginevid.io/ko/reference-video)**
 
 ---
 
@@ -447,7 +447,7 @@ First-person point of view strolling along the edge of a small half-frozen pond 
 - **게시일:** 2026년 7월 7일
 - **프롬프트 언어:** en
 
-**[이 연출로 만들기 · ImagineVid](https://imaginevid.io/ko/ai-video-generator)**
+**[이 연출로 만들기 · ImagineVid](https://imaginevid.io/ko/reference-video)**
 
 ---
 
@@ -496,10 +496,10 @@ ImagineVid가 작성한 편집 문구와 코드는 [CC BY 4.0](https://creativec
 
 <div align="center">
 
-**[Muse Video로 만들기](https://imaginevid.io/ko/ai-video-generator)** •
+**[Muse Video로 만들기](https://imaginevid.io/ko/reference-video)** •
 **[검증된 사례 제출](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[컬렉션에 별표하기](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-07-19T03:40:55.582Z</sub>
+<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-07-19T04:54:16.189Z</sub>
 
 </div>

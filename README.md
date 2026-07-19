@@ -24,7 +24,7 @@
 
 ## Build with Muse Video
 
-**[Open the Muse Video workflow on ImagineVid](https://imaginevid.io/ai-video-generator)**
+**[Open the Muse Video workflow on ImagineVid](https://imaginevid.io/reference-video)**
 
 Use this repository to compare a creator's instructions with the resulting motion. Open ImagineVid when you are ready to adapt the shot grammar into a new clip.
 
@@ -78,7 +78,7 @@ The cases below treat each prompt as a production brief: visible action, camera 
 - **Lock exact counts and identities** - State which subjects, faces, objects, and spatial relationships must remain stable
 - **Protect continuity explicitly** - State which face, product geometry, layout, wardrobe, or background must not drift
 
-**Current references:** [Meta AI engineering overview](https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/) · [Meta product announcement](https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/) · [Create videos on ImagineVid](https://imaginevid.io/ai-video-generator)
+**Current references:** [Meta AI engineering overview](https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/) · [Meta product announcement](https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/) · [Create videos on ImagineVid](https://imaginevid.io/reference-video)
 
 ### Turn a Prompt into a Shot Template
 
@@ -183,7 +183,7 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 |--------|-------|
 | Verified Cases | **5** |
 | Editorial pick | **3** |
-| Generated | **Sunday, July 19, 2026 at 3:40:55 AM UTC** |
+| Generated | **Sunday, July 19, 2026 at 4:54:16 AM UTC** |
 
 </div>
 
@@ -227,7 +227,7 @@ A photorealistic elephant stands improbably inside a small, warmly lit dining ro
 - **Published:** July 7, 2026
 - **Prompt language:** en
 
-**[Use this prompt on ImagineVid](https://imaginevid.io/ai-video-generator)**
+**[Use this prompt on ImagineVid](https://imaginevid.io/reference-video)**
 
 ---
 
@@ -263,7 +263,7 @@ A baby panda tumbling head over heels down a small grassy slope.
 - **Published:** July 7, 2026
 - **Prompt language:** en
 
-**[Use this prompt on ImagineVid](https://imaginevid.io/ai-video-generator)**
+**[Use this prompt on ImagineVid](https://imaginevid.io/reference-video)**
 
 ---
 
@@ -299,7 +299,7 @@ A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyw
 - **Published:** July 7, 2026
 - **Prompt language:** en
 
-**[Use this prompt on ImagineVid](https://imaginevid.io/ai-video-generator)**
+**[Use this prompt on ImagineVid](https://imaginevid.io/reference-video)**
 
 ---
 
@@ -361,7 +361,7 @@ A mother duck leads a line of exactly FIVE ducklings toward a curb; the fifth an
 - **Published:** July 7, 2026
 - **Prompt language:** en
 
-**[Use this prompt on ImagineVid](https://imaginevid.io/ai-video-generator)**
+**[Use this prompt on ImagineVid](https://imaginevid.io/reference-video)**
 
 ---
 
@@ -402,7 +402,7 @@ First-person point of view strolling along the edge of a small half-frozen pond 
 - **Published:** July 7, 2026
 - **Prompt language:** en
 
-**[Use this prompt on ImagineVid](https://imaginevid.io/ai-video-generator)**
+**[Use this prompt on ImagineVid](https://imaginevid.io/reference-video)**
 
 ---
 
@@ -451,10 +451,10 @@ ImagineVid-authored editorial text and code are licensed under [CC BY 4.0](https
 
 <div align="center">
 
-**[Build with Muse Video](https://imaginevid.io/ai-video-generator)** •
+**[Build with Muse Video](https://imaginevid.io/reference-video)** •
 **[Submit a verified case](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star the collection](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>Generated from versioned local data on 2026-07-19T03:40:55.501Z</sub>
+<sub>Generated from versioned local data on 2026-07-19T04:54:16.176Z</sub>
 
 </div>

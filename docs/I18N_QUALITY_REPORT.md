@@ -5,7 +5,7 @@
 - Source language: English (`README.md` and English JSON fields)
 - Published locales: `es`, `pt`, `it`, `de`, `fr`, `ar`, `ja`, `ko`, `zh`, `nl`, `ru`, `tr`, `pl`
 - Coverage per locale: 86 interface fields, 7 category titles, 6 workflow descriptions, and 5 complete prompt records
-- Product links: English uses `/ai-video-generator`; translated pages use the matching ImagineVid locale route
+- Product links: English uses the verified `/reference-video` route; translated pages use the matching verified ImagineVid locale route
 
 ## Translation Trace
 

@@ -24,7 +24,7 @@
 
 ## Создавать с Muse Video
 
-**[Открыть рабочий процесс Muse Video в ImagineVid](https://imaginevid.io/ru/ai-video-generator)**
+**[Открыть рабочий процесс Muse Video в ImagineVid](https://imaginevid.io/ru/reference-video)**
 
 Сравнивайте в этой репозитории инструкции автора с получившимся движением. Открывайте ImagineVid, когда будете готовы адаптировать грамматику кадра для нового клипа.
 
@@ -78,7 +78,7 @@
 - **Фиксируйте точное число и идентичность** — укажите, какие персонажи, лица, объекты и пространственные связи должны сохраняться
 - **Явно защищайте непрерывность** — указывайте, какие лицо, геометрия продукта, компоновка, костюм или фон не должны измениться
 
-**Актуальные ссылки:** [Meta AI engineering overview](https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/) · [Meta product announcement](https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/) · [Create videos on ImagineVid](https://imaginevid.io/ru/ai-video-generator)
+**Актуальные ссылки:** [Meta AI engineering overview](https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/) · [Meta product announcement](https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/) · [Create videos on ImagineVid](https://imaginevid.io/ru/reference-video)
 
 ### Превратите промпт в шаблон кадра
 
@@ -183,7 +183,7 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 |--------|-------|
 | Проверенные примеры | **5** |
 | Редакционный выбор | **3** |
-| Сгенерировано | **воскресенье, 19 июля 2026 г. в 03:40:55 UTC** |
+| Сгенерировано | **воскресенье, 19 июля 2026 г. в 04:54:16 UTC** |
 
 </div>
 
@@ -236,7 +236,7 @@ A photorealistic elephant stands improbably inside a small, warmly lit dining ro
 - **Опубликовано:** 7 июля 2026 г.
 - **Язык промпта:** en
 
-**[Создать по этой режиссуре · ImagineVid](https://imaginevid.io/ru/ai-video-generator)**
+**[Создать по этой режиссуре · ImagineVid](https://imaginevid.io/ru/reference-video)**
 
 ---
 
@@ -281,7 +281,7 @@ A baby panda tumbling head over heels down a small grassy slope.
 - **Опубликовано:** 7 июля 2026 г.
 - **Язык промпта:** en
 
-**[Создать по этой режиссуре · ImagineVid](https://imaginevid.io/ru/ai-video-generator)**
+**[Создать по этой режиссуре · ImagineVid](https://imaginevid.io/ru/reference-video)**
 
 ---
 
@@ -326,7 +326,7 @@ A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyw
 - **Опубликовано:** 7 июля 2026 г.
 - **Язык промпта:** en
 
-**[Создать по этой режиссуре · ImagineVid](https://imaginevid.io/ru/ai-video-generator)**
+**[Создать по этой режиссуре · ImagineVid](https://imaginevid.io/ru/reference-video)**
 
 ---
 
@@ -397,7 +397,7 @@ A mother duck leads a line of exactly FIVE ducklings toward a curb; the fifth an
 - **Опубликовано:** 7 июля 2026 г.
 - **Язык промпта:** en
 
-**[Создать по этой режиссуре · ImagineVid](https://imaginevid.io/ru/ai-video-generator)**
+**[Создать по этой режиссуре · ImagineVid](https://imaginevid.io/ru/reference-video)**
 
 ---
 
@@ -447,7 +447,7 @@ First-person point of view strolling along the edge of a small half-frozen pond 
 - **Опубликовано:** 7 июля 2026 г.
 - **Язык промпта:** en
 
-**[Создать по этой режиссуре · ImagineVid](https://imaginevid.io/ru/ai-video-generator)**
+**[Создать по этой режиссуре · ImagineVid](https://imaginevid.io/ru/reference-video)**
 
 ---
 
@@ -496,10 +496,10 @@ First-person point of view strolling along the edge of a small half-frozen pond 
 
 <div align="center">
 
-**[Создавать с Muse Video](https://imaginevid.io/ru/ai-video-generator)** •
+**[Создавать с Muse Video](https://imaginevid.io/ru/reference-video)** •
 **[Отправить проверенный пример](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Поставить звезду коллекции](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>Сгенерировано из версионируемых локальных данных 2026-07-19T03:40:55.614Z</sub>
+<sub>Сгенерировано из версионируемых локальных данных 2026-07-19T04:54:16.194Z</sub>
 
 </div>

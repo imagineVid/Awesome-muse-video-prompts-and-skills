@@ -24,7 +24,7 @@
 
 ## Muse Video ile üret
 
-**[ImagineVid üzerinde Muse Video iş akışını aç](https://imaginevid.io/tr/ai-video-generator)**
+**[ImagineVid üzerinde Muse Video iş akışını aç](https://imaginevid.io/tr/reference-video)**
 
 Bir üreticinin talimatlarını ortaya çıkan hareketle karşılaştırmak için bu depoyu kullanın. Çekim gramerini yeni bir klibe uyarlamaya hazır olduğunuzda ImagineVid'i açın.
 
@@ -78,7 +78,7 @@ Aşağıdaki örnekler her promptu; görünür eylem, kamera, zamanlama, ses, s�
 - **Kesin sayıları ve kimlikleri sabitleyin** - Hangi öznelerin, yüzlerin, nesnelerin ve mekânsal ilişkilerin korunacağını belirtin
 - **Sürekliliği açıkça koruyun** - Hangi yüzün, ürün geometrisinin, yerleşimin, kostümün veya arka planın değişmemesi gerektiğini söyleyin
 
-**Güncel referanslar:** [Meta AI engineering overview](https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/) · [Meta product announcement](https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/) · [Create videos on ImagineVid](https://imaginevid.io/tr/ai-video-generator)
+**Güncel referanslar:** [Meta AI engineering overview](https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/) · [Meta product announcement](https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/) · [Create videos on ImagineVid](https://imaginevid.io/tr/reference-video)
 
 ### Promptu çekim şablonuna dönüştür
 
@@ -183,7 +183,7 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 |--------|-------|
 | Doğrulanmış örnekler | **5** |
 | Editör seçimi | **3** |
-| Oluşturulma | **19 Temmuz 2026 Pazar 03:40:55 UTC** |
+| Oluşturulma | **19 Temmuz 2026 Pazar 04:54:16 UTC** |
 
 </div>
 
@@ -236,7 +236,7 @@ A photorealistic elephant stands improbably inside a small, warmly lit dining ro
 - **Yayımlandı:** 7 Temmuz 2026
 - **Prompt dili:** en
 
-**[Bu yönlendirmeyle oluştur · ImagineVid](https://imaginevid.io/tr/ai-video-generator)**
+**[Bu yönlendirmeyle oluştur · ImagineVid](https://imaginevid.io/tr/reference-video)**
 
 ---
 
@@ -281,7 +281,7 @@ A baby panda tumbling head over heels down a small grassy slope.
 - **Yayımlandı:** 7 Temmuz 2026
 - **Prompt dili:** en
 
-**[Bu yönlendirmeyle oluştur · ImagineVid](https://imaginevid.io/tr/ai-video-generator)**
+**[Bu yönlendirmeyle oluştur · ImagineVid](https://imaginevid.io/tr/reference-video)**
 
 ---
 
@@ -326,7 +326,7 @@ A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyw
 - **Yayımlandı:** 7 Temmuz 2026
 - **Prompt dili:** en
 
-**[Bu yönlendirmeyle oluştur · ImagineVid](https://imaginevid.io/tr/ai-video-generator)**
+**[Bu yönlendirmeyle oluştur · ImagineVid](https://imaginevid.io/tr/reference-video)**
 
 ---
 
@@ -397,7 +397,7 @@ A mother duck leads a line of exactly FIVE ducklings toward a curb; the fifth an
 - **Yayımlandı:** 7 Temmuz 2026
 - **Prompt dili:** en
 
-**[Bu yönlendirmeyle oluştur · ImagineVid](https://imaginevid.io/tr/ai-video-generator)**
+**[Bu yönlendirmeyle oluştur · ImagineVid](https://imaginevid.io/tr/reference-video)**
 
 ---
 
@@ -447,7 +447,7 @@ First-person point of view strolling along the edge of a small half-frozen pond 
 - **Yayımlandı:** 7 Temmuz 2026
 - **Prompt dili:** en
 
-**[Bu yönlendirmeyle oluştur · ImagineVid](https://imaginevid.io/tr/ai-video-generator)**
+**[Bu yönlendirmeyle oluştur · ImagineVid](https://imaginevid.io/tr/reference-video)**
 
 ---
 
@@ -496,10 +496,10 @@ ImagineVid'in editoryal metni ve kodu [CC BY 4.0](https://creativecommons.org/li
 
 <div align="center">
 
-**[Muse Video ile üret](https://imaginevid.io/tr/ai-video-generator)** •
+**[Muse Video ile üret](https://imaginevid.io/tr/reference-video)** •
 **[Doğrulanmış örnek gönder](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Koleksiyona yıldız ver](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>Sürümlenen yerel veriden oluşturulma zamanı 2026-07-19T03:40:55.631Z</sub>
+<sub>Sürümlenen yerel veriden oluşturulma zamanı 2026-07-19T04:54:16.195Z</sub>
 
 </div>

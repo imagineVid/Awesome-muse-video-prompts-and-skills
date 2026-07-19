@@ -24,7 +24,7 @@
 
 ## Criar com Muse Video
 
-**[Abrir o fluxo Muse Video no ImagineVid](https://imaginevid.io/pt/ai-video-generator)**
+**[Abrir o fluxo Muse Video no ImagineVid](https://imaginevid.io/pt/reference-video)**
 
 Use este repositório para comparar as instruções de um criador com o movimento resultante. Abra o ImagineVid quando estiver pronto para adaptar a gramática do plano a um novo clip.
 
@@ -78,7 +78,7 @@ Os casos abaixo tratam cada prompt como um briefing de produção: ação visív
 - **Fixe quantidades e identidades exatas** - Indique os sujeitos, rostos, objetos e relações espaciais que devem permanecer estáveis
 - **Proteja explicitamente a continuidade** - Indique que rosto, geometria do produto, composição, guarda-roupa ou fundo não pode sofrer alterações
 
-**Referências atuais:** [Meta AI engineering overview](https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/) · [Meta product announcement](https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/) · [Create videos on ImagineVid](https://imaginevid.io/pt/ai-video-generator)
+**Referências atuais:** [Meta AI engineering overview](https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/) · [Meta product announcement](https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/) · [Create videos on ImagineVid](https://imaginevid.io/pt/reference-video)
 
 ### Transforme um prompt num modelo de plano
 
@@ -183,7 +183,7 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 |--------|-------|
 | Casos verificados | **5** |
 | Seleção editorial | **3** |
-| Gerado | **domingo, 19 de julho de 2026 às 03:40:55 UTC** |
+| Gerado | **domingo, 19 de julho de 2026 às 04:54:16 UTC** |
 
 </div>
 
@@ -236,7 +236,7 @@ A photorealistic elephant stands improbably inside a small, warmly lit dining ro
 - **Publicado:** 7 de julho de 2026
 - **Idioma do prompt:** en
 
-**[Criar com esta direção · ImagineVid](https://imaginevid.io/pt/ai-video-generator)**
+**[Criar com esta direção · ImagineVid](https://imaginevid.io/pt/reference-video)**
 
 ---
 
@@ -281,7 +281,7 @@ A baby panda tumbling head over heels down a small grassy slope.
 - **Publicado:** 7 de julho de 2026
 - **Idioma do prompt:** en
 
-**[Criar com esta direção · ImagineVid](https://imaginevid.io/pt/ai-video-generator)**
+**[Criar com esta direção · ImagineVid](https://imaginevid.io/pt/reference-video)**
 
 ---
 
@@ -326,7 +326,7 @@ A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyw
 - **Publicado:** 7 de julho de 2026
 - **Idioma do prompt:** en
 
-**[Criar com esta direção · ImagineVid](https://imaginevid.io/pt/ai-video-generator)**
+**[Criar com esta direção · ImagineVid](https://imaginevid.io/pt/reference-video)**
 
 ---
 
@@ -397,7 +397,7 @@ A mother duck leads a line of exactly FIVE ducklings toward a curb; the fifth an
 - **Publicado:** 7 de julho de 2026
 - **Idioma do prompt:** en
 
-**[Criar com esta direção · ImagineVid](https://imaginevid.io/pt/ai-video-generator)**
+**[Criar com esta direção · ImagineVid](https://imaginevid.io/pt/reference-video)**
 
 ---
 
@@ -447,7 +447,7 @@ First-person point of view strolling along the edge of a small half-frozen pond 
 - **Publicado:** 7 de julho de 2026
 - **Idioma do prompt:** en
 
-**[Criar com esta direção · ImagineVid](https://imaginevid.io/pt/ai-video-generator)**
+**[Criar com esta direção · ImagineVid](https://imaginevid.io/pt/reference-video)**
 
 ---
 
@@ -496,10 +496,10 @@ O texto editorial e o código produzidos pelo ImagineVid estão licenciados ao a
 
 <div align="center">
 
-**[Criar com Muse Video](https://imaginevid.io/pt/ai-video-generator)** •
+**[Criar com Muse Video](https://imaginevid.io/pt/reference-video)** •
 **[Enviar um caso verificado](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Adicionar uma estrela à coleção](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>Gerado a partir de dados locais versionados em 2026-07-19T03:40:55.522Z</sub>
+<sub>Gerado a partir de dados locais versionados em 2026-07-19T04:54:16.180Z</sub>
 
 </div>

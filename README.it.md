@@ -24,7 +24,7 @@
 
 ## Crea con Muse Video
 
-**[Apri il workflow Muse Video su ImagineVid](https://imaginevid.io/it/ai-video-generator)**
+**[Apri il workflow Muse Video su ImagineVid](https://imaginevid.io/it/reference-video)**
 
 Usa questo repository per confrontare le istruzioni di un creator con il movimento risultante. Apri ImagineVid quando vuoi adattare la grammatica dell'inquadratura a una nuova clip.
 
@@ -78,7 +78,7 @@ I casi seguenti trattano ogni prompt come un brief di produzione, mantenendo ins
 - **Blocca quantità e identità esatte** - Specifica soggetti, volti, oggetti e relazioni spaziali che devono restare stabili
 - **Proteggi esplicitamente la continuità** - Indica quale volto, geometria del prodotto, layout, abbigliamento o sfondo non deve cambiare
 
-**Riferimenti aggiornati:** [Meta AI engineering overview](https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/) · [Meta product announcement](https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/) · [Create videos on ImagineVid](https://imaginevid.io/it/ai-video-generator)
+**Riferimenti aggiornati:** [Meta AI engineering overview](https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/) · [Meta product announcement](https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/) · [Create videos on ImagineVid](https://imaginevid.io/it/reference-video)
 
 ### Trasforma un prompt in un modello di inquadratura
 
@@ -183,7 +183,7 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 |--------|-------|
 | Casi verificati | **5** |
 | Selezione editoriale | **3** |
-| Generato | **domenica 19 luglio 2026 alle ore 03:40:55 UTC** |
+| Generato | **domenica 19 luglio 2026 alle ore 04:54:16 UTC** |
 
 </div>
 
@@ -231,12 +231,12 @@ A photorealistic elephant stands improbably inside a small, warmly lit dining ro
 
 #### Elementi di prova
 
-- **Creator:** [Alexandr Wang](https://x.com/alexandr_wang)
+- **Autore:** [Alexandr Wang](https://x.com/alexandr_wang)
 - **Fonte canonica:** [Fonte canonica](https://x.com/alexandr_wang/status/2074556839782416555)
 - **Pubblicato:** 7 luglio 2026
 - **Lingua del prompt:** en
 
-**[Crea con queste indicazioni · ImagineVid](https://imaginevid.io/it/ai-video-generator)**
+**[Crea con queste indicazioni · ImagineVid](https://imaginevid.io/it/reference-video)**
 
 ---
 
@@ -276,12 +276,12 @@ A baby panda tumbling head over heels down a small grassy slope.
 
 #### Elementi di prova
 
-- **Creator:** [Meta Superintelligence Labs](https://x.com/AIatMeta)
+- **Autore:** [Meta Superintelligence Labs](https://x.com/AIatMeta)
 - **Fonte canonica:** [Fonte canonica](https://x.com/alexandr_wang/status/2074556839782416555)
 - **Pubblicato:** 7 luglio 2026
 - **Lingua del prompt:** en
 
-**[Crea con queste indicazioni · ImagineVid](https://imaginevid.io/it/ai-video-generator)**
+**[Crea con queste indicazioni · ImagineVid](https://imaginevid.io/it/reference-video)**
 
 ---
 
@@ -321,12 +321,12 @@ A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyw
 
 #### Elementi di prova
 
-- **Creator:** [Meta AI](https://x.com/AIatMeta)
+- **Autore:** [Meta AI](https://x.com/AIatMeta)
 - **Fonte canonica:** [Fonte canonica](https://x.com/AIatMeta/status/2074600027733860758)
 - **Pubblicato:** 7 luglio 2026
 - **Lingua del prompt:** en
 
-**[Crea con queste indicazioni · ImagineVid](https://imaginevid.io/it/ai-video-generator)**
+**[Crea con queste indicazioni · ImagineVid](https://imaginevid.io/it/reference-video)**
 
 ---
 
@@ -392,12 +392,12 @@ A mother duck leads a line of exactly FIVE ducklings toward a curb; the fifth an
 
 ##### Elementi di prova
 
-- **Creator:** [Meta AI](https://x.com/AIatMeta)
+- **Autore:** [Meta AI](https://x.com/AIatMeta)
 - **Fonte canonica:** [Fonte canonica](https://x.com/AIatMeta/status/2074600027733860758)
 - **Pubblicato:** 7 luglio 2026
 - **Lingua del prompt:** en
 
-**[Crea con queste indicazioni · ImagineVid](https://imaginevid.io/it/ai-video-generator)**
+**[Crea con queste indicazioni · ImagineVid](https://imaginevid.io/it/reference-video)**
 
 ---
 
@@ -442,12 +442,12 @@ First-person point of view strolling along the edge of a small half-frozen pond 
 
 ##### Elementi di prova
 
-- **Creator:** [Meta AI](https://x.com/AIatMeta)
+- **Autore:** [Meta AI](https://x.com/AIatMeta)
 - **Fonte canonica:** [Fonte canonica](https://x.com/AIatMeta/status/2074600027733860758)
 - **Pubblicato:** 7 luglio 2026
 - **Lingua del prompt:** en
 
-**[Crea con queste indicazioni · ImagineVid](https://imaginevid.io/it/ai-video-generator)**
+**[Crea con queste indicazioni · ImagineVid](https://imaginevid.io/it/reference-video)**
 
 ---
 
@@ -496,10 +496,10 @@ I testi editoriali e il codice realizzati da ImagineVid sono distribuiti con lic
 
 <div align="center">
 
-**[Crea con Muse Video](https://imaginevid.io/it/ai-video-generator)** •
+**[Crea con Muse Video](https://imaginevid.io/it/reference-video)** •
 **[Invia un caso verificato](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Metti una stella alla raccolta](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>Generato dai dati locali versionati il 2026-07-19T03:40:55.535Z</sub>
+<sub>Generato dai dati locali versionati il 2026-07-19T04:54:16.182Z</sub>
 
 </div>

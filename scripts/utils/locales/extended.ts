@@ -129,7 +129,7 @@ export const EXTENDED_TRANSLATIONS: Record<string, Translation> = {
     "sourceAndResultFrames": "Fotogrammi della fonte e del risultato",
     "generatedImages": "Risultato video",
     "details": "Elementi di prova",
-    "author": "Creator",
+    "author": "Autore",
     "source": "Fonte canonica",
     "published": "Pubblicato",
     "tryItNow": "Crea con queste indicazioni",

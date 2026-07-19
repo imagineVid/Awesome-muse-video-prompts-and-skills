@@ -24,7 +24,7 @@
 
 ## أنشئ باستخدام Muse Video
 
-**[افتح سير عمل Muse Video في ImagineVid](https://imaginevid.io/ar/ai-video-generator)**
+**[افتح سير عمل Muse Video في ImagineVid](https://imaginevid.io/ar/reference-video)**
 
 استخدم هذا المستودع لمقارنة تعليمات المبدع بالحركة الناتجة. افتح ImagineVid عندما تصبح مستعدًا لتحويل قواعد اللقطة إلى مقطع جديد.
 
@@ -78,7 +78,7 @@
 - **ثبّت العدد والهوية بدقة** - حدّد الأشخاص والوجوه والأشياء والعلاقات المكانية التي يجب أن تبقى ثابتة
 - **احمِ الاستمرارية صراحةً** - حدّد الوجه أو هندسة المنتج أو التخطيط أو الملابس أو الخلفية التي يجب ألا تنحرف
 
-**مراجع حالية:** [Meta AI engineering overview](https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/) · [Meta product announcement](https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/) · [Create videos on ImagineVid](https://imaginevid.io/ar/ai-video-generator)
+**مراجع حالية:** [Meta AI engineering overview](https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/) · [Meta product announcement](https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/) · [Create videos on ImagineVid](https://imaginevid.io/ar/reference-video)
 
 ### حوّل المطالبة إلى قالب لقطة
 
@@ -183,7 +183,7 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 |--------|-------|
 | أمثلة موثّقة | **5** |
 | اختيار تحريري | **3** |
-| تاريخ التوليد | **الأحد، 19 يوليو 2026 في 3:40:55 ص UTC** |
+| تاريخ التوليد | **الأحد، 19 يوليو 2026 في 4:54:16 ص UTC** |
 
 </div>
 
@@ -236,7 +236,7 @@ A photorealistic elephant stands improbably inside a small, warmly lit dining ro
 - **تاريخ النشر:** 7 يوليو 2026
 - **لغة المطالبة:** en
 
-**[أنشئ بهذا التوجيه · ImagineVid](https://imaginevid.io/ar/ai-video-generator)**
+**[أنشئ بهذا التوجيه · ImagineVid](https://imaginevid.io/ar/reference-video)**
 
 ---
 
@@ -281,7 +281,7 @@ A baby panda tumbling head over heels down a small grassy slope.
 - **تاريخ النشر:** 7 يوليو 2026
 - **لغة المطالبة:** en
 
-**[أنشئ بهذا التوجيه · ImagineVid](https://imaginevid.io/ar/ai-video-generator)**
+**[أنشئ بهذا التوجيه · ImagineVid](https://imaginevid.io/ar/reference-video)**
 
 ---
 
@@ -326,7 +326,7 @@ A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyw
 - **تاريخ النشر:** 7 يوليو 2026
 - **لغة المطالبة:** en
 
-**[أنشئ بهذا التوجيه · ImagineVid](https://imaginevid.io/ar/ai-video-generator)**
+**[أنشئ بهذا التوجيه · ImagineVid](https://imaginevid.io/ar/reference-video)**
 
 ---
 
@@ -397,7 +397,7 @@ A mother duck leads a line of exactly FIVE ducklings toward a curb; the fifth an
 - **تاريخ النشر:** 7 يوليو 2026
 - **لغة المطالبة:** en
 
-**[أنشئ بهذا التوجيه · ImagineVid](https://imaginevid.io/ar/ai-video-generator)**
+**[أنشئ بهذا التوجيه · ImagineVid](https://imaginevid.io/ar/reference-video)**
 
 ---
 
@@ -447,7 +447,7 @@ First-person point of view strolling along the edge of a small half-frozen pond 
 - **تاريخ النشر:** 7 يوليو 2026
 - **لغة المطالبة:** en
 
-**[أنشئ بهذا التوجيه · ImagineVid](https://imaginevid.io/ar/ai-video-generator)**
+**[أنشئ بهذا التوجيه · ImagineVid](https://imaginevid.io/ar/reference-video)**
 
 ---
 
@@ -496,10 +496,10 @@ First-person point of view strolling along the edge of a small half-frozen pond 
 
 <div align="center">
 
-**[أنشئ باستخدام Muse Video](https://imaginevid.io/ar/ai-video-generator)** •
+**[أنشئ باستخدام Muse Video](https://imaginevid.io/ar/reference-video)** •
 **[أرسل مثالًا موثّقًا](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ضع نجمة للمجموعة](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>وُلّد من بيانات محلية مُدارة بالإصدارات في 2026-07-19T03:40:55.564Z</sub>
+<sub>وُلّد من بيانات محلية مُدارة بالإصدارات في 2026-07-19T04:54:16.186Z</sub>
 
 </div>

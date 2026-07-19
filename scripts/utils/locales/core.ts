@@ -217,7 +217,7 @@ export const CORE_TRANSLATIONS: Record<string, Translation> = {
     "sourceAndResultFrames": "Quell- und Ergebnisframes",
     "generatedImages": "Videoergebnis",
     "details": "Nachweise",
-    "author": "Creator",
+    "author": "Erstellt von",
     "source": "Kanonische Quelle",
     "published": "Veröffentlicht",
     "tryItNow": "Mit dieser Regie erstellen",

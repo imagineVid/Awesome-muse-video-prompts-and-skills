@@ -24,7 +24,7 @@
 
 ## Muse Videoで制作する
 
-**[ImagineVidでMuse Videoワークフローを開く](https://imaginevid.io/ja/ai-video-generator)**
+**[ImagineVidでMuse Videoワークフローを開く](https://imaginevid.io/ja/reference-video)**
 
 このリポジトリで、クリエイターの指示と生成された動きを比較できます。ショットの文法を新しいクリップに応用する準備ができたらImagineVidを開いてください。
 
@@ -78,7 +78,7 @@
 - **数と同一性を固定する** - 維持すべき被写体、顔、物体、空間関係を明記します
 - **連続性を明示的に守る** - 顔、製品形状、レイアウト、衣装、背景のうち、変化させてはいけないものを指定する
 
-**現在の参考資料：** [Meta AI engineering overview](https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/) · [Meta product announcement](https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/) · [Create videos on ImagineVid](https://imaginevid.io/ja/ai-video-generator)
+**現在の参考資料：** [Meta AI engineering overview](https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/) · [Meta product announcement](https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/) · [Create videos on ImagineVid](https://imaginevid.io/ja/reference-video)
 
 ### プロンプトをショットテンプレートに変える
 
@@ -183,7 +183,7 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 |--------|-------|
 | 検証済みケース | **5** |
 | 編集部のおすすめ | **3** |
-| 生成日時 | **2026年7月19日日曜日 3:40:55 UTC** |
+| 生成日時 | **2026年7月19日日曜日 4:54:16 UTC** |
 
 </div>
 
@@ -236,7 +236,7 @@ A photorealistic elephant stands improbably inside a small, warmly lit dining ro
 - **公開日:** 2026年7月7日
 - **プロンプト言語:** en
 
-**[この方向性で制作する · ImagineVid](https://imaginevid.io/ja/ai-video-generator)**
+**[この方向性で制作する · ImagineVid](https://imaginevid.io/ja/reference-video)**
 
 ---
 
@@ -281,7 +281,7 @@ A baby panda tumbling head over heels down a small grassy slope.
 - **公開日:** 2026年7月7日
 - **プロンプト言語:** en
 
-**[この方向性で制作する · ImagineVid](https://imaginevid.io/ja/ai-video-generator)**
+**[この方向性で制作する · ImagineVid](https://imaginevid.io/ja/reference-video)**
 
 ---
 
@@ -326,7 +326,7 @@ A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyw
 - **公開日:** 2026年7月7日
 - **プロンプト言語:** en
 
-**[この方向性で制作する · ImagineVid](https://imaginevid.io/ja/ai-video-generator)**
+**[この方向性で制作する · ImagineVid](https://imaginevid.io/ja/reference-video)**
 
 ---
 
@@ -397,7 +397,7 @@ A mother duck leads a line of exactly FIVE ducklings toward a curb; the fifth an
 - **公開日:** 2026年7月7日
 - **プロンプト言語:** en
 
-**[この方向性で制作する · ImagineVid](https://imaginevid.io/ja/ai-video-generator)**
+**[この方向性で制作する · ImagineVid](https://imaginevid.io/ja/reference-video)**
 
 ---
 
@@ -447,7 +447,7 @@ First-person point of view strolling along the edge of a small half-frozen pond 
 - **公開日:** 2026年7月7日
 - **プロンプト言語:** en
 
-**[この方向性で制作する · ImagineVid](https://imaginevid.io/ja/ai-video-generator)**
+**[この方向性で制作する · ImagineVid](https://imaginevid.io/ja/reference-video)**
 
 ---
 
@@ -496,10 +496,10 @@ ImagineVidが作成した編集テキストとコードは[CC BY 4.0](https://cr
 
 <div align="center">
 
-**[Muse Videoで制作する](https://imaginevid.io/ja/ai-video-generator)** •
+**[Muse Videoで制作する](https://imaginevid.io/ja/reference-video)** •
 **[検証済みケースを投稿する](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[コレクションにスターを付ける](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>バージョン管理されたローカルデータから生成： 2026-07-19T03:40:55.566Z</sub>
+<sub>バージョン管理されたローカルデータから生成： 2026-07-19T04:54:16.187Z</sub>
 
 </div>
