@@ -1,0 +1,164 @@
+{
+  "es": {
+    "1": {
+      "title": "Elefante en una cena incómoda",
+      "description": "Reconstrucción editorial del clip oficial para probar escala, oclusiones, reacciones y continuidad de la habitación.",
+      "content": "Un elefante fotorrealista se encuentra, de forma improbable, en un pequeño comedor de luz cálida durante una cena formal. Seis adultos están sentados alrededor de una mesa con asado, velas, flores y copas de vino. El elefante ocupa el fondo sin romper paredes ni muebles; alarga la trompa mientras los invitados lo descubren y reaccionan primero con sorpresa contenida y después con risas. Un único plano continuo a la altura de los ojos, con leve deriva de cámara en mano, miradas naturales, sombras de contacto creíbles, escala constante, lámparas cálidas, sonido ambiente, cubiertos discretos, sillas y una respiración suave del elefante. Sin cortes, invitados duplicados ni cambios en la mesa."
+    },
+    "2": {
+      "title": "Bebé panda rodando por una ladera",
+      "description": "Prompt oficial y conciso para estudiar continuidad corporal, contacto, pelaje y respuesta natural de cámara.",
+      "content": "Un bebé panda da volteretas cuesta abajo por una pequeña ladera cubierta de hierba."
+    },
+    "3": {
+      "title": "Malabares con cuatro naranjas y remate cómico",
+      "description": "Arco de diez segundos con conteo, interacción mano-objeto, fallo, actuación, física y foley sincronizado.",
+      "content": "Un hombre hace malabares con tres naranjas, añade una cuarta, las deja caer todas y aun así hace una reverencia. Luz natural cálida de mañana y cámara lenta suave. Un único momento continuo de unos 10 segundos, con inicio, giro y remate claros. AUDIO: ambiente de sala tranquilo y foley nítido. Fotorrealista, con iluminación y física naturales, como metraje real. No es dibujos animados ni está estilizado."
+    },
+    "4": {
+      "title": "Exactamente cinco patitos suben un escalón",
+      "description": "Prompt estricto que mantiene cinco animales estables mientras una acción retrasada crea obstáculo y resolución.",
+      "content": "Una madre pato guía una fila de exactamente CINCO patitos hacia un bordillo; el quinto, el más pequeño, tropieza con el escalón y después salta para reunirse con los demás. Hay exactamente cinco patitos en total, los mismos durante todo el vídeo. Nunca añadas, elimines, dupliques ni cambies su número; mantén los cinco visibles y coherentes de principio a fin. Luz acogedora de lámpara interior, aspecto auténtico de vídeo doméstico y encuadre de cámara en mano ligeramente imperfecto. Un único momento continuo de unos 10 segundos con inicio, obstáculo y resolución claros. Audio: pasos palmeados suaves, pequeños píos, ambiente de sala, un roce en el bordillo y un pío alegre al conseguirlo el último patito."
+    },
+    "5": {
+      "title": "Paseo nocturno junto a un estanque semicongelado",
+      "description": "Escena inmersiva en primera persona con paso de cámara, nieve, reflejos, ambiente sonoro y punto de vista continuo.",
+      "content": "Punto de vista en primera persona paseando por el borde de un pequeño estanque medio helado en un parque suburbano nevado de noche. Juncos y espadañas con nieve bordean la orilla mientras cae nieve fresca. La luz naranja de las farolas se refleja suavemente en el agua oscura que sigue abierta. Atmósfera serena, con el leve fluir del agua sin congelar, una brisa entre los juncos, quietud amortiguada por la nieve y pasos suaves. Cámara de paseo natural en mano, cinematográfica y meditativa."
+    }
+  },
+  "de": {
+    "1": {
+      "title": "Elefant bei einer peinlichen Dinnerparty",
+      "description": "Redaktionelle Rekonstruktion des offiziellen Clips zu Maßstab, Verdeckung, Reaktionen und Raumkontinuität.",
+      "content": "Ein fotorealistischer Elefant steht während eines formellen Abendessens auf unwahrscheinliche Weise in einem kleinen, warm beleuchteten Esszimmer. Sechs Erwachsene sitzen an einem Tisch mit Braten, Kerzen, Blumen und Weingläsern. Der Elefant füllt den hinteren Raum, ohne Wände oder Möbel zu beschädigen; sein Rüssel reicht nach vorn, während die Gäste ihn bemerken und erst verhalten überrascht, dann lachend reagieren. Eine durchgehende Einstellung auf Augenhöhe mit sanftem Handkamera-Drift, natürlichen Blickachsen, glaubwürdigen Kontaktschatten, gleichbleibender Elefantengröße, warmen Lampen, Raumton, leisem Besteck, Stuhlbewegungen und einem sanften Atemzug. Keine Schnitte, keine doppelten Gäste, keine veränderte Tischanordnung."
+    },
+    "2": {
+      "title": "Panda-Baby rollt einen Grashang hinunter",
+      "description": "Metas knapper Tierbewegungs-Prompt für Körperkontinuität, Kontaktphysik, Fell und natürliche Kamera.",
+      "content": "Ein Panda-Baby purzelt kopfüber einen kleinen Grashang hinunter."
+    },
+    "3": {
+      "title": "Vier-Orangen-Jonglage mit komischer Pointe",
+      "description": "Zehnsekündiger Bogen aus Zählen, Hand-Objekt-Kontakt, Scheitern, Performance, Physik und synchronem Foley.",
+      "content": "Ein Mann jongliert drei Orangen, nimmt eine vierte hinzu, lässt alle fallen und verbeugt sich trotzdem. Warmes natürliches Morgenlicht, sanfte Zeitlupe. Ein zusammenhängender Moment von etwa 10 Sekunden mit klarem Anfang, Wendung und Abschluss. AUDIO: ruhiger Raumton mit präzisem Foley. Fotorealistisch, natürliche Beleuchtung und Physik, glaubwürdiges Realfilm-Material. Kein Cartoon, nicht stilisiert."
+    },
+    "4": {
+      "title": "Genau fünf Entenküken steigen eine Stufe hinauf",
+      "description": "Strenger Kontinuitäts-Prompt mit fünf stabilen Tieren, einem Hindernis und klarer Auflösung.",
+      "content": "Eine Entenmutter führt eine Reihe von genau FÜNF Küken zu einer Bordsteinkante; das fünfte und kleinste kämpft mit der Stufe und hüpft dann zu den anderen. Insgesamt sind es genau fünf Küken, durchgehend dieselben. Niemals Küken hinzufügen, entfernen, duplizieren oder ihre Anzahl ändern; alle fünf von Anfang bis Ende sichtbar und konsistent halten. Gemütliches Lampenlicht, authentische Heimvideo-Optik und leicht unperfekte Handkamera. Ein durchgehender Moment von etwa 10 Sekunden mit Anfang, Hindernis und Auflösung. Audio: leise Schwimmfußschritte, Piepsen, Raumton, ein Kratzen an der Kante und ein helles Piepsen beim Erfolg des letzten Kükens."
+    },
+    "5": {
+      "title": "Nachtspaziergang an einem halb gefrorenen Teich",
+      "description": "Immersive Ich-Perspektive mit Gehbewegung, Schnee, Spiegelungen, Umgebungston und ununterbrochenem Blick.",
+      "content": "Ich-Perspektive bei einem Spaziergang am Rand eines kleinen halb gefrorenen Teichs in einem verschneiten Vorstadtpark bei Nacht. Schneebedeckte Gräser und Rohrkolben säumen das Ufer; frischer Schnee fällt sanft. Warmes oranges Laternenlicht spiegelt sich auf dem dunklen offenen Wasser. Ruhige Naturgeräusche: leises Rinnen ungefrorenen Wassers, Wind im Schilf, schneegedämpfte Stille und sanfte Schritte. Natürliche Handkamera beim Gehen, filmisch und meditativ."
+    }
+  },
+  "fr": {
+    "1": {
+      "title": "Un éléphant à un dîner gênant",
+      "description": "Reconstruction éditoriale du clip officiel pour tester échelle, occlusions, réactions et continuité de la pièce.",
+      "content": "Un éléphant photoréaliste se tient de façon improbable dans une petite salle à manger chaleureusement éclairée pendant un dîner formel. Six adultes sont assis autour d'une table avec rôti, bougies, fleurs et verres de vin. L'éléphant occupe le fond sans briser murs ni meubles ; sa trompe avance tandis que les convives le remarquent et passent d'une surprise retenue au rire. Un seul plan continu à hauteur des yeux, légère dérive à main levée, regards naturels, ombres de contact crédibles, échelle constante, lampes chaudes, ambiance de pièce, couverts discrets, mouvements de chaises et souffle doux de l'éléphant. Aucun raccord, invité dupliqué ni changement de table."
+    },
+    "2": {
+      "title": "Un bébé panda dévale une pente herbeuse",
+      "description": "Prompt animalier officiel et concis pour étudier continuité du corps, contacts, fourrure et caméra naturelle.",
+      "content": "Un bébé panda dégringole tête par-dessus pattes le long d'une petite pente herbeuse."
+    },
+    "3": {
+      "title": "Jonglage à quatre oranges avec chute comique",
+      "description": "Arc de dix secondes combinant comptage, interaction main-objet, échec, jeu, physique et bruitage synchronisé.",
+      "content": "Un homme jongle avec trois oranges, en ajoute une quatrième, les fait toutes tomber et salue malgré tout. Lumière matinale naturelle et chaude, léger ralenti. Un seul moment continu d'environ 10 secondes, avec début, bascule et chute clairement lisibles. AUDIO : ambiance calme de la pièce et bruitages nets. Photoréaliste, lumière et physique naturelles, comme une vraie prise de vue. Ni dessin animé ni stylisation."
+    },
+    "4": {
+      "title": "Exactement cinq canetons franchissent une marche",
+      "description": "Prompt strict qui maintient cinq animaux stables pendant qu'un retard crée obstacle et résolution.",
+      "content": "Une cane mène une file d'exactement CINQ canetons vers une bordure ; le cinquième, le plus petit, bute sur la marche puis saute pour rejoindre les autres. Il y a exactement cinq canetons au total, les mêmes pendant toute la vidéo. Ne jamais en ajouter, retirer, dupliquer ni modifier le nombre ; garder les cinq visibles et cohérents du début à la fin. Lumière intérieure chaleureuse, aspect authentique de vidéo familiale, cadrage à main levée légèrement imparfait. Un seul moment continu d'environ 10 secondes avec début, obstacle et résolution. Audio : petits pas palmés, pépiements, ambiance de pièce, frottement sur la bordure puis pépiement vif quand le dernier réussit."
+    },
+    "5": {
+      "title": "Marche nocturne près d'un étang à moitié gelé",
+      "description": "POV immersif fondé sur la marche, la neige, les reflets, l'ambiance sonore et un regard continu.",
+      "content": "Point de vue à la première personne longeant un petit étang à moitié gelé dans un parc de banlieue enneigé, la nuit. Roseaux et massettes poudrés de neige bordent la rive sous une chute légère de neige fraîche. La lumière orange des lampadaires se reflète doucement sur l'eau sombre encore libre. Ambiance paisible : faible ruissellement, brise dans les roseaux, silence étouffé par la neige et pas délicats. Caméra à main naturelle, cinématographique et méditative."
+    }
+  },
+  "ja": {
+    "1": {
+      "title": "気まずいディナーパーティーの象",
+      "description": "公式映像を編集的に再構成し、スケール、遮蔽、反応、室内の連続性を試します。",
+      "content": "フォーマルな夕食会が開かれる小さな暖色照明のダイニングに、フォトリアルな実物大の象があり得ない形で立っている。6人の大人がロースト料理、ろうそく、花、ワイングラスのあるテーブルを囲む。象は壁や家具を壊さず部屋の奥を満たし、鼻を前へ伸ばす。客は象に気づき、抑えた驚きから笑いへ変わる。目線の高さのワンカットで、わずかな手持ちの揺れ、自然な視線、説得力ある接地影、一定の象の大きさ、暖かな実用灯、室内音、静かな食器音、椅子の動き、象の柔らかな息を入れる。カット、客の複製、テーブル配置の変化は禁止。"
+    },
+    "2": {
+      "title": "草の斜面を転がるパンダの赤ちゃん",
+      "description": "身体の連続性、接触物理、毛並み、自然なカメラ反応を試す公式の短い動物プロンプトです。",
+      "content": "パンダの赤ちゃんが小さな草の斜面を頭から何度も転がり落ちる。"
+    },
+    "3": {
+      "title": "4個のオレンジのジャグリングとコミカルな結末",
+      "description": "数、手と物体、失敗、演技、物理、同期フォーリーを10秒の起承転結にまとめます。",
+      "content": "男性が3個のオレンジをジャグリングし、4個目を加え、全部落としてしまうが、それでもお辞儀をする。暖かな自然の朝光、穏やかなスローモーション。始まり、転換、オチが明確な約10秒のワンカット。音声：静かな室内音と鮮明なフォーリー。自然な照明と物理のフォトリアルな実写。アニメ調・スタイル化は禁止。"
+    },
+    "4": {
+      "title": "ちょうど5羽のアヒルの子が段差を上る",
+      "description": "5羽を固定したまま、遅れた1羽の障害と成功で物語を作る厳密な連続性プロンプトです。",
+      "content": "母ガモがちょうど5羽の子ガモを一列に連れて段差へ向かう。5羽目で最も小さい子ガモが段差に苦戦し、跳び上がって仲間に追いつく。子ガモは合計で必ず5羽、動画全体を通して同じ5羽にする。追加、削除、複製、数の変更は禁止し、最初から最後まで5羽を見える状態で一貫させる。暖かな室内ランプ、自然なホームビデオ風、少し不完全な手持ち構図。始まり、障害、成功が明確な約10秒のワンカット。音声：水かきの足音、小さな鳴き声、室内音、段差を擦る音、最後の1羽が成功したときの明るい鳴き声。"
+    },
+    "5": {
+      "title": "半分凍った池のそばを歩く夜",
+      "description": "歩行の揺れ、雪、反射、環境音、途切れない視点で構成する没入型一人称シーンです。",
+      "content": "雪の積もる郊外の公園で、夜、小さな半分凍った池の縁を歩く一人称視点。雪をかぶったアシやガマが岸辺に並び、新雪が静かに降る。暖かなオレンジ色の街灯が暗い開水面に柔らかく反射する。凍っていない水のかすかな流れ、アシを抜ける風、雪に吸われた遠い静けさ、雪上の穏やかな足音。自然な歩行の手持ちカメラ、映画的で瞑想的。"
+    }
+  },
+  "ko": {
+    "1": {
+      "title": "어색한 만찬의 코끼리",
+      "description": "공식 미리보기 장면을 재구성해 크기, 가림, 반응, 실내 연속성을 시험합니다.",
+      "content": "격식 있는 저녁 식사가 열리는 작고 따뜻한 조명의 식당 안에 실사 같은 코끼리가 뜻밖에도 서 있다. 성인 여섯 명이 구운 요리, 촛불, 꽃, 와인 잔이 놓인 테이블에 둘러앉아 있다. 코끼리는 벽이나 가구를 부수지 않은 채 방 뒤편을 가득 채우고 코를 앞으로 뻗는다. 손님들은 코끼리를 알아차리고 절제된 놀라움에서 웃음으로 반응한다. 눈높이의 단일 연속 샷, 미세한 핸드헬드 드리프트, 자연스러운 시선, 믿을 만한 접촉 그림자, 일정한 코끼리 크기, 따뜻한 실내등, 방의 환경음, 조용한 식기와 의자 소리, 부드러운 코끼리 숨소리. 컷, 중복 손님, 테이블 배치 변화는 없다."
+    },
+    "2": {
+      "title": "풀밭 비탈을 구르는 아기 판다",
+      "description": "몸의 연속성, 접촉 물리, 털, 자연스러운 카메라 반응을 살피는 짧은 공식 프롬프트입니다.",
+      "content": "아기 판다가 작은 풀밭 비탈을 머리부터 재주넘듯 굴러 내려간다."
+    },
+    "3": {
+      "title": "오렌지 네 개 저글링과 코믹한 결말",
+      "description": "개수, 손과 물체, 실패, 연기, 물리, 동기화된 폴리를 10초 안에 완성합니다.",
+      "content": "남자가 오렌지 세 개를 저글링하다 네 번째를 더하고, 전부 떨어뜨린 뒤에도 인사한다. 따뜻한 자연광의 아침, 부드러운 슬로모션. 시작, 전환, 결말이 분명한 약 10초의 단일 연속 순간. 오디오: 조용한 실내 환경음과 선명한 폴리. 자연스러운 조명과 물리의 사실적인 실제 영상. 만화나 스타일화 금지."
+    },
+    "4": {
+      "title": "정확히 다섯 마리 오리가 턱을 오르기",
+      "description": "다섯 마리를 유지하면서 마지막 한 마리의 지연 행동으로 장애와 해결을 만드는 엄격한 프롬프트입니다.",
+      "content": "어미 오리가 정확히 다섯 마리의 새끼 오리를 한 줄로 이끌고 턱으로 향한다. 다섯 번째이자 가장 작은 새끼가 턱에서 애를 먹다가 뛰어올라 다시 합류한다. 전체 영상에서 새끼 오리는 정확히 다섯 마리이며 처음부터 끝까지 같은 개체다. 추가, 삭제, 복제하거나 수를 바꾸지 말고 다섯 마리를 모두 보이게 일관되게 유지한다. 아늑한 실내 램프, 실제 홈비디오 느낌, 약간 불완전한 핸드헬드 구도. 시작, 장애물, 해결이 분명한 약 10초의 연속 순간. 오디오: 부드러운 물갈퀴 발소리, 작은 울음, 방의 환경음, 턱에 긁히는 소리, 마지막 새끼가 성공할 때 밝은 울음."
+    },
+    "5": {
+      "title": "반쯤 언 연못 옆 야간 산책",
+      "description": "걷는 흔들림, 눈, 반사, 환경음, 끊김 없는 시점을 중심으로 한 몰입형 1인칭 장면입니다.",
+      "content": "눈 내린 교외 공원의 작은 반쯤 언 연못 가장자리를 밤에 걷는 1인칭 시점. 눈 덮인 갈대와 부들이 둑을 따라 서 있고 새 눈이 부드럽게 내린다. 따뜻한 주황색 가로등이 어두운 열린 물에 은은히 반사된다. 얼지 않은 물의 미세한 흐름, 갈대 사이의 바람, 눈에 눌린 먼 고요, 부드러운 눈길 발소리. 자연스러운 보행 핸드헬드 카메라, 영화적이고 명상적이다."
+    }
+  },
+  "zh": {
+    "1": {
+      "title": "尴尬晚宴中的大象",
+      "description": "根据官方预览重构的镜头，用于测试比例、遮挡、人物反应与室内连续性。",
+      "content": "一头照片级真实的大象不可思议地站在一间温暖灯光的小餐厅里，现场正在举行正式晚宴。六名成年人围坐在摆有烤肉、蜡烛、鲜花和酒杯的餐桌旁。大象占据房间后方，却没有破坏墙壁或家具；它把鼻子伸向前方，客人注意到它后先克制地惊讶，随后笑起来。采用与人眼等高的一镜到底，轻微手持漂移，自然视线关系，可信接触阴影，大象比例始终一致，暖色实景灯，室内底噪，轻微餐具声、椅子移动声与大象柔和呼吸声。不要剪切，不要复制客人，不要改变餐桌布局。"
+    },
+    "2": {
+      "title": "翻滚下草坡的熊猫幼崽",
+      "description": "Meta 的简短动物运动提示，用于观察身体连续性、接触物理、毛发和自然镜头反应。",
+      "content": "一只熊猫幼崽在小草坡上头朝下连续翻滚。"
+    },
+    "3": {
+      "title": "四个橙子的杂耍失误与喜剧收尾",
+      "description": "在十秒内协调计数、手物交互、失误、表演、自然物理与同步拟音。",
+      "content": "一名男子先杂耍三个橙子，再加入第四个，最后全部掉落，但他仍然鞠躬谢幕。温暖自然的晨光，轻柔慢动作。约10秒的一镜到底，开端、转折和笑点清楚。音频：安静室内底噪与清晰拟音。照片级真实，自然光线与物理表现，像可信的真实拍摄。不要卡通，不要风格化。"
+    },
+    "4": {
+      "title": "恰好五只小鸭登上台阶",
+      "description": "严格保持五只动物稳定，通过最后一只的延迟动作构成障碍与解决。",
+      "content": "一只母鸭带着恰好五只小鸭排成一列走向台阶；第五只也是最小的一只在台阶前挣扎，随后跳上去重新加入队伍。总数必须恰好为五只，并且整段视频始终是同样五只。绝不添加、移除、复制或改变小鸭数量；从头到尾保持五只都可见且一致。温暖室内灯光，真实家庭录像质感，略不完美的自然手持构图。约10秒的一镜到底，开端、障碍和结果清楚。音频：轻柔蹼足声、小声啾鸣、室内底噪、台阶刮擦声，最后一只成功时发出明亮叫声。"
+    },
+    "5": {
+      "title": "半结冰池塘旁的夜间漫步",
+      "description": "围绕步行晃动、落雪、倒影、环境声与连续主观视角构成的沉浸场景。",
+      "content": "第一人称视角，夜间沿着积雪郊区公园内一座半结冰的小池塘边缘散步。岸边排列着覆雪的芦苇和香蒲，新雪缓缓落下。暖橙色路灯柔和倒映在深色未结冰水面上。氛围宁静：未冻水流的细微声、掠过芦苇的轻风、被雪吸收的远处寂静和轻柔踏雪声。自然步行手持镜头，电影感，冥想气质。"
+    }
+  }
+}

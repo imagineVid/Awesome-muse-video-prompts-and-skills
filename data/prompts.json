@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "model": "muse-video",
+    "title": { "en": "Elephant at an Awkward Dinner Party" },
+    "description": { "en": "An editorial reconstruction of Meta's official preview clip, designed to test scale, occlusion, reactions, and room continuity in one comic shot." },
+    "content": { "en": "A photorealistic elephant stands improbably inside a small, warmly lit dining room during a formal dinner party. Six adults sit around a table with roast dinner, candles, flowers, and wine glasses. The elephant fills the back of the room without breaking the walls or furniture; its trunk reaches forward as the guests notice it and react with restrained surprise, then laughter. One continuous eye-level shot with subtle handheld drift, natural eyelines, believable contact shadows, consistent elephant scale, warm practical lamps, room tone, quiet cutlery, chair movement, and a soft elephant breath. No cuts, no duplicated guests, no changing table layout." },
+    "sourceLink": "https://x.com/alexandr_wang/status/2074556839782416555",
+    "sourcePublishedAt": "2026-07-07T18:11:08.000Z",
+    "sourceMedia": ["https://pbs.twimg.com/amplify_video_thumb/2074556635603673089/img/JlQfo2X6eAfl_d_g.jpg"],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2074556635603673089/vid/avc1/1280x720/OJwJS5B7W51JCrdH.mp4?tag=28",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2074556635603673089/img/JlQfo2X6eAfl_d_g.jpg"
+    },
+    "author": { "name": "Alexandr Wang", "link": "https://x.com/alexandr_wang" },
+    "language": "en",
+    "featured": true,
+    "sort": 1,
+    "needReferenceImages": false,
+    "videoCategories": { "workflows": [{ "id": 61, "title": "Physical Motion & Temporal Consistency", "slug": "physical-motion-temporal-consistency" }] },
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2074556839782416555",
+      "prompt_source": "editorial_reconstruction_from_official_preview",
+      "model_evidence": "muse-video-official-preview",
+      "likeCount": 216,
+      "bookmarkCount": 19,
+      "viewCount": 45268,
+      "collected_at": "2026-07-19"
+    }
+  },
+  {
+    "id": 2,
+    "model": "muse-video",
+    "title": { "en": "Baby Panda Tumbles Down a Grassy Slope" },
+    "description": { "en": "Meta's concise animal-motion prompt, useful for studying body continuity, contact physics, fur, and natural outdoor camera response." },
+    "content": { "en": "A baby panda tumbling head over heels down a small grassy slope." },
+    "sourceLink": "https://x.com/alexandr_wang/status/2074556839782416555",
+    "sourcePublishedAt": "2026-07-07T18:11:08.000Z",
+    "sourceMedia": ["https://pbs.twimg.com/amplify_video_thumb/2074556657825202177/img/imtmutX_DBSPjify.jpg"],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2074556657825202177/vid/avc1/1280x720/CCByPOiRRLwPhYGM.mp4?tag=28",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2074556657825202177/img/imtmutX_DBSPjify.jpg"
+    },
+    "author": { "name": "Meta Superintelligence Labs", "link": "https://x.com/AIatMeta" },
+    "language": "en",
+    "featured": true,
+    "sort": 2,
+    "needReferenceImages": false,
+    "videoCategories": { "workflows": [{ "id": 62, "title": "Animals, Counting & Subject Continuity", "slug": "animals-counting-subject-continuity" }] },
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2074556839782416555",
+      "prompt_source": "exact_official_prompt",
+      "model_evidence": "muse-video-official-preview",
+      "likeCount": 216,
+      "bookmarkCount": 19,
+      "viewCount": 45268,
+      "collected_at": "2026-07-19"
+    }
+  },
+  {
+    "id": 3,
+    "model": "muse-video",
+    "title": { "en": "Four-Orange Juggle With a Comic Payoff" },
+    "description": { "en": "A complete ten-second arc that combines counting, hand-object interaction, failure, performance, natural physics, and synchronized foley." },
+    "content": { "en": "A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyway. Warm natural morning light, gentle slow motion. A single continuous approximately 10-second moment with a clear beginning, turn, and payoff. AUDIO: quiet room tone with crisp foley. Photorealistic, natural lighting and physics, believable real-world footage. Not a cartoon, not stylized." },
+    "sourceLink": "https://x.com/AIatMeta/status/2074600027733860758",
+    "sourcePublishedAt": "2026-07-07T21:02:45.000Z",
+    "sourceMedia": ["https://pbs.twimg.com/amplify_video_thumb/2074598559400247296/img/9mkUTmS0L1VPbKLA.jpg"],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2074598559400247296/vid/avc1/1280x720/MT-tOwM5MF3PII-y.mp4?tag=28",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2074598559400247296/img/9mkUTmS0L1VPbKLA.jpg"
+    },
+    "author": { "name": "Meta AI", "link": "https://x.com/AIatMeta" },
+    "language": "en",
+    "featured": true,
+    "sort": 3,
+    "needReferenceImages": false,
+    "videoCategories": { "workflows": [{ "id": 61, "title": "Physical Motion & Temporal Consistency", "slug": "physical-motion-temporal-consistency" }] },
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2074600027733860758",
+      "prompt_source": "exact_official_prompt",
+      "model_evidence": "muse-video-official-preview",
+      "likeCount": 828,
+      "bookmarkCount": 174,
+      "viewCount": 259667,
+      "collected_at": "2026-07-19"
+    }
+  },
+  {
+    "id": 4,
+    "model": "muse-video",
+    "title": { "en": "Exactly Five Ducklings Climb a Step" },
+    "description": { "en": "A strict continuity prompt that keeps five animals stable while one delayed action creates a beginning, obstacle, and resolution." },
+    "content": { "en": "A mother duck leads a line of exactly FIVE ducklings toward a curb; the fifth and smallest duckling struggles at the step, then hops up to rejoin the others. There are exactly five ducklings in total — the same five throughout the entire video. Never add, remove, duplicate, or change the number of ducklings; keep all five visible and consistent from start to finish. Cozy indoor lamplight, authentic home-video look, slightly imperfect handheld framing with natural shake. One continuous approximately 10-second moment with a clear beginning, obstacle, and payoff. Audio: soft webbed footsteps, tiny chirps, room tone, a small scrape at the curb, then a bright chirp when the last duckling succeeds." },
+    "sourceLink": "https://x.com/AIatMeta/status/2074600027733860758",
+    "sourcePublishedAt": "2026-07-07T21:02:45.000Z",
+    "sourceMedia": ["https://pbs.twimg.com/amplify_video_thumb/2074598584318611457/img/WJT3hrQ12GcGf2Ij.jpg"],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2074598584318611457/vid/avc1/1280x720/CIfMgD_fBAcwbknm.mp4?tag=28",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2074598584318611457/img/WJT3hrQ12GcGf2Ij.jpg"
+    },
+    "author": { "name": "Meta AI", "link": "https://x.com/AIatMeta" },
+    "language": "en",
+    "featured": false,
+    "sort": 4,
+    "needReferenceImages": false,
+    "videoCategories": { "workflows": [{ "id": 62, "title": "Animals, Counting & Subject Continuity", "slug": "animals-counting-subject-continuity" }] },
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2074600027733860758",
+      "prompt_source": "official_prompt_completed_from_visible_excerpt",
+      "model_evidence": "muse-video-official-preview",
+      "likeCount": 828,
+      "bookmarkCount": 174,
+      "viewCount": 259667,
+      "collected_at": "2026-07-19"
+    }
+  },
+  {
+    "id": 5,
+    "model": "muse-video",
+    "title": { "en": "Night Walk Beside a Half-Frozen Pond" },
+    "description": { "en": "An immersive first-person scene organized around handheld gait, snow, reflections, ambient sound, and a calm uninterrupted viewpoint." },
+    "content": { "en": "First-person point of view strolling along the edge of a small half-frozen pond in a snowy suburban park at night. Snow-dusted reeds and cattails line the bank; fresh snow falls gently. Warm orange lamplight reflects softly on the dark open water. Serene and peaceful, with quiet nature sounds: the faint trickle of unfrozen water, a soft breeze through the reeds, distant snow-muffled stillness, and gentle footsteps in the snow. Natural handheld walking camera, cinematic, meditative." },
+    "sourceLink": "https://x.com/AIatMeta/status/2074600027733860758",
+    "sourcePublishedAt": "2026-07-07T21:02:45.000Z",
+    "sourceMedia": ["https://pbs.twimg.com/amplify_video_thumb/2074599574837108737/img/xUm1Xaq31lQ8ggjj.jpg"],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2074599574837108737/vid/avc1/1280x720/FwxTRJjRv8yKuMqv.mp4?tag=28",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2074599574837108737/img/xUm1Xaq31lQ8ggjj.jpg"
+    },
+    "author": { "name": "Meta AI", "link": "https://x.com/AIatMeta" },
+    "language": "en",
+    "featured": false,
+    "sort": 5,
+    "needReferenceImages": false,
+    "videoCategories": { "workflows": [{ "id": 64, "title": "Camera Language & Immersive POV", "slug": "camera-language-immersive-pov" }] },
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2074600027733860758",
+      "prompt_source": "exact_official_prompt",
+      "model_evidence": "muse-video-official-preview",
+      "likeCount": 828,
+      "bookmarkCount": 174,
+      "viewCount": 259667,
+      "collected_at": "2026-07-19"
+    }
+  }
+]

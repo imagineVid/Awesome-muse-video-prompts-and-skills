@@ -1,0 +1,83 @@
+[
+  {
+    "id": 4,
+    "title": {
+      "en": "Muse Video Workflow Groups", "es": "Flujos de Muse Video", "pt": "Fluxos Muse Video",
+      "it": "Workflow Muse Video", "de": "Muse-Video-Workflows", "fr": "Workflows Muse Video",
+      "ar": "سير عمل Muse Video", "ja": "Muse Video ワークフロー", "ko": "Muse Video 워크플로",
+      "zh": "Muse Video 工作流", "nl": "Muse Video-workflows", "ru": "Сценарии Muse Video",
+      "tr": "Muse Video iş akışları", "pl": "Procesy Muse Video"
+    },
+    "slug": "video-workflow-groups",
+    "parentId": null,
+    "parentSlug": null,
+    "featured": false,
+    "sort": 0
+  },
+  {
+    "id": 61,
+    "title": {
+      "en": "Physical Motion & Temporal Consistency", "es": "Movimiento físico y coherencia temporal", "pt": "Movimento físico e coerência temporal",
+      "it": "Movimento fisico e coerenza temporale", "de": "Physische Bewegung und zeitliche Konsistenz", "fr": "Mouvement physique et cohérence temporelle",
+      "ar": "الحركة الفيزيائية والاتساق الزمني", "ja": "物理モーションと時間的一貫性", "ko": "물리적 움직임 및 시간 일관성",
+      "zh": "物理运动与时间一致性", "nl": "Fysieke beweging en temporele consistentie", "ru": "Физическое движение и временная целостность",
+      "tr": "Fiziksel hareket ve zamansal tutarlılık", "pl": "Ruch fizyczny i spójność czasowa"
+    },
+    "slug": "physical-motion-temporal-consistency", "parentId": 4, "parentSlug": "video-workflow-groups", "featured": true, "sort": 61
+  },
+  {
+    "id": 62,
+    "title": {
+      "en": "Animals, Counting & Subject Continuity", "es": "Animales, conteo y continuidad del sujeto", "pt": "Animais, contagem e continuidade do sujeito",
+      "it": "Animali, conteggio e continuità del soggetto", "de": "Tiere, Zählung und Motivkontinuität", "fr": "Animaux, comptage et continuité du sujet",
+      "ar": "الحيوانات والعد واستمرارية الموضوع", "ja": "動物、数、被写体の連続性", "ko": "동물, 개수 및 피사체 연속성",
+      "zh": "动物、计数与主体连续性", "nl": "Dieren, telling en onderwerpcontinuïteit", "ru": "Животные, счёт и непрерывность объекта",
+      "tr": "Hayvanlar, sayım ve özne sürekliliği", "pl": "Zwierzęta, liczenie i ciągłość obiektu"
+    },
+    "slug": "animals-counting-subject-continuity", "parentId": 4, "parentSlug": "video-workflow-groups", "featured": true, "sort": 62
+  },
+  {
+    "id": 63,
+    "title": {
+      "en": "Native Audio, Dialogue & Foley", "es": "Audio nativo, diálogo y foley", "pt": "Áudio nativo, diálogo e foley",
+      "it": "Audio nativo, dialogo e foley", "de": "Nativer Ton, Dialog und Foley", "fr": "Audio natif, dialogue et bruitage",
+      "ar": "الصوت الأصلي والحوار والمؤثرات", "ja": "ネイティブ音声、台詞、フォーリー", "ko": "네이티브 오디오, 대사 및 폴리",
+      "zh": "原生音频、对白与拟音", "nl": "Native audio, dialoog en foley", "ru": "Нативный звук, диалог и фоли",
+      "tr": "Yerel ses, diyalog ve foley", "pl": "Natywny dźwięk, dialog i foley"
+    },
+    "slug": "native-audio-dialogue-foley", "parentId": 4, "parentSlug": "video-workflow-groups", "featured": true, "sort": 63
+  },
+  {
+    "id": 64,
+    "title": {
+      "en": "Camera Language & Immersive POV", "es": "Lenguaje de cámara y punto de vista inmersivo", "pt": "Linguagem de câmara e POV imersivo",
+      "it": "Linguaggio di camera e POV immersivo", "de": "Kamerasprache und immersive POV", "fr": "Langage caméra et POV immersif",
+      "ar": "لغة الكاميرا والمنظور الغامر", "ja": "カメラ言語と没入型POV", "ko": "카메라 언어 및 몰입형 POV",
+      "zh": "镜头语言与沉浸式主观视角", "nl": "Camerataal en meeslepend POV", "ru": "Язык камеры и иммерсивный POV",
+      "tr": "Kamera dili ve sürükleyici POV", "pl": "Język kamery i immersyjny POV"
+    },
+    "slug": "camera-language-immersive-pov", "parentId": 4, "parentSlug": "video-workflow-groups", "featured": true, "sort": 64
+  },
+  {
+    "id": 65,
+    "title": {
+      "en": "Commercial Story Beats & Product Motion", "es": "Ritmo comercial y movimiento de producto", "pt": "Ritmo comercial e movimento de produto",
+      "it": "Beat pubblicitari e movimento prodotto", "de": "Werbe-Beats und Produktbewegung", "fr": "Temps forts publicitaires et mouvement produit",
+      "ar": "إيقاع الإعلان وحركة المنتج", "ja": "CMのビートと商品モーション", "ko": "광고 비트 및 제품 모션",
+      "zh": "商业叙事节拍与产品运动", "nl": "Commerciële beats en productbeweging", "ru": "Рекламные биты и движение продукта",
+      "tr": "Reklam ritmi ve ürün hareketi", "pl": "Rytm reklamowy i ruch produktu"
+    },
+    "slug": "commercial-story-beats-product-motion", "parentId": 4, "parentSlug": "video-workflow-groups", "featured": true, "sort": 65
+  },
+  {
+    "id": 66,
+    "title": {
+      "en": "Stylized Animation & Educational Motion", "es": "Animación estilizada y movimiento educativo", "pt": "Animação estilizada e movimento educativo",
+      "it": "Animazione stilizzata e motion educativo", "de": "Stilisierte Animation und Lernmotion", "fr": "Animation stylisée et mouvement pédagogique",
+      "ar": "التحريك الفني والحركة التعليمية", "ja": "スタイライズドアニメーションと教育モーション", "ko": "스타일 애니메이션 및 교육 모션",
+      "zh": "风格化动画与教育演示", "nl": "Gestileerde animatie en educatieve motion", "ru": "Стилизованная и обучающая анимация",
+      "tr": "Stilize animasyon ve eğitici hareket", "pl": "Stylizowana animacja i ruch edukacyjny"
+    },
+    "slug": "stylized-animation-educational-motion", "parentId": 4, "parentSlug": "video-workflow-groups", "featured": true, "sort": 66
+  }
+]

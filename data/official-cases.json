@@ -1,0 +1,39 @@
+[
+  {
+    "slug": "official-preview-clips",
+    "title": "Official Muse Video Preview Clips",
+    "description": "Playable clips published by Meta and Alexandr Wang during the July 7, 2026 preview. Muse Video was still described as coming soon, not generally available.",
+    "cases": [
+      {
+        "id": 1,
+        "title": "Elephant at a dinner party",
+        "media": [{ "url": "https://pbs.twimg.com/amplify_video_thumb/2074556635603673089/img/JlQfo2X6eAfl_d_g.jpg", "height": 360 }],
+        "prompt": "Editorial reconstruction from the official preview: keep a full-size elephant, six guests, table setting, room geometry, reactions, and warm practical light coherent in one comic dinner-party shot."
+      },
+      {
+        "id": 2,
+        "title": "Baby panda tumbling down a grassy slope",
+        "media": [{ "url": "https://pbs.twimg.com/amplify_video_thumb/2074556657825202177/img/imtmutX_DBSPjify.jpg", "height": 360 }],
+        "prompt": "A baby panda tumbling head over heels down a small grassy slope."
+      },
+      {
+        "id": 3,
+        "title": "Four-orange juggling failure and bow",
+        "media": [{ "url": "https://pbs.twimg.com/amplify_video_thumb/2074598559400247296/img/9mkUTmS0L1VPbKLA.jpg", "height": 360 }],
+        "prompt": "A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyway. Warm natural morning light, gentle slow motion, one continuous approximately ten-second moment, quiet room tone, and crisp foley."
+      },
+      {
+        "id": 4,
+        "title": "Exactly five ducklings climb a step",
+        "media": [{ "url": "https://pbs.twimg.com/amplify_video_thumb/2074598584318611457/img/WJT3hrQ12GcGf2Ij.jpg", "height": 360 }],
+        "prompt": "A mother duck leads exactly five ducklings toward a curb; the fifth struggles, then hops up to rejoin the same group. Never add, remove, or duplicate a duckling."
+      },
+      {
+        "id": 5,
+        "title": "Immersive half-frozen pond walk",
+        "media": [{ "url": "https://pbs.twimg.com/amplify_video_thumb/2074599574837108737/img/xUm1Xaq31lQ8ggjj.jpg", "height": 360 }],
+        "prompt": "First-person night walk beside a half-frozen pond in falling snow, with warm lamplight on dark water, natural handheld gait, footsteps, breeze, reeds, and quiet winter ambience."
+      }
+    ]
+  }
+]
