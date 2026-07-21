@@ -181,9 +181,9 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 
 | Collectieveld | Huidige waarde |
 |--------|-------|
-| Geverifieerde voorbeelden | **5** |
-| Redactionele keuze | **3** |
-| Gegenereerd | **dinsdag 21 juli 2026 om 10:26:22 UTC** |
+| Geverifieerde voorbeelden | **6** |
+| Redactionele keuze | **4** |
+| Gegenereerd | **dinsdag 21 juli 2026 om 13:48:02 UTC** |
 
 </div>
 
@@ -330,6 +330,51 @@ A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyw
 
 ---
 
+<a id="prompt-6"></a>
+
+### #4: Productfilm voor bruisende Blush Fizz-limonade
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/Featured-gold-gold)
+
+#### Waarom de workflow belangrijk is
+
+Een drankspot van tien seconden voor stabiele etiketten, vloeistof, bubbels, garnering, macrofocus en een heldere merkafsluiting.
+
+#### Gelokaliseerde prompt
+
+```
+Maak een lichte tafelreclame van tien seconden voor een fictieve roze bruislimonade genaamd ‘BLUSH FIZZ’. Open met een koude glazen fles diagonaal in crushed ice, omringd door citroen, frambozen, munt, lichtroze bloemblaadjes en condens. Houd ‘BLUSH FIZZ’ en ‘SPARKLING LEMONADE’ exact leesbaar en onveranderd. Ga naar een macrozijaanzicht waarin de fles een ononderbroken stroom doorschijnende roze limonade schenkt in een hoog glas met ijs, citroen, frambozen en munt. Toon stijgende bubbels, realistische breking, nat glas en kleine spatten zonder product of garnering te veranderen. Eindig met een hero-close-up van het volle glas en hetzelfde fictieve logo rechtsonder. Roze-mintstudio, helder diffuus licht, geringe scherptediepte, vloeiende productcamera en heldere schenk- en bruisgeluiden. Geen handen, mensen, vervormd etiket, extra tekst of dubbel fruit.
+```
+
+<details>
+<summary>Oorspronkelijke bronprompt</summary>
+
+```
+Create a bright ten-second tabletop commercial for a fictional sparkling pink lemonade named "BLUSH FIZZ". Open on a cold glass bottle lying diagonally in crushed ice with lemon halves, raspberries, mint leaves, pale rose petals, and condensation beads. Keep the cream label and the exact words "BLUSH FIZZ" and "SPARKLING LEMONADE" readable and unchanged. Cut to a side macro shot as the bottle tilts and pours translucent blush-pink lemonade into a clear highball glass filled with ice, lemon slices, raspberries, and mint. Show a continuous liquid stream, rising bubbles, realistic refraction, wet glass, and small splashes without changing the bottle or garnish count. Finish on a close hero shot of the full sparkling glass with a lemon wheel, raspberry, mint sprig, and the same fictional logo in the lower right. Soft pink and mint studio set, high-key diffused light, shallow depth of field, smooth product-camera motion, crisp pour and fizz sounds, no hands or people, no warped label, no extra text, no duplicate fruit.
+```
+
+</details>
+
+#### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074600543469916160/vid/avc1/1280x720/JN6ZLW31OGfxXY1c.mp4?tag=14"><img src="https://pbs.twimg.com/amplify_video_thumb/2074600543469916160/img/pGerTyIfmrw1Cn_N.jpg" height="420" alt="Productfilm voor bruisende Blush Fizz-limonade - Motion preview"></a>
+
+*Klik op de voorvertoning om de video te openen* · **[▶ Video bekijken →](https://video.twimg.com/amplify_video/2074600543469916160/vid/avc1/1280x720/JN6ZLW31OGfxXY1c.mp4?tag=14)**
+</div>
+
+#### Bewijs
+
+- **Maker:** [Ishan Misra](https://x.com/imisra_)
+- **Canonieke bron:** [Canonieke bron](https://x.com/imisra_/status/2074600764451041536)
+- **Gepubliceerd:** 7 juli 2026
+- **Prompttaal:** en
+
+**[Maak met deze regie · ImagineVid](https://imaginevid.io/nl/reference-video)**
+
+---
+
 <a id="community-prompt-cases"></a>
 
 ## Workflows voor videoprompts
@@ -451,6 +496,16 @@ First-person point of view strolling along the edge of a small half-frozen pond 
 
 ---
 
+<a id="workflow-commercial-story-beats-product-motion"></a>
+
+### Commerciële beats en productbeweging (1)
+
+Commerciële briefings met een duidelijk product, publiek, beatvolgorde, bewegingsplan en eindbeeld.
+
+**Uitgelichte videoprompts**
+
+- [Productfilm voor bruisende Blush Fizz-limonade](#prompt-6)
+
 ## Een geverifieerd voorbeeld bijdragen
 
 Een Muse Video-voorbeeld gevonden dat een echte regiewerkwijze leert? Dien de prompt, het afspeelbare resultaat, de maker, bron, modelevidentie en invoermodus in via GitHub Issues.
@@ -478,9 +533,9 @@ Redactionele tekst en code van ImagineVid vallen onder [CC BY 4.0](https://creat
 ## Credits voor makers
 
 <details>
-<summary>Community creators we thank (2)</summary>
+<summary>Community creators we thank (3)</summary>
 
-[Alexandr Wang](https://x.com/alexandr_wang) · [Meta AI](https://x.com/AIatMeta)
+[Alexandr Wang](https://x.com/alexandr_wang) · [Ishan Misra](https://x.com/imisra_) · [Meta AI](https://x.com/AIatMeta)
 
 </details>
 
@@ -500,6 +555,6 @@ Redactionele tekst en code van ImagineVid vallen onder [CC BY 4.0](https://creat
 **[Een geverifieerd voorbeeld indienen](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Geef de collectie een ster](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>Gegenereerd uit versiebeheerste lokale data op 2026-07-21T10:26:22.327Z</sub>
+<sub>Gegenereerd uit versiebeheerste lokale data op 2026-07-21T13:48:02.008Z</sub>
 
 </div>

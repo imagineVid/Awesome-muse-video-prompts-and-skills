@@ -181,9 +181,9 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 
 | Collection field | Current value |
 |--------|-------|
-| Verified Cases | **5** |
-| Editorial pick | **3** |
-| Generated | **Tuesday, July 21, 2026 at 10:26:22 AM UTC** |
+| Verified Cases | **6** |
+| Editorial pick | **4** |
+| Generated | **Tuesday, July 21, 2026 at 1:48:01 PM UTC** |
 
 </div>
 
@@ -303,6 +303,42 @@ A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyw
 
 ---
 
+<a id="prompt-6"></a>
+
+### #4: Blush Fizz Sparkling Lemonade Product Film
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/Featured-gold-gold)
+
+#### Why the workflow matters
+
+A polished ten-second beverage spot that tests label stability, liquid motion, bubbles, garnish continuity, macro focus, and a clean branded finish.
+
+#### Source prompt
+
+```
+Create a bright ten-second tabletop commercial for a fictional sparkling pink lemonade named "BLUSH FIZZ". Open on a cold glass bottle lying diagonally in crushed ice with lemon halves, raspberries, mint leaves, pale rose petals, and condensation beads. Keep the cream label and the exact words "BLUSH FIZZ" and "SPARKLING LEMONADE" readable and unchanged. Cut to a side macro shot as the bottle tilts and pours translucent blush-pink lemonade into a clear highball glass filled with ice, lemon slices, raspberries, and mint. Show a continuous liquid stream, rising bubbles, realistic refraction, wet glass, and small splashes without changing the bottle or garnish count. Finish on a close hero shot of the full sparkling glass with a lemon wheel, raspberry, mint sprig, and the same fictional logo in the lower right. Soft pink and mint studio set, high-key diffused light, shallow depth of field, smooth product-camera motion, crisp pour and fizz sounds, no hands or people, no warped label, no extra text, no duplicate fruit.
+```
+
+#### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074600543469916160/vid/avc1/1280x720/JN6ZLW31OGfxXY1c.mp4?tag=14"><img src="https://pbs.twimg.com/amplify_video_thumb/2074600543469916160/img/pGerTyIfmrw1Cn_N.jpg" height="420" alt="Blush Fizz Sparkling Lemonade Product Film - Motion preview"></a>
+
+*Click the preview to open the video* · **[▶ Watch video →](https://video.twimg.com/amplify_video/2074600543469916160/vid/avc1/1280x720/JN6ZLW31OGfxXY1c.mp4?tag=14)**
+</div>
+
+#### Evidence
+
+- **Creator:** [Ishan Misra](https://x.com/imisra_)
+- **Canonical source:** [Canonical source](https://x.com/imisra_/status/2074600764451041536)
+- **Published:** July 7, 2026
+- **Prompt language:** en
+
+**[Use this prompt on ImagineVid](https://imaginevid.io/reference-video)**
+
+---
+
 <a id="community-prompt-cases"></a>
 
 ## Community Prompt Cases
@@ -406,6 +442,16 @@ First-person point of view strolling along the edge of a small half-frozen pond 
 
 ---
 
+<a id="workflow-commercial-story-beats-product-motion"></a>
+
+### Commercial Story Beats & Product Motion (1)
+
+Commercial briefs with a clear product, audience, sequence of beats, motion plan, and finishing frame.
+
+**Featured Community Prompts**
+
+- [Blush Fizz Sparkling Lemonade Product Film](#prompt-6)
+
 ## Contribute a Verified Case
 
 Found a Muse Video case that teaches a real directing pattern? Submit the prompt, playable result, creator, source, model evidence, and input mode through GitHub Issues.
@@ -433,9 +479,9 @@ ImagineVid-authored editorial text and code are licensed under [CC BY 4.0](https
 ## Creator Credits
 
 <details>
-<summary>Community creators we thank (2)</summary>
+<summary>Community creators we thank (3)</summary>
 
-[Alexandr Wang](https://x.com/alexandr_wang) · [Meta AI](https://x.com/AIatMeta)
+[Alexandr Wang](https://x.com/alexandr_wang) · [Ishan Misra](https://x.com/imisra_) · [Meta AI](https://x.com/AIatMeta)
 
 </details>
 
@@ -455,6 +501,6 @@ ImagineVid-authored editorial text and code are licensed under [CC BY 4.0](https
 **[Submit a verified case](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star the collection](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>Generated from versioned local data on 2026-07-21T10:26:22.296Z</sub>
+<sub>Generated from versioned local data on 2026-07-21T13:48:01.990Z</sub>
 
 </div>

@@ -181,9 +181,9 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 
 | コレクション項目 | 現在値 |
 |--------|-------|
-| 検証済みケース | **5** |
-| 編集部のおすすめ | **3** |
-| 生成日時 | **2026年7月21日火曜日 10:26:22 UTC** |
+| 検証済みケース | **6** |
+| 編集部のおすすめ | **4** |
+| 生成日時 | **2026年7月21日火曜日 13:48:02 UTC** |
 
 </div>
 
@@ -330,6 +330,51 @@ A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyw
 
 ---
 
+<a id="prompt-6"></a>
+
+### #4: 炭酸レモネード「Blush Fizz」の商品映像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/Featured-gold-gold)
+
+#### このワークフローが重要な理由
+
+ラベルの安定、液体と気泡、飾りの連続性、マクロ撮影、ブランドの締めを試す10秒の飲料広告です。
+
+#### ローカライズ済みプロンプト
+
+```
+架空のピンク色炭酸レモネード「BLUSH FIZZ」の明るい10秒商品広告を制作する。砕いた氷の上に冷えたガラス瓶を斜めに置き、半切りレモン、ラズベリー、ミント、薄桃色の花びら、結露を添えて始める。ラベルの「BLUSH FIZZ」と「SPARKLING LEMONADE」は正確に読み取れ、変化しない。横からのマクロへ切り替え、瓶から透明感のある桃色の飲料を、氷、レモン、ラズベリー、ミント入りの背の高いグラスへ途切れず注ぐ。上昇する泡、自然な屈折、濡れたガラス、小さな飛沫を見せ、瓶や飾りの数は変えない。最後は満たされたグラスと飾り、右下の同じ架空ロゴを寄りで見せる。ピンクとミントのスタジオ、明るい拡散光、浅い被写界深度、滑らかな商品カメラ、鮮明な注水音と発泡音。手、人物、歪んだラベル、追加文字、果物の複製は禁止。
+```
+
+<details>
+<summary>元のソースプロンプト</summary>
+
+```
+Create a bright ten-second tabletop commercial for a fictional sparkling pink lemonade named "BLUSH FIZZ". Open on a cold glass bottle lying diagonally in crushed ice with lemon halves, raspberries, mint leaves, pale rose petals, and condensation beads. Keep the cream label and the exact words "BLUSH FIZZ" and "SPARKLING LEMONADE" readable and unchanged. Cut to a side macro shot as the bottle tilts and pours translucent blush-pink lemonade into a clear highball glass filled with ice, lemon slices, raspberries, and mint. Show a continuous liquid stream, rising bubbles, realistic refraction, wet glass, and small splashes without changing the bottle or garnish count. Finish on a close hero shot of the full sparkling glass with a lemon wheel, raspberry, mint sprig, and the same fictional logo in the lower right. Soft pink and mint studio set, high-key diffused light, shallow depth of field, smooth product-camera motion, crisp pour and fizz sounds, no hands or people, no warped label, no extra text, no duplicate fruit.
+```
+
+</details>
+
+#### 動画
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074600543469916160/vid/avc1/1280x720/JN6ZLW31OGfxXY1c.mp4?tag=14"><img src="https://pbs.twimg.com/amplify_video_thumb/2074600543469916160/img/pGerTyIfmrw1Cn_N.jpg" height="420" alt="炭酸レモネード「Blush Fizz」の商品映像 - Motion preview"></a>
+
+*プレビューをクリックして動画を開く* · **[▶ 動画を見る →](https://video.twimg.com/amplify_video/2074600543469916160/vid/avc1/1280x720/JN6ZLW31OGfxXY1c.mp4?tag=14)**
+</div>
+
+#### エビデンス
+
+- **クリエイター:** [Ishan Misra](https://x.com/imisra_)
+- **正規の出典:** [正規の出典](https://x.com/imisra_/status/2074600764451041536)
+- **公開日:** 2026年7月7日
+- **プロンプト言語:** en
+
+**[この方向性で制作する · ImagineVid](https://imaginevid.io/ja/reference-video)**
+
+---
+
 <a id="community-prompt-cases"></a>
 
 ## 動画プロンプトのワークフロー
@@ -451,6 +496,16 @@ First-person point of view strolling along the edge of a small half-frozen pond 
 
 ---
 
+<a id="workflow-commercial-story-beats-product-motion"></a>
+
+### CMのビートと商品モーション (1)
+
+製品、対象者、展開、動き、最終フレームを明確にした広告ブリーフ。
+
+**注目のビデオプロンプト**
+
+- [炭酸レモネード「Blush Fizz」の商品映像](#prompt-6)
+
 ## 検証済みケースを投稿する
 
 実際の演出パターンを学べるMuse Videoのケースを見つけましたか？プロンプト、再生可能な結果、クリエイター、出典、モデルエビデンス、入力モードをGitHub Issuesから送ってください。
@@ -478,9 +533,9 @@ ImagineVidが作成した編集テキストとコードは[CC BY 4.0](https://cr
 ## クリエイタークレジット
 
 <details>
-<summary>Community creators we thank (2)</summary>
+<summary>Community creators we thank (3)</summary>
 
-[Alexandr Wang](https://x.com/alexandr_wang) · [Meta AI](https://x.com/AIatMeta)
+[Alexandr Wang](https://x.com/alexandr_wang) · [Ishan Misra](https://x.com/imisra_) · [Meta AI](https://x.com/AIatMeta)
 
 </details>
 
@@ -500,6 +555,6 @@ ImagineVidが作成した編集テキストとコードは[CC BY 4.0](https://cr
 **[検証済みケースを投稿する](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[コレクションにスターを付ける](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>バージョン管理されたローカルデータから生成： 2026-07-21T10:26:22.319Z</sub>
+<sub>バージョン管理されたローカルデータから生成： 2026-07-21T13:48:02.004Z</sub>
 
 </div>

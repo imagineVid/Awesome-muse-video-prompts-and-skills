@@ -148,5 +148,35 @@
       "viewCount": 259667,
       "collected_at": "2026-07-19"
     }
+  },
+  {
+    "id": 6,
+    "model": "muse-video",
+    "title": { "en": "Blush Fizz Sparkling Lemonade Product Film" },
+    "description": { "en": "A polished ten-second beverage spot that tests label stability, liquid motion, bubbles, garnish continuity, macro focus, and a clean branded finish." },
+    "content": { "en": "Create a bright ten-second tabletop commercial for a fictional sparkling pink lemonade named \"BLUSH FIZZ\". Open on a cold glass bottle lying diagonally in crushed ice with lemon halves, raspberries, mint leaves, pale rose petals, and condensation beads. Keep the cream label and the exact words \"BLUSH FIZZ\" and \"SPARKLING LEMONADE\" readable and unchanged. Cut to a side macro shot as the bottle tilts and pours translucent blush-pink lemonade into a clear highball glass filled with ice, lemon slices, raspberries, and mint. Show a continuous liquid stream, rising bubbles, realistic refraction, wet glass, and small splashes without changing the bottle or garnish count. Finish on a close hero shot of the full sparkling glass with a lemon wheel, raspberry, mint sprig, and the same fictional logo in the lower right. Soft pink and mint studio set, high-key diffused light, shallow depth of field, smooth product-camera motion, crisp pour and fizz sounds, no hands or people, no warped label, no extra text, no duplicate fruit." },
+    "sourceLink": "https://x.com/imisra_/status/2074600764451041536",
+    "sourcePublishedAt": "2026-07-07T21:05:41.000Z",
+    "sourceMedia": ["https://pbs.twimg.com/amplify_video_thumb/2074600543469916160/img/pGerTyIfmrw1Cn_N.jpg"],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2074600543469916160/vid/avc1/1280x720/JN6ZLW31OGfxXY1c.mp4?tag=14",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2074600543469916160/img/pGerTyIfmrw1Cn_N.jpg"
+    },
+    "author": { "name": "Ishan Misra", "link": "https://x.com/imisra_" },
+    "language": "en",
+    "featured": true,
+    "sort": 6,
+    "needReferenceImages": false,
+    "videoCategories": { "workflows": [{ "id": 65, "title": "Commercial Story Beats & Product Motion", "slug": "commercial-story-beats-product-motion" }] },
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2074600764451041536",
+      "prompt_source": "english_production_reconstruction_from_official_preview",
+      "model_evidence": "muse-video-official-preview",
+      "likeCount": 40,
+      "bookmarkCount": 4,
+      "viewCount": 1764,
+      "collected_at": "2026-07-21"
+    }
   }
 ]

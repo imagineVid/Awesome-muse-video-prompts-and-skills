@@ -181,9 +181,9 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 
 | 集合字段 | 当前值 |
 |--------|-------|
-| 已核验案例 | **5** |
-| 编辑精选 | **3** |
-| 生成时间 | **2026年7月21日星期二 UTC 10:26:22** |
+| 已核验案例 | **6** |
+| 编辑精选 | **4** |
+| 生成时间 | **2026年7月21日星期二 UTC 13:48:02** |
 
 </div>
 
@@ -330,6 +330,51 @@ A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyw
 
 ---
 
+<a id="prompt-6"></a>
+
+### #4: Blush Fizz 气泡柠檬水产品短片
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/Featured-gold-gold)
+
+#### 工作流为何重要
+
+一支十秒饮料广告，用于检验标签稳定性、液体运动、气泡、配料连续性、微距焦点和品牌收尾。
+
+#### 本地化提示词
+
+```
+为虚构粉色气泡柠檬水“BLUSH FIZZ”制作一支明亮的十秒桌面广告。开场是一只冰冷玻璃瓶斜放在碎冰中，周围有半只柠檬、覆盆子、薄荷、淡粉花瓣和凝结水珠。奶油色标签上的“BLUSH FIZZ”和“SPARKLING LEMONADE”必须始终清晰可读且不变形。切到侧面微距，瓶子把半透明粉色柠檬水连续倒入装有冰块、柠檬片、覆盆子和薄荷的高杯。展示上升气泡、真实折射、湿润杯壁和细小飞溅，不改变瓶子或配料数量。结尾用近距离英雄镜头展示装满的气泡饮料、柠檬轮、覆盆子、薄荷枝，以及右下角同一个虚构标志。粉色与薄荷色影棚，明亮柔光，浅景深，流畅产品运镜，清晰的倒水声和气泡声。不要手、人物、扭曲标签、额外文字或重复水果。
+```
+
+<details>
+<summary>原始来源提示词</summary>
+
+```
+Create a bright ten-second tabletop commercial for a fictional sparkling pink lemonade named "BLUSH FIZZ". Open on a cold glass bottle lying diagonally in crushed ice with lemon halves, raspberries, mint leaves, pale rose petals, and condensation beads. Keep the cream label and the exact words "BLUSH FIZZ" and "SPARKLING LEMONADE" readable and unchanged. Cut to a side macro shot as the bottle tilts and pours translucent blush-pink lemonade into a clear highball glass filled with ice, lemon slices, raspberries, and mint. Show a continuous liquid stream, rising bubbles, realistic refraction, wet glass, and small splashes without changing the bottle or garnish count. Finish on a close hero shot of the full sparkling glass with a lemon wheel, raspberry, mint sprig, and the same fictional logo in the lower right. Soft pink and mint studio set, high-key diffused light, shallow depth of field, smooth product-camera motion, crisp pour and fizz sounds, no hands or people, no warped label, no extra text, no duplicate fruit.
+```
+
+</details>
+
+#### 视频
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074600543469916160/vid/avc1/1280x720/JN6ZLW31OGfxXY1c.mp4?tag=14"><img src="https://pbs.twimg.com/amplify_video_thumb/2074600543469916160/img/pGerTyIfmrw1Cn_N.jpg" height="420" alt="Blush Fizz 气泡柠檬水产品短片 - Motion preview"></a>
+
+*点击预览图打开视频* · **[▶ 观看视频 →](https://video.twimg.com/amplify_video/2074600543469916160/vid/avc1/1280x720/JN6ZLW31OGfxXY1c.mp4?tag=14)**
+</div>
+
+#### 证据
+
+- **创作者:** [Ishan Misra](https://x.com/imisra_)
+- **规范来源:** [规范来源](https://x.com/imisra_/status/2074600764451041536)
+- **发布时间:** 2026年7月7日
+- **提示词语言:** en
+
+**[按此方向创作 · ImagineVid](https://imaginevid.io/zh/reference-video)**
+
+---
+
 <a id="community-prompt-cases"></a>
 
 ## 视频提示词工作流
@@ -451,6 +496,16 @@ First-person point of view strolling along the edge of a small half-frozen pond 
 
 ---
 
+<a id="workflow-commercial-story-beats-product-motion"></a>
+
+### 商业叙事节拍与产品运动 (1)
+
+明确产品、受众、叙事节拍、运动方案与收尾画面的商业简报。
+
+**精选视频提示词**
+
+- [Blush Fizz 气泡柠檬水产品短片](#prompt-6)
+
 ## 贡献已核验案例
 
 找到能教会真实导演模式的 Muse Video 案例？通过 GitHub Issues 提交提示词、可播放结果、创作者、来源、模型证据和输入模式。
@@ -478,9 +533,9 @@ ImagineVid 编写的编辑文本和代码依据 [CC BY 4.0](https://creativecomm
 ## 创作者鸣谢
 
 <details>
-<summary>查看并感谢社区作者 (2)</summary>
+<summary>查看并感谢社区作者 (3)</summary>
 
-[Alexandr Wang](https://x.com/alexandr_wang) · [Meta AI](https://x.com/AIatMeta)
+[Alexandr Wang](https://x.com/alexandr_wang) · [Ishan Misra](https://x.com/imisra_) · [Meta AI](https://x.com/AIatMeta)
 
 </details>
 
@@ -500,6 +555,6 @@ ImagineVid 编写的编辑文本和代码依据 [CC BY 4.0](https://creativecomm
 **[提交已核验案例](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[为集合加星](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>根据版本化本地数据生成于 2026-07-21T10:26:22.325Z</sub>
+<sub>根据版本化本地数据生成于 2026-07-21T13:48:02.007Z</sub>
 
 </div>

@@ -181,9 +181,9 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 
 | Pole kolekcji | Bieżąca wartość |
 |--------|-------|
-| Zweryfikowane przykłady | **5** |
-| Wybór redakcji | **3** |
-| Wygenerowano | **wtorek, 21 lipca 2026 10:26:22 UTC** |
+| Zweryfikowane przykłady | **6** |
+| Wybór redakcji | **4** |
+| Wygenerowano | **wtorek, 21 lipca 2026 13:48:02 UTC** |
 
 </div>
 
@@ -330,6 +330,51 @@ A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyw
 
 ---
 
+<a id="prompt-6"></a>
+
+### #4: Film produktowy gazowanej lemoniady Blush Fizz
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/Featured-gold-gold)
+
+#### Dlaczego ten workflow ma znaczenie
+
+Dziesięciosekundowy spot testujący stabilność etykiety, ruch płynu, bąbelki, ciągłość dodatków, makro i finał marki.
+
+#### Prompt zlokalizowany
+
+```
+Stwórz jasną, dziesięciosekundową reklamę stołową fikcyjnej różowej lemoniady gazowanej „BLUSH FIZZ”. Zacznij od zimnej szklanej butelki ułożonej po skosie w kruszonym lodzie, z cytrynami, malinami, miętą, jasnoróżowymi płatkami i kondensacją. Napisy „BLUSH FIZZ” oraz „SPARKLING LEMONADE” pozostają dokładnie czytelne. Przejdź do bocznego makro, gdy butelka nieprzerwanym strumieniem nalewa półprzezroczysty różowy napój do wysokiej szklanki z lodem, cytryną, malinami i miętą. Pokaż unoszące się bąbelki, realistyczne załamanie, mokre szkło i drobne rozpryski bez zmiany produktu lub dodatków. Zakończ zbliżeniem pełnej szklanki i tego samego fikcyjnego logo w prawym dolnym rogu. Różowo-miętowe studio, jasne światło rozproszone, mała głębia ostrości, płynna kamera oraz wyraźne odgłosy nalewania i musowania. Bez dłoni, ludzi, zniekształconej etykiety, dodatkowego tekstu i zdublowanych owoców.
+```
+
+<details>
+<summary>Oryginalny prompt źródłowy</summary>
+
+```
+Create a bright ten-second tabletop commercial for a fictional sparkling pink lemonade named "BLUSH FIZZ". Open on a cold glass bottle lying diagonally in crushed ice with lemon halves, raspberries, mint leaves, pale rose petals, and condensation beads. Keep the cream label and the exact words "BLUSH FIZZ" and "SPARKLING LEMONADE" readable and unchanged. Cut to a side macro shot as the bottle tilts and pours translucent blush-pink lemonade into a clear highball glass filled with ice, lemon slices, raspberries, and mint. Show a continuous liquid stream, rising bubbles, realistic refraction, wet glass, and small splashes without changing the bottle or garnish count. Finish on a close hero shot of the full sparkling glass with a lemon wheel, raspberry, mint sprig, and the same fictional logo in the lower right. Soft pink and mint studio set, high-key diffused light, shallow depth of field, smooth product-camera motion, crisp pour and fizz sounds, no hands or people, no warped label, no extra text, no duplicate fruit.
+```
+
+</details>
+
+#### Wideo
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074600543469916160/vid/avc1/1280x720/JN6ZLW31OGfxXY1c.mp4?tag=14"><img src="https://pbs.twimg.com/amplify_video_thumb/2074600543469916160/img/pGerTyIfmrw1Cn_N.jpg" height="420" alt="Film produktowy gazowanej lemoniady Blush Fizz - Motion preview"></a>
+
+*Kliknij podgląd, aby otworzyć wideo* · **[▶ Obejrzyj wideo →](https://video.twimg.com/amplify_video/2074600543469916160/vid/avc1/1280x720/JN6ZLW31OGfxXY1c.mp4?tag=14)**
+</div>
+
+#### Dowody
+
+- **Twórca:** [Ishan Misra](https://x.com/imisra_)
+- **Źródło kanoniczne:** [Źródło kanoniczne](https://x.com/imisra_/status/2074600764451041536)
+- **Opublikowano:** 7 lipca 2026
+- **Język promptu:** en
+
+**[Utwórz z tym kierunkiem · ImagineVid](https://imaginevid.io/pl/reference-video)**
+
+---
+
 <a id="community-prompt-cases"></a>
 
 ## Workflowy promptów wideo
@@ -451,6 +496,16 @@ First-person point of view strolling along the edge of a small half-frozen pond 
 
 ---
 
+<a id="workflow-commercial-story-beats-product-motion"></a>
+
+### Rytm reklamowy i ruch produktu (1)
+
+Briefy komercyjne z jasno określonym produktem, odbiorcą, sekwencją beatów, ruchem i kadrem końcowym.
+
+**Wyróżnione prompty wideo**
+
+- [Film produktowy gazowanej lemoniady Blush Fizz](#prompt-6)
+
 ## Dodaj zweryfikowany przykład
 
 Znalazłeś przykład Muse Video, który uczy prawdziwego wzorca reżyserskiego? Prześlij przez GitHub Issues prompt, odtwarzalny rezultat, twórcę, źródło, dowód modelu i tryb wejścia.
@@ -478,9 +533,9 @@ Tekst redakcyjny i kod ImagineVid są objęte licencją [CC BY 4.0](https://crea
 ## Kredyty twórców
 
 <details>
-<summary>Community creators we thank (2)</summary>
+<summary>Community creators we thank (3)</summary>
 
-[Alexandr Wang](https://x.com/alexandr_wang) · [Meta AI](https://x.com/AIatMeta)
+[Alexandr Wang](https://x.com/alexandr_wang) · [Ishan Misra](https://x.com/imisra_) · [Meta AI](https://x.com/AIatMeta)
 
 </details>
 
@@ -500,6 +555,6 @@ Tekst redakcyjny i kod ImagineVid są objęte licencją [CC BY 4.0](https://crea
 **[Prześlij zweryfikowany przykład](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Dodaj gwiazdkę kolekcji](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>Wygenerowano z wersjonowanych danych lokalnych dnia 2026-07-21T10:26:22.333Z</sub>
+<sub>Wygenerowano z wersjonowanych danych lokalnych dnia 2026-07-21T13:48:02.013Z</sub>
 
 </div>

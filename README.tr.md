@@ -181,9 +181,9 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 
 | Koleksiyon alanı | Güncel değer |
 |--------|-------|
-| Doğrulanmış örnekler | **5** |
-| Editör seçimi | **3** |
-| Oluşturulma | **21 Temmuz 2026 Salı 10:26:22 UTC** |
+| Doğrulanmış örnekler | **6** |
+| Editör seçimi | **4** |
+| Oluşturulma | **21 Temmuz 2026 Salı 13:48:02 UTC** |
 
 </div>
 
@@ -330,6 +330,51 @@ A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyw
 
 ---
 
+<a id="prompt-6"></a>
+
+### #4: Blush Fizz gazlı limonata ürün filmi
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/Featured-gold-gold)
+
+#### İş akışı neden önemli
+
+Etiket kararlılığı, sıvı hareketi, kabarcıklar, garnitür sürekliliği, makro netlik ve marka finalini sınayan on saniyelik içecek reklamı.
+
+#### Yerelleştirilmiş prompt
+
+```
+Hayalî pembe gazlı limonata ‘BLUSH FIZZ’ için parlak, on saniyelik bir masaüstü reklamı oluştur. Soğuk cam şişeyi kırık buz üzerinde çapraz, limon, ahududu, nane, açık pembe yapraklar ve yoğuşma damlalarıyla aç. ‘BLUSH FIZZ’ ve ‘SPARKLING LEMONADE’ yazıları tam okunur ve değişmez kalsın. Şişenin buz, limon, ahududu ve nane dolu uzun bardağa kesintisiz yarı saydam pembe içecek döktüğü yandan makroya geç. Yükselen kabarcıkları, gerçekçi kırılmayı, ıslak camı ve küçük sıçramaları ürün ve garnitürü değiştirmeden göster. Dolu bardağın yakın kahraman planı ve sağ altta aynı hayalî logoyla bitir. Pembe-nane stüdyo, parlak dağınık ışık, sığ alan derinliği, akıcı ürün kamerası, net dökme ve köpürme sesleri. El, insan, bozuk etiket, ek metin veya yinelenen meyve yok.
+```
+
+<details>
+<summary>Özgün kaynak prompt</summary>
+
+```
+Create a bright ten-second tabletop commercial for a fictional sparkling pink lemonade named "BLUSH FIZZ". Open on a cold glass bottle lying diagonally in crushed ice with lemon halves, raspberries, mint leaves, pale rose petals, and condensation beads. Keep the cream label and the exact words "BLUSH FIZZ" and "SPARKLING LEMONADE" readable and unchanged. Cut to a side macro shot as the bottle tilts and pours translucent blush-pink lemonade into a clear highball glass filled with ice, lemon slices, raspberries, and mint. Show a continuous liquid stream, rising bubbles, realistic refraction, wet glass, and small splashes without changing the bottle or garnish count. Finish on a close hero shot of the full sparkling glass with a lemon wheel, raspberry, mint sprig, and the same fictional logo in the lower right. Soft pink and mint studio set, high-key diffused light, shallow depth of field, smooth product-camera motion, crisp pour and fizz sounds, no hands or people, no warped label, no extra text, no duplicate fruit.
+```
+
+</details>
+
+#### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074600543469916160/vid/avc1/1280x720/JN6ZLW31OGfxXY1c.mp4?tag=14"><img src="https://pbs.twimg.com/amplify_video_thumb/2074600543469916160/img/pGerTyIfmrw1Cn_N.jpg" height="420" alt="Blush Fizz gazlı limonata ürün filmi - Motion preview"></a>
+
+*Videoyu açmak için önizlemeye tıklayın* · **[▶ Videoyu izle →](https://video.twimg.com/amplify_video/2074600543469916160/vid/avc1/1280x720/JN6ZLW31OGfxXY1c.mp4?tag=14)**
+</div>
+
+#### Kanıt
+
+- **Üretici:** [Ishan Misra](https://x.com/imisra_)
+- **Kanonik kaynak:** [Kanonik kaynak](https://x.com/imisra_/status/2074600764451041536)
+- **Yayımlandı:** 7 Temmuz 2026
+- **Prompt dili:** en
+
+**[Bu yönlendirmeyle oluştur · ImagineVid](https://imaginevid.io/tr/reference-video)**
+
+---
+
 <a id="community-prompt-cases"></a>
 
 ## Video prompt iş akışları
@@ -451,6 +496,16 @@ First-person point of view strolling along the edge of a small half-frozen pond 
 
 ---
 
+<a id="workflow-commercial-story-beats-product-motion"></a>
+
+### Reklam ritmi ve ürün hareketi (1)
+
+Ürünü, kitleyi, vurgu sırasını, hareket planını ve bitiş karesini açıkça tanımlayan ticari brifler.
+
+**Öne çıkan video promptları**
+
+- [Blush Fizz gazlı limonata ürün filmi](#prompt-6)
+
 ## Doğrulanmış örnek gönder
 
 Gerçek bir yönetmenlik kalıbı öğreten bir Muse Video örneği mi buldunuz? Promptu, oynatılabilir sonucu, üreticiyi, kaynağı, model kanıtını ve giriş modunu GitHub Issues üzerinden gönderin.
@@ -478,9 +533,9 @@ ImagineVid'in editoryal metni ve kodu [CC BY 4.0](https://creativecommons.org/li
 ## Üretici kredileri
 
 <details>
-<summary>Community creators we thank (2)</summary>
+<summary>Community creators we thank (3)</summary>
 
-[Alexandr Wang](https://x.com/alexandr_wang) · [Meta AI](https://x.com/AIatMeta)
+[Alexandr Wang](https://x.com/alexandr_wang) · [Ishan Misra](https://x.com/imisra_) · [Meta AI](https://x.com/AIatMeta)
 
 </details>
 
@@ -500,6 +555,6 @@ ImagineVid'in editoryal metni ve kodu [CC BY 4.0](https://creativecommons.org/li
 **[Doğrulanmış örnek gönder](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Koleksiyona yıldız ver](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>Sürümlenen yerel veriden oluşturulma zamanı 2026-07-21T10:26:22.331Z</sub>
+<sub>Sürümlenen yerel veriden oluşturulma zamanı 2026-07-21T13:48:02.011Z</sub>
 
 </div>

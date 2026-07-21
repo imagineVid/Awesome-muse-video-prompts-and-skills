@@ -181,9 +181,9 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 
 | 컬렉션 필드 | 현재 값 |
 |--------|-------|
-| 검증된 사례 | **5** |
-| 에디터 추천 | **3** |
-| 생성 시각 | **2026년 7월 21일 화요일 오전 10시 26분 22초 UTC** |
+| 검증된 사례 | **6** |
+| 에디터 추천 | **4** |
+| 생성 시각 | **2026년 7월 21일 화요일 PM 1시 48분 2초 UTC** |
 
 </div>
 
@@ -330,6 +330,51 @@ A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyw
 
 ---
 
+<a id="prompt-6"></a>
+
+### #4: 블러시 피즈 탄산 레모네이드 제품 영상
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/Featured-gold-gold)
+
+#### 이 워크플로가 중요한 이유
+
+라벨 안정성, 액체 움직임, 기포, 장식 연속성, 매크로 초점과 브랜드 마무리를 시험하는 10초 음료 광고입니다.
+
+#### 현지화 프롬프트
+
+```
+가상의 분홍 탄산 레모네이드 ‘BLUSH FIZZ’를 위한 밝은 10초 테이블 광고를 만든다. 차가운 유리병을 으깬 얼음 위에 대각선으로 놓고 레몬 반쪽, 라즈베리, 민트, 연분홍 꽃잎, 물방울을 배치해 시작한다. 크림색 라벨의 ‘BLUSH FIZZ’와 ‘SPARKLING LEMONADE’는 정확히 읽히고 변하지 않는다. 옆면 매크로 샷으로 전환해 병이 얼음, 레몬 조각, 라즈베리, 민트가 든 긴 유리잔에 투명한 분홍 레모네이드를 끊김 없이 붓는다. 올라오는 기포, 사실적인 굴절, 젖은 유리와 작은 튐을 보여 주되 병과 장식 수는 바꾸지 않는다. 가득 찬 잔, 레몬 휠, 라즈베리, 민트와 오른쪽 아래 같은 가상 로고의 클로즈업으로 끝낸다. 분홍과 민트색 스튜디오, 밝은 확산광, 얕은 심도, 부드러운 제품 카메라, 선명한 따르는 소리와 탄산음. 손과 사람, 뒤틀린 라벨, 추가 글자, 복제 과일은 없다.
+```
+
+<details>
+<summary>원문 출처 프롬프트</summary>
+
+```
+Create a bright ten-second tabletop commercial for a fictional sparkling pink lemonade named "BLUSH FIZZ". Open on a cold glass bottle lying diagonally in crushed ice with lemon halves, raspberries, mint leaves, pale rose petals, and condensation beads. Keep the cream label and the exact words "BLUSH FIZZ" and "SPARKLING LEMONADE" readable and unchanged. Cut to a side macro shot as the bottle tilts and pours translucent blush-pink lemonade into a clear highball glass filled with ice, lemon slices, raspberries, and mint. Show a continuous liquid stream, rising bubbles, realistic refraction, wet glass, and small splashes without changing the bottle or garnish count. Finish on a close hero shot of the full sparkling glass with a lemon wheel, raspberry, mint sprig, and the same fictional logo in the lower right. Soft pink and mint studio set, high-key diffused light, shallow depth of field, smooth product-camera motion, crisp pour and fizz sounds, no hands or people, no warped label, no extra text, no duplicate fruit.
+```
+
+</details>
+
+#### 동영상
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074600543469916160/vid/avc1/1280x720/JN6ZLW31OGfxXY1c.mp4?tag=14"><img src="https://pbs.twimg.com/amplify_video_thumb/2074600543469916160/img/pGerTyIfmrw1Cn_N.jpg" height="420" alt="블러시 피즈 탄산 레모네이드 제품 영상 - Motion preview"></a>
+
+*미리보기를 클릭하여 동영상을 여세요* · **[▶ 동영상 보기 →](https://video.twimg.com/amplify_video/2074600543469916160/vid/avc1/1280x720/JN6ZLW31OGfxXY1c.mp4?tag=14)**
+</div>
+
+#### 근거
+
+- **제작자:** [Ishan Misra](https://x.com/imisra_)
+- **정식 출처:** [정식 출처](https://x.com/imisra_/status/2074600764451041536)
+- **게시일:** 2026년 7월 7일
+- **프롬프트 언어:** en
+
+**[이 연출로 만들기 · ImagineVid](https://imaginevid.io/ko/reference-video)**
+
+---
+
 <a id="community-prompt-cases"></a>
 
 ## 비디오 프롬프트 워크플로
@@ -451,6 +496,16 @@ First-person point of view strolling along the edge of a small half-frozen pond 
 
 ---
 
+<a id="workflow-commercial-story-beats-product-motion"></a>
+
+### 광고 비트 및 제품 모션 (1)
+
+제품, 대상, 비트 순서, 모션 계획과 마지막 프레임이 명확한 광고 브리프입니다.
+
+**추천 비디오 프롬프트**
+
+- [블러시 피즈 탄산 레모네이드 제품 영상](#prompt-6)
+
 ## 검증된 사례 기여하기
 
 실제 연출 패턴을 가르치는 Muse Video 사례를 찾았나요? GitHub Issues를 통해 프롬프트, 재생 가능한 결과, 제작자, 출처, 모델 근거, 입력 모드를 제출하세요.
@@ -478,9 +533,9 @@ ImagineVid가 작성한 편집 문구와 코드는 [CC BY 4.0](https://creativec
 ## 제작자 크레딧
 
 <details>
-<summary>Community creators we thank (2)</summary>
+<summary>Community creators we thank (3)</summary>
 
-[Alexandr Wang](https://x.com/alexandr_wang) · [Meta AI](https://x.com/AIatMeta)
+[Alexandr Wang](https://x.com/alexandr_wang) · [Ishan Misra](https://x.com/imisra_) · [Meta AI](https://x.com/AIatMeta)
 
 </details>
 
@@ -500,6 +555,6 @@ ImagineVid가 작성한 편집 문구와 코드는 [CC BY 4.0](https://creativec
 **[검증된 사례 제출](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[컬렉션에 별표하기](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-07-21T10:26:22.323Z</sub>
+<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-07-21T13:48:02.005Z</sub>
 
 </div>

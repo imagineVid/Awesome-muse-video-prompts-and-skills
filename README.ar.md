@@ -181,9 +181,9 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 
 | حقل المجموعة | القيمة الحالية |
 |--------|-------|
-| أمثلة موثّقة | **5** |
-| اختيار تحريري | **3** |
-| تاريخ التوليد | **الثلاثاء، 21 يوليو 2026 في 10:26:22 ص UTC** |
+| أمثلة موثّقة | **6** |
+| اختيار تحريري | **4** |
+| تاريخ التوليد | **الثلاثاء، 21 يوليو 2026 في 1:48:02 م UTC** |
 
 </div>
 
@@ -330,6 +330,51 @@ A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyw
 
 ---
 
+<a id="prompt-6"></a>
+
+### #4: فيلم منتج لليمونادة الفوارة Blush Fizz
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/Featured-gold-gold)
+
+#### أهمية سير العمل
+
+إعلان مشروب من عشر ثوان يختبر ثبات الملصق وحركة السائل والفقاعات واستمرار الزينة والتركيز القريب والنهاية التجارية.
+
+#### المطالبة المترجمة
+
+```
+أنشئ إعلان طاولة مشرقاً من عشر ثوان لليمونادة وردية فوارة خيالية باسم «BLUSH FIZZ». ابدأ بزجاجة باردة مائلة فوق ثلج مجروش، حولها أنصاف ليمون وتوت عليق ونعناع وبتلات وردية وقطرات تكاثف. أبقِ عبارتي «BLUSH FIZZ» و«SPARKLING LEMONADE» واضحتين وثابتتين. انتقل إلى لقطة ماكرو جانبية بينما تصب الزجاجة تياراً متصلاً من الليمونادة الوردية الشفافة في كأس طويل يحوي الثلج والليمون والتوت والنعناع. أظهر الفقاعات الصاعدة والانكسار الواقعي والزجاج المبلل والرذاذ الصغير من دون تغيير المنتج أو الزينة. اختم بلقطة بطولية قريبة للكأس الممتلئ والشعار الخيالي نفسه أسفل اليمين. استوديو وردي ونعناعي، ضوء منتشر ساطع، عمق مجال ضحل، حركة ناعمة وأصوات صب وفوران واضحة. بلا أيد أو أشخاص أو ملصق مشوه أو نص إضافي أو فاكهة مكررة.
+```
+
+<details>
+<summary>المطالبة المصدرية الأصلية</summary>
+
+```
+Create a bright ten-second tabletop commercial for a fictional sparkling pink lemonade named "BLUSH FIZZ". Open on a cold glass bottle lying diagonally in crushed ice with lemon halves, raspberries, mint leaves, pale rose petals, and condensation beads. Keep the cream label and the exact words "BLUSH FIZZ" and "SPARKLING LEMONADE" readable and unchanged. Cut to a side macro shot as the bottle tilts and pours translucent blush-pink lemonade into a clear highball glass filled with ice, lemon slices, raspberries, and mint. Show a continuous liquid stream, rising bubbles, realistic refraction, wet glass, and small splashes without changing the bottle or garnish count. Finish on a close hero shot of the full sparkling glass with a lemon wheel, raspberry, mint sprig, and the same fictional logo in the lower right. Soft pink and mint studio set, high-key diffused light, shallow depth of field, smooth product-camera motion, crisp pour and fizz sounds, no hands or people, no warped label, no extra text, no duplicate fruit.
+```
+
+</details>
+
+#### الفيديو
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074600543469916160/vid/avc1/1280x720/JN6ZLW31OGfxXY1c.mp4?tag=14"><img src="https://pbs.twimg.com/amplify_video_thumb/2074600543469916160/img/pGerTyIfmrw1Cn_N.jpg" height="420" alt="فيلم منتج لليمونادة الفوارة Blush Fizz - Motion preview"></a>
+
+*انقر على المعاينة لفتح الفيديو* · **[▶ مشاهدة الفيديو →](https://video.twimg.com/amplify_video/2074600543469916160/vid/avc1/1280x720/JN6ZLW31OGfxXY1c.mp4?tag=14)**
+</div>
+
+#### الأدلة
+
+- **المبدع:** [Ishan Misra](https://x.com/imisra_)
+- **المصدر الأصلي:** [المصدر الأصلي](https://x.com/imisra_/status/2074600764451041536)
+- **تاريخ النشر:** 7 يوليو 2026
+- **لغة المطالبة:** en
+
+**[أنشئ بهذا التوجيه · ImagineVid](https://imaginevid.io/ar/reference-video)**
+
+---
+
 <a id="community-prompt-cases"></a>
 
 ## سير عمل مطالبات الفيديو
@@ -451,6 +496,16 @@ First-person point of view strolling along the edge of a small half-frozen pond 
 
 ---
 
+<a id="workflow-commercial-story-beats-product-motion"></a>
+
+### إيقاع الإعلان وحركة المنتج (1)
+
+موجزات تجارية تحدد المنتج والجمهور وتسلسل اللحظات وخطة الحركة والإطار الختامي.
+
+**مطالبات فيديو مختارة**
+
+- [فيلم منتج لليمونادة الفوارة Blush Fizz](#prompt-6)
+
 ## ساهم بمثال موثّق
 
 هل وجدت مثالًا لـ Muse Video يعلّم نمط إخراج حقيقيًا؟ أرسل المطالبة والنتيجة القابلة للتشغيل والمبدع والمصدر ودليل النموذج ونمط الإدخال عبر GitHub Issues.
@@ -478,9 +533,9 @@ First-person point of view strolling along the edge of a small half-frozen pond 
 ## اعتمادات المبدعين
 
 <details>
-<summary>Community creators we thank (2)</summary>
+<summary>Community creators we thank (3)</summary>
 
-[Alexandr Wang](https://x.com/alexandr_wang) · [Meta AI](https://x.com/AIatMeta)
+[Alexandr Wang](https://x.com/alexandr_wang) · [Ishan Misra](https://x.com/imisra_) · [Meta AI](https://x.com/AIatMeta)
 
 </details>
 
@@ -500,6 +555,6 @@ First-person point of view strolling along the edge of a small half-frozen pond 
 **[أرسل مثالًا موثّقًا](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ضع نجمة للمجموعة](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>وُلّد من بيانات محلية مُدارة بالإصدارات في 2026-07-21T10:26:22.317Z</sub>
+<sub>وُلّد من بيانات محلية مُدارة بالإصدارات في 2026-07-21T13:48:02.002Z</sub>
 
 </div>

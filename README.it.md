@@ -181,9 +181,9 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 
 | Campo della raccolta | Valore corrente |
 |--------|-------|
-| Casi verificati | **5** |
-| Selezione editoriale | **3** |
-| Generato | **martedì 21 luglio 2026 alle ore 10:26:22 UTC** |
+| Casi verificati | **6** |
+| Selezione editoriale | **4** |
+| Generato | **martedì 21 luglio 2026 alle ore 13:48:01 UTC** |
 
 </div>
 
@@ -330,6 +330,51 @@ A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyw
 
 ---
 
+<a id="prompt-6"></a>
+
+### #4: Spot della limonata frizzante Blush Fizz
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/Featured-gold-gold)
+
+#### Perché il workflow è importante
+
+Film di dieci secondi che verifica stabilità dell'etichetta, liquido, bollicine, continuità delle guarnizioni, macro e chiusura di marca.
+
+#### Prompt tradotto
+
+```
+Crea uno spot da tavolo luminoso di dieci secondi per una limonata rosa frizzante immaginaria chiamata «BLUSH FIZZ». Apri con una bottiglia fredda in diagonale nel ghiaccio tritato, tra limoni, lamponi, menta, petali rosa e condensa. Mantieni «BLUSH FIZZ» e «SPARKLING LEMONADE» perfettamente leggibili e invariati. Passa a un macro laterale mentre la bottiglia versa senza interruzioni la bevanda rosa traslucida in un bicchiere alto con ghiaccio, limone, lamponi e menta. Mostra bolle, rifrazione realistica, vetro bagnato e piccoli schizzi senza cambiare prodotto o guarnizioni. Chiudi con un hero shot del bicchiere pieno e lo stesso logo fittizio in basso a destra. Set rosa e menta, luce diffusa intensa, profondità di campo ridotta, camera fluida e suoni nitidi di versata ed effervescenza. Niente mani, persone, etichette deformate, testo extra o frutti duplicati.
+```
+
+<details>
+<summary>Prompt della fonte originale</summary>
+
+```
+Create a bright ten-second tabletop commercial for a fictional sparkling pink lemonade named "BLUSH FIZZ". Open on a cold glass bottle lying diagonally in crushed ice with lemon halves, raspberries, mint leaves, pale rose petals, and condensation beads. Keep the cream label and the exact words "BLUSH FIZZ" and "SPARKLING LEMONADE" readable and unchanged. Cut to a side macro shot as the bottle tilts and pours translucent blush-pink lemonade into a clear highball glass filled with ice, lemon slices, raspberries, and mint. Show a continuous liquid stream, rising bubbles, realistic refraction, wet glass, and small splashes without changing the bottle or garnish count. Finish on a close hero shot of the full sparkling glass with a lemon wheel, raspberry, mint sprig, and the same fictional logo in the lower right. Soft pink and mint studio set, high-key diffused light, shallow depth of field, smooth product-camera motion, crisp pour and fizz sounds, no hands or people, no warped label, no extra text, no duplicate fruit.
+```
+
+</details>
+
+#### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074600543469916160/vid/avc1/1280x720/JN6ZLW31OGfxXY1c.mp4?tag=14"><img src="https://pbs.twimg.com/amplify_video_thumb/2074600543469916160/img/pGerTyIfmrw1Cn_N.jpg" height="420" alt="Spot della limonata frizzante Blush Fizz - Motion preview"></a>
+
+*Fai clic sull'anteprima per aprire il video* · **[▶ Guarda il video →](https://video.twimg.com/amplify_video/2074600543469916160/vid/avc1/1280x720/JN6ZLW31OGfxXY1c.mp4?tag=14)**
+</div>
+
+#### Elementi di prova
+
+- **Autore:** [Ishan Misra](https://x.com/imisra_)
+- **Fonte canonica:** [Fonte canonica](https://x.com/imisra_/status/2074600764451041536)
+- **Pubblicato:** 7 luglio 2026
+- **Lingua del prompt:** en
+
+**[Crea con queste indicazioni · ImagineVid](https://imaginevid.io/it/reference-video)**
+
+---
+
 <a id="community-prompt-cases"></a>
 
 ## Workflow di prompt video
@@ -451,6 +496,16 @@ First-person point of view strolling along the edge of a small half-frozen pond 
 
 ---
 
+<a id="workflow-commercial-story-beats-product-motion"></a>
+
+### Beat pubblicitari e movimento prodotto (1)
+
+Brief commerciali con prodotto, pubblico, sequenza di beat, piano di movimento e fotogramma finale chiari.
+
+**Prompt video in evidenza**
+
+- [Spot della limonata frizzante Blush Fizz](#prompt-6)
+
 ## Contribuisci con un caso verificato
 
 Hai trovato un caso di Muse Video che insegna una vera tecnica registica? Invia il prompt, il risultato riproducibile, il creator, la fonte, le prove del modello e la modalità di input tramite GitHub Issues.
@@ -478,9 +533,9 @@ I testi editoriali e il codice realizzati da ImagineVid sono distribuiti con lic
 ## Crediti dei creator
 
 <details>
-<summary>Community creators we thank (2)</summary>
+<summary>Community creators we thank (3)</summary>
 
-[Alexandr Wang](https://x.com/alexandr_wang) · [Meta AI](https://x.com/AIatMeta)
+[Alexandr Wang](https://x.com/alexandr_wang) · [Ishan Misra](https://x.com/imisra_) · [Meta AI](https://x.com/AIatMeta)
 
 </details>
 
@@ -500,6 +555,6 @@ I testi editoriali e il codice realizzati da ImagineVid sono distribuiti con lic
 **[Invia un caso verificato](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Metti una stella alla raccolta](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>Generato dai dati locali versionati il 2026-07-21T10:26:22.309Z</sub>
+<sub>Generato dai dati locali versionati il 2026-07-21T13:48:01.998Z</sub>
 
 </div>
