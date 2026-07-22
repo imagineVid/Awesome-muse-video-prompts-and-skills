@@ -183,7 +183,7 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 |--------|-------|
 | Doğrulanmış örnekler | **6** |
 | Editör seçimi | **4** |
-| Oluşturulma | **21 Temmuz 2026 Salı 21:10:30 UTC** |
+| Oluşturulma | **22 Temmuz 2026 Çarşamba 02:43:01 UTC** |
 
 </div>
 
@@ -555,6 +555,6 @@ ImagineVid'in editoryal metni ve kodu [CC BY 4.0](https://creativecommons.org/li
 **[Doğrulanmış örnek gönder](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Koleksiyona yıldız ver](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>Sürümlenen yerel veriden oluşturulma zamanı 2026-07-21T21:10:30.548Z</sub>
+<sub>Sürümlenen yerel veriden oluşturulma zamanı 2026-07-22T02:43:01.096Z</sub>
 
 </div>
