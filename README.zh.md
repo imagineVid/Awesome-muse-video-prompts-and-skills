@@ -181,9 +181,9 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 
 | 集合字段 | 当前值 |
 |--------|-------|
-| 已核验案例 | **6** |
-| 编辑精选 | **4** |
-| 生成时间 | **2026年7月22日星期三 UTC 13:56:39** |
+| 已核验案例 | **7** |
+| 编辑精选 | **5** |
+| 生成时间 | **2026年7月22日星期三 UTC 14:40:25** |
 
 </div>
 
@@ -375,6 +375,51 @@ Create a bright ten-second tabletop commercial for a fictional sparkling pink le
 
 ---
 
+<a id="prompt-7"></a>
+
+### #5: 用定格气流讲解伯努利原理
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/Featured-gold-gold)
+
+#### 工作流为何重要
+
+一段桌面教育短片，用可读的实体道具呈现压力、速度与升力，并保持统一的定格布景。
+
+#### 本地化提示词
+
+```
+制作一段 12 秒定格动画教育视频，在手工课堂桌面上解释伯努利原理。使用纸箭头、压力标签卡、狭窄纸通道、轻质小球和两条悬挂纸带。俯拍开始：缓慢气流与间距较大的箭头，标签为“低速 / 高压”。压窄通道，让箭头移动更快，并替换为“高速 / 低压”。随后侧拍两条纸带在中间气流经过时彼此靠近，再展示小球悬浮在向上的气流中。所有道具材质和形态一致，以细小、可触感的步进移动。暖色台灯、纸张纹理、清晰英文标签、固定俯拍与近距离侧拍、轻柔滴答和呼呼声。不要出现手、额外公式或变形文字。
+```
+
+<details>
+<summary>原始来源提示词</summary>
+
+```
+Create a 12-second stop-motion educational video explaining the Bernoulli principle on a handcrafted classroom table. Use paper arrows, labeled pressure cards, a narrow paper channel, a lightweight ball, and two suspended paper strips. Begin with a top-down view of slow airflow and wide-spaced arrows marked “LOW SPEED / HIGH PRESSURE.” Compress the channel so the arrows move faster and replace the cards with “HIGH SPEED / LOW PRESSURE.” Cut to the two paper strips lifting toward each other as air passes between them, then show the lightweight ball hovering in a rising stream. Keep every prop materially consistent and move it in small tactile increments. Warm desk lamp, paper texture, clean English labels, locked overhead and close side angles, gentle tick-and-whoosh Foley, no hands, no extra equations, no warped text.
+```
+
+</details>
+
+#### 视频
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074600722080145408/vid/avc1/1280x720/uikPFoiwSEwIL0o1.mp4?tag=14"><img src="https://pbs.twimg.com/amplify_video_thumb/2074600722080145408/img/4YgeAwwyHuRDAR0v.jpg" height="420" alt="用定格气流讲解伯努利原理 - Motion preview"></a>
+
+*点击预览图打开视频* · **[▶ 观看视频 →](https://video.twimg.com/amplify_video/2074600722080145408/vid/avc1/1280x720/uikPFoiwSEwIL0o1.mp4?tag=14)**
+</div>
+
+#### 证据
+
+- **创作者:** [Ishan Misra](https://x.com/imisra_)
+- **规范来源:** [规范来源](https://x.com/imisra_/status/2074600764451041536)
+- **发布时间:** 2026年7月7日
+- **提示词语言:** en
+
+**[按此方向创作 · ImagineVid](https://imaginevid.io/zh/reference-video)**
+
+---
+
 <a id="community-prompt-cases"></a>
 
 ## 视频提示词工作流
@@ -383,7 +428,7 @@ Create a bright ten-second tabletop commercial for a fictional sparkling pink le
 
 <a id="workflow-physical-motion-temporal-consistency"></a>
 
-### 物理运动与时间一致性 (2)
+### 物理运动与时间一致性 (3)
 
 检验重量、接触、加速度、平衡与时间连续性的运动简报。
 
@@ -391,6 +436,7 @@ Create a bright ten-second tabletop commercial for a fictional sparkling pink le
 
 - [尴尬晚宴中的大象](#prompt-1)
 - [四个橙子的杂耍失误与喜剧收尾](#prompt-3)
+- [用定格气流讲解伯努利原理](#prompt-7)
 
 <a id="workflow-animals-counting-subject-continuity"></a>
 
@@ -555,6 +601,6 @@ ImagineVid 编写的编辑文本和代码依据 [CC BY 4.0](https://creativecomm
 **[提交已核验案例](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[为集合加星](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>根据版本化本地数据生成于 2026-07-22T13:56:39.750Z</sub>
+<sub>根据版本化本地数据生成于 2026-07-22T14:40:25.776Z</sub>
 
 </div>

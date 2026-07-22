@@ -181,9 +181,9 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 
 | حقل المجموعة | القيمة الحالية |
 |--------|-------|
-| أمثلة موثّقة | **6** |
-| اختيار تحريري | **4** |
-| تاريخ التوليد | **الأربعاء، 22 يوليو 2026 في 1:56:39 م UTC** |
+| أمثلة موثّقة | **7** |
+| اختيار تحريري | **5** |
+| تاريخ التوليد | **الأربعاء، 22 يوليو 2026 في 2:40:25 م UTC** |
 
 </div>
 
@@ -375,6 +375,51 @@ Create a bright ten-second tabletop commercial for a fictional sparkling pink le
 
 ---
 
+<a id="prompt-7"></a>
+
+### #5: مبدأ برنولي بتدفق هواء بإيقاف الحركة
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/Featured-gold-gold)
+
+#### أهمية سير العمل
+
+مشهد تعليمي على الطاولة يحول الضغط والسرعة والرفع إلى أدوات واضحة ضمن موقع واحد متماسك.
+
+#### المطالبة المترجمة
+
+```
+أنشئ فيديو تعليمي بإيقاف الحركة مدته 12 ثانية يشرح مبدأ برنولي على طاولة صف مصنوعة يدوياً. استخدم سهاماً ورقية وبطاقات ضغط وممراً ضيقاً وكرة خفيفة وشريطين معلقين. ابدأ من الأعلى بتدفق بطيء وسهام متباعدة تحمل “LOW SPEED / HIGH PRESSURE”. ضيق الممر وسرّع السهام وبدّلها إلى “HIGH SPEED / LOW PRESSURE”. من الجانب يقترب الشريطان مع مرور الهواء، ثم تطفو الكرة في تيار صاعد. حافظ على الخامات وحركات صغيرة ملموسة، مصباح دافئ وملمس ورق ونص إنجليزي واضح وكاميرات ثابتة وأصوات لطيفة. بلا أيد أو معادلات إضافية أو نص مشوه.
+```
+
+<details>
+<summary>المطالبة المصدرية الأصلية</summary>
+
+```
+Create a 12-second stop-motion educational video explaining the Bernoulli principle on a handcrafted classroom table. Use paper arrows, labeled pressure cards, a narrow paper channel, a lightweight ball, and two suspended paper strips. Begin with a top-down view of slow airflow and wide-spaced arrows marked “LOW SPEED / HIGH PRESSURE.” Compress the channel so the arrows move faster and replace the cards with “HIGH SPEED / LOW PRESSURE.” Cut to the two paper strips lifting toward each other as air passes between them, then show the lightweight ball hovering in a rising stream. Keep every prop materially consistent and move it in small tactile increments. Warm desk lamp, paper texture, clean English labels, locked overhead and close side angles, gentle tick-and-whoosh Foley, no hands, no extra equations, no warped text.
+```
+
+</details>
+
+#### الفيديو
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074600722080145408/vid/avc1/1280x720/uikPFoiwSEwIL0o1.mp4?tag=14"><img src="https://pbs.twimg.com/amplify_video_thumb/2074600722080145408/img/4YgeAwwyHuRDAR0v.jpg" height="420" alt="مبدأ برنولي بتدفق هواء بإيقاف الحركة - Motion preview"></a>
+
+*انقر على المعاينة لفتح الفيديو* · **[▶ مشاهدة الفيديو →](https://video.twimg.com/amplify_video/2074600722080145408/vid/avc1/1280x720/uikPFoiwSEwIL0o1.mp4?tag=14)**
+</div>
+
+#### الأدلة
+
+- **المبدع:** [Ishan Misra](https://x.com/imisra_)
+- **المصدر الأصلي:** [المصدر الأصلي](https://x.com/imisra_/status/2074600764451041536)
+- **تاريخ النشر:** 7 يوليو 2026
+- **لغة المطالبة:** en
+
+**[أنشئ بهذا التوجيه · ImagineVid](https://imaginevid.io/ar/reference-video)**
+
+---
+
 <a id="community-prompt-cases"></a>
 
 ## سير عمل مطالبات الفيديو
@@ -383,7 +428,7 @@ Create a bright ten-second tabletop commercial for a fictional sparkling pink le
 
 <a id="workflow-physical-motion-temporal-consistency"></a>
 
-### الحركة الفيزيائية والاتساق الزمني (2)
+### الحركة الفيزيائية والاتساق الزمني (3)
 
 موجزات حركة تختبر الوزن والتلامس والتسارع والتوازن والاستمرارية عبر الزمن.
 
@@ -391,6 +436,7 @@ Create a bright ten-second tabletop commercial for a fictional sparkling pink le
 
 - [فيل في عشاء محرج](#prompt-1)
 - [أربع برتقالات ونهاية كوميدية](#prompt-3)
+- [مبدأ برنولي بتدفق هواء بإيقاف الحركة](#prompt-7)
 
 <a id="workflow-animals-counting-subject-continuity"></a>
 
@@ -555,6 +601,6 @@ First-person point of view strolling along the edge of a small half-frozen pond 
 **[أرسل مثالًا موثّقًا](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ضع نجمة للمجموعة](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>وُلّد من بيانات محلية مُدارة بالإصدارات في 2026-07-22T13:56:39.742Z</sub>
+<sub>وُلّد من بيانات محلية مُدارة بالإصدارات في 2026-07-22T14:40:25.767Z</sub>
 
 </div>

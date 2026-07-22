@@ -2,7 +2,7 @@
 ImagineVid 品牌的 Muse Video 官方预览提示词、可播放案例与导演工作流资料仓库。
 
 <directory>
-data/ - 5 条可播放提示词、5 条官方预览案例、六类视频工作流与 13 语本地化覆盖层。
+data/ - 7 条可播放提示词、5 条官方预览案例、六类视频工作流与 13 语本地化覆盖层。
 docs/ - 预览状态、分类规则、贡献规范、本地开发、翻译审计与 X 视频证据政策。
 public/images/ - ImagineVid 自有仓库封面。
 scripts/ - 数据校验、候选评分、Issue 同步与 14 语 README 生成。

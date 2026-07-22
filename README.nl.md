@@ -181,9 +181,9 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 
 | Collectieveld | Huidige waarde |
 |--------|-------|
-| Geverifieerde voorbeelden | **6** |
-| Redactionele keuze | **4** |
-| Gegenereerd | **woensdag 22 juli 2026 om 13:56:39 UTC** |
+| Geverifieerde voorbeelden | **7** |
+| Redactionele keuze | **5** |
+| Gegenereerd | **woensdag 22 juli 2026 om 14:40:25 UTC** |
 
 </div>
 
@@ -375,6 +375,51 @@ Create a bright ten-second tabletop commercial for a fictional sparkling pink le
 
 ---
 
+<a id="prompt-7"></a>
+
+### #5: Bernoulli-principe met stop-motionlucht
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/Featured-gold-gold)
+
+#### Waarom de workflow belangrijk is
+
+Een educatieve tafelreeks die druk, snelheid en lift zichtbaar maakt met duidelijke rekwisieten in één set.
+
+#### Gelokaliseerde prompt
+
+```
+Maak een educatieve stop-motionvideo van 12 seconden over Bernoulli op een handgemaakte schooltafel. Gebruik papieren pijlen, drukkaartjes, een smal kanaal, een lichte bal en twee hangende stroken. Begin van boven met trage lucht en ruime pijlen: “LOW SPEED / HIGH PRESSURE”. Maak het kanaal smaller, versnel de pijlen en wissel naar “HIGH SPEED / LOW PRESSURE”. Van opzij bewegen de stroken naar elkaar toe; daarna zweeft de bal in een opwaartse stroom. Houd materialen gelijk en bewegingen klein en tastbaar. Warme lamp, papiertextuur, helder Engels, vaste camera’s en zachte Foley. Geen handen, extra formules of vervormde tekst.
+```
+
+<details>
+<summary>Oorspronkelijke bronprompt</summary>
+
+```
+Create a 12-second stop-motion educational video explaining the Bernoulli principle on a handcrafted classroom table. Use paper arrows, labeled pressure cards, a narrow paper channel, a lightweight ball, and two suspended paper strips. Begin with a top-down view of slow airflow and wide-spaced arrows marked “LOW SPEED / HIGH PRESSURE.” Compress the channel so the arrows move faster and replace the cards with “HIGH SPEED / LOW PRESSURE.” Cut to the two paper strips lifting toward each other as air passes between them, then show the lightweight ball hovering in a rising stream. Keep every prop materially consistent and move it in small tactile increments. Warm desk lamp, paper texture, clean English labels, locked overhead and close side angles, gentle tick-and-whoosh Foley, no hands, no extra equations, no warped text.
+```
+
+</details>
+
+#### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074600722080145408/vid/avc1/1280x720/uikPFoiwSEwIL0o1.mp4?tag=14"><img src="https://pbs.twimg.com/amplify_video_thumb/2074600722080145408/img/4YgeAwwyHuRDAR0v.jpg" height="420" alt="Bernoulli-principe met stop-motionlucht - Motion preview"></a>
+
+*Klik op de voorvertoning om de video te openen* · **[▶ Video bekijken →](https://video.twimg.com/amplify_video/2074600722080145408/vid/avc1/1280x720/uikPFoiwSEwIL0o1.mp4?tag=14)**
+</div>
+
+#### Bewijs
+
+- **Maker:** [Ishan Misra](https://x.com/imisra_)
+- **Canonieke bron:** [Canonieke bron](https://x.com/imisra_/status/2074600764451041536)
+- **Gepubliceerd:** 7 juli 2026
+- **Prompttaal:** en
+
+**[Maak met deze regie · ImagineVid](https://imaginevid.io/nl/reference-video)**
+
+---
+
 <a id="community-prompt-cases"></a>
 
 ## Workflows voor videoprompts
@@ -383,7 +428,7 @@ Create a bright ten-second tabletop commercial for a fictional sparkling pink le
 
 <a id="workflow-physical-motion-temporal-consistency"></a>
 
-### Fysieke beweging en temporele consistentie (2)
+### Fysieke beweging en temporele consistentie (3)
 
 Bewegingsbriefings die gewicht, contact, versnelling, balans en temporele continuïteit testen.
 
@@ -391,6 +436,7 @@ Bewegingsbriefings die gewicht, contact, versnelling, balans en temporele contin
 
 - [Olifant op een ongemakkelijk diner](#prompt-1)
 - [Vier sinaasappels jongleren met komische afloop](#prompt-3)
+- [Bernoulli-principe met stop-motionlucht](#prompt-7)
 
 <a id="workflow-animals-counting-subject-continuity"></a>
 
@@ -555,6 +601,6 @@ Redactionele tekst en code van ImagineVid vallen onder [CC BY 4.0](https://creat
 **[Een geverifieerd voorbeeld indienen](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Geef de collectie een ster](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>Gegenereerd uit versiebeheerste lokale data op 2026-07-22T13:56:39.753Z</sub>
+<sub>Gegenereerd uit versiebeheerste lokale data op 2026-07-22T14:40:25.779Z</sub>
 
 </div>

@@ -181,9 +181,9 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 
 | Collection field | Current value |
 |--------|-------|
-| Verified Cases | **6** |
-| Editorial pick | **4** |
-| Generated | **Wednesday, July 22, 2026 at 1:56:39 PM UTC** |
+| Verified Cases | **7** |
+| Editorial pick | **5** |
+| Generated | **Wednesday, July 22, 2026 at 2:40:25 PM UTC** |
 
 </div>
 
@@ -339,6 +339,42 @@ Create a bright ten-second tabletop commercial for a fictional sparkling pink le
 
 ---
 
+<a id="prompt-7"></a>
+
+### #5: Bernoulli principle explained with stop-motion airflow
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/Featured-gold-gold)
+
+#### Why the workflow matters
+
+An educational tabletop sequence that turns pressure, speed, and lift into readable physical props while preserving one coherent stop-motion set.
+
+#### Source prompt
+
+```
+Create a 12-second stop-motion educational video explaining the Bernoulli principle on a handcrafted classroom table. Use paper arrows, labeled pressure cards, a narrow paper channel, a lightweight ball, and two suspended paper strips. Begin with a top-down view of slow airflow and wide-spaced arrows marked “LOW SPEED / HIGH PRESSURE.” Compress the channel so the arrows move faster and replace the cards with “HIGH SPEED / LOW PRESSURE.” Cut to the two paper strips lifting toward each other as air passes between them, then show the lightweight ball hovering in a rising stream. Keep every prop materially consistent and move it in small tactile increments. Warm desk lamp, paper texture, clean English labels, locked overhead and close side angles, gentle tick-and-whoosh Foley, no hands, no extra equations, no warped text.
+```
+
+#### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074600722080145408/vid/avc1/1280x720/uikPFoiwSEwIL0o1.mp4?tag=14"><img src="https://pbs.twimg.com/amplify_video_thumb/2074600722080145408/img/4YgeAwwyHuRDAR0v.jpg" height="420" alt="Bernoulli principle explained with stop-motion airflow - Motion preview"></a>
+
+*Click the preview to open the video* · **[▶ Watch video →](https://video.twimg.com/amplify_video/2074600722080145408/vid/avc1/1280x720/uikPFoiwSEwIL0o1.mp4?tag=14)**
+</div>
+
+#### Evidence
+
+- **Creator:** [Ishan Misra](https://x.com/imisra_)
+- **Canonical source:** [Canonical source](https://x.com/imisra_/status/2074600764451041536)
+- **Published:** July 7, 2026
+- **Prompt language:** en
+
+**[Use this prompt on ImagineVid](https://imaginevid.io/reference-video)**
+
+---
+
 <a id="community-prompt-cases"></a>
 
 ## Community Prompt Cases
@@ -347,7 +383,7 @@ Create a bright ten-second tabletop commercial for a fictional sparkling pink le
 
 <a id="workflow-physical-motion-temporal-consistency"></a>
 
-### Physical Motion & Temporal Consistency (2)
+### Physical Motion & Temporal Consistency (3)
 
 Motion briefs that test weight, contact, acceleration, balance, and continuity across time.
 
@@ -355,6 +391,7 @@ Motion briefs that test weight, contact, acceleration, balance, and continuity a
 
 - [Elephant at an Awkward Dinner Party](#prompt-1)
 - [Four-Orange Juggle With a Comic Payoff](#prompt-3)
+- [Bernoulli principle explained with stop-motion airflow](#prompt-7)
 
 <a id="workflow-animals-counting-subject-continuity"></a>
 
@@ -501,6 +538,6 @@ ImagineVid-authored editorial text and code are licensed under [CC BY 4.0](https
 **[Submit a verified case](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star the collection](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>Generated from versioned local data on 2026-07-22T13:56:39.721Z</sub>
+<sub>Generated from versioned local data on 2026-07-22T14:40:25.750Z</sub>
 
 </div>

@@ -181,9 +181,9 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 
 | 컬렉션 필드 | 현재 값 |
 |--------|-------|
-| 검증된 사례 | **6** |
-| 에디터 추천 | **4** |
-| 생성 시각 | **2026년 7월 22일 수요일 오후 1시 56분 39초 UTC** |
+| 검증된 사례 | **7** |
+| 에디터 추천 | **5** |
+| 생성 시각 | **2026년 7월 22일 수요일 PM 2시 40분 25초 UTC** |
 
 </div>
 
@@ -375,6 +375,51 @@ Create a bright ten-second tabletop commercial for a fictional sparkling pink le
 
 ---
 
+<a id="prompt-7"></a>
+
+### #5: 스톱모션 공기 흐름으로 설명하는 베르누이 원리
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/Featured-gold-gold)
+
+#### 이 워크플로가 중요한 이유
+
+압력, 속도와 양력을 읽기 쉬운 실제 소품으로 보여 주며 하나의 스톱모션 세트를 유지하는 교육 영상.
+
+#### 현지화 프롬프트
+
+```
+수제 교실 테이블에서 베르누이 원리를 설명하는 12초 스톱모션 교육 영상. 종이 화살표, 압력 카드, 좁은 종이 통로, 가벼운 공, 매단 종이 띠 두 개를 사용한다. 위에서 느린 공기와 넓은 간격의 “LOW SPEED / HIGH PRESSURE” 화살표로 시작한다. 통로를 좁혀 화살표를 빠르게 움직이고 “HIGH SPEED / LOW PRESSURE”로 바꾼다. 옆면에서 두 종이 띠 사이로 공기가 지나가며 서로 가까워지는 모습, 이어 상승 기류에 공이 뜨는 모습을 보여 준다. 모든 소품은 동일한 재질과 작은 촉각적 단계로 움직인다. 따뜻한 스탠드 조명, 종이 질감, 선명한 영어, 고정된 탑뷰와 측면 클로즈업, 부드러운 효과음. 손, 추가 수식, 깨진 글자 없음.
+```
+
+<details>
+<summary>원문 출처 프롬프트</summary>
+
+```
+Create a 12-second stop-motion educational video explaining the Bernoulli principle on a handcrafted classroom table. Use paper arrows, labeled pressure cards, a narrow paper channel, a lightweight ball, and two suspended paper strips. Begin with a top-down view of slow airflow and wide-spaced arrows marked “LOW SPEED / HIGH PRESSURE.” Compress the channel so the arrows move faster and replace the cards with “HIGH SPEED / LOW PRESSURE.” Cut to the two paper strips lifting toward each other as air passes between them, then show the lightweight ball hovering in a rising stream. Keep every prop materially consistent and move it in small tactile increments. Warm desk lamp, paper texture, clean English labels, locked overhead and close side angles, gentle tick-and-whoosh Foley, no hands, no extra equations, no warped text.
+```
+
+</details>
+
+#### 동영상
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074600722080145408/vid/avc1/1280x720/uikPFoiwSEwIL0o1.mp4?tag=14"><img src="https://pbs.twimg.com/amplify_video_thumb/2074600722080145408/img/4YgeAwwyHuRDAR0v.jpg" height="420" alt="스톱모션 공기 흐름으로 설명하는 베르누이 원리 - Motion preview"></a>
+
+*미리보기를 클릭하여 동영상을 여세요* · **[▶ 동영상 보기 →](https://video.twimg.com/amplify_video/2074600722080145408/vid/avc1/1280x720/uikPFoiwSEwIL0o1.mp4?tag=14)**
+</div>
+
+#### 근거
+
+- **제작자:** [Ishan Misra](https://x.com/imisra_)
+- **정식 출처:** [정식 출처](https://x.com/imisra_/status/2074600764451041536)
+- **게시일:** 2026년 7월 7일
+- **프롬프트 언어:** en
+
+**[이 연출로 만들기 · ImagineVid](https://imaginevid.io/ko/reference-video)**
+
+---
+
 <a id="community-prompt-cases"></a>
 
 ## 비디오 프롬프트 워크플로
@@ -383,7 +428,7 @@ Create a bright ten-second tabletop commercial for a fictional sparkling pink le
 
 <a id="workflow-physical-motion-temporal-consistency"></a>
 
-### 물리적 움직임 및 시간 일관성 (2)
+### 물리적 움직임 및 시간 일관성 (3)
 
 무게, 접촉, 가속, 균형과 시간적 연속성을 시험하는 모션 브리프입니다.
 
@@ -391,6 +436,7 @@ Create a bright ten-second tabletop commercial for a fictional sparkling pink le
 
 - [어색한 만찬의 코끼리](#prompt-1)
 - [오렌지 네 개 저글링과 코믹한 결말](#prompt-3)
+- [스톱모션 공기 흐름으로 설명하는 베르누이 원리](#prompt-7)
 
 <a id="workflow-animals-counting-subject-continuity"></a>
 
@@ -555,6 +601,6 @@ ImagineVid가 작성한 편집 문구와 코드는 [CC BY 4.0](https://creativec
 **[검증된 사례 제출](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[컬렉션에 별표하기](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-07-22T13:56:39.748Z</sub>
+<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-07-22T14:40:25.771Z</sub>
 
 </div>

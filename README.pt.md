@@ -181,9 +181,9 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 
 | Campo da coleção | Valor atual |
 |--------|-------|
-| Casos verificados | **6** |
-| Seleção editorial | **4** |
-| Gerado | **quarta-feira, 22 de julho de 2026 às 13:56:39 UTC** |
+| Casos verificados | **7** |
+| Seleção editorial | **5** |
+| Gerado | **quarta-feira, 22 de julho de 2026 às 14:40:25 UTC** |
 
 </div>
 
@@ -375,6 +375,51 @@ Create a bright ten-second tabletop commercial for a fictional sparkling pink le
 
 ---
 
+<a id="prompt-7"></a>
+
+### #5: Princípio de Bernoulli com fluxo em stop motion
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/Featured-gold-gold)
+
+#### Porque é que o fluxo é importante
+
+Sequência educativa de mesa que transforma pressão, velocidade e sustentação em objetos legíveis num único cenário.
+
+#### Prompt localizado
+
+```
+Vídeo educativo em stop motion de 12 segundos sobre Bernoulli numa mesa artesanal. Use setas de papel, cartões de pressão, canal estreito, bola leve e duas tiras suspensas. Comece de cima com ar lento e setas espaçadas: “LOW SPEED / HIGH PRESSURE”. Estreite o canal, acelere as setas e troque para “HIGH SPEED / LOW PRESSURE”. De lado, as tiras se aproximam com o ar entre elas; depois a bola flutua numa corrente ascendente. Materiais consistentes, pequenos passos táteis, luz quente, textura de papel, inglês claro, câmaras fixas e Foley suave. Sem mãos, fórmulas extras ou texto deformado.
+```
+
+<details>
+<summary>Prompt original da fonte</summary>
+
+```
+Create a 12-second stop-motion educational video explaining the Bernoulli principle on a handcrafted classroom table. Use paper arrows, labeled pressure cards, a narrow paper channel, a lightweight ball, and two suspended paper strips. Begin with a top-down view of slow airflow and wide-spaced arrows marked “LOW SPEED / HIGH PRESSURE.” Compress the channel so the arrows move faster and replace the cards with “HIGH SPEED / LOW PRESSURE.” Cut to the two paper strips lifting toward each other as air passes between them, then show the lightweight ball hovering in a rising stream. Keep every prop materially consistent and move it in small tactile increments. Warm desk lamp, paper texture, clean English labels, locked overhead and close side angles, gentle tick-and-whoosh Foley, no hands, no extra equations, no warped text.
+```
+
+</details>
+
+#### Vídeo
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074600722080145408/vid/avc1/1280x720/uikPFoiwSEwIL0o1.mp4?tag=14"><img src="https://pbs.twimg.com/amplify_video_thumb/2074600722080145408/img/4YgeAwwyHuRDAR0v.jpg" height="420" alt="Princípio de Bernoulli com fluxo em stop motion - Motion preview"></a>
+
+*Clique na prévia para abrir o vídeo* · **[▶ Ver vídeo →](https://video.twimg.com/amplify_video/2074600722080145408/vid/avc1/1280x720/uikPFoiwSEwIL0o1.mp4?tag=14)**
+</div>
+
+#### Evidência
+
+- **Criador:** [Ishan Misra](https://x.com/imisra_)
+- **Fonte canónica:** [Fonte canónica](https://x.com/imisra_/status/2074600764451041536)
+- **Publicado:** 7 de julho de 2026
+- **Idioma do prompt:** en
+
+**[Criar com esta direção · ImagineVid](https://imaginevid.io/pt/reference-video)**
+
+---
+
 <a id="community-prompt-cases"></a>
 
 ## Fluxos de prompts de vídeo
@@ -383,7 +428,7 @@ Create a bright ten-second tabletop commercial for a fictional sparkling pink le
 
 <a id="workflow-physical-motion-temporal-consistency"></a>
 
-### Movimento físico e coerência temporal (2)
+### Movimento físico e coerência temporal (3)
 
 Briefings de movimento que testam peso, contacto, aceleração, equilíbrio e continuidade temporal.
 
@@ -391,6 +436,7 @@ Briefings de movimento que testam peso, contacto, aceleração, equilíbrio e co
 
 - [Elefante num jantar constrangedor](#prompt-1)
 - [Malabarismo com quatro laranjas e final cómico](#prompt-3)
+- [Princípio de Bernoulli com fluxo em stop motion](#prompt-7)
 
 <a id="workflow-animals-counting-subject-continuity"></a>
 
@@ -555,6 +601,6 @@ O texto editorial e o código produzidos pelo ImagineVid estão licenciados ao a
 **[Enviar um caso verificado](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Adicionar uma estrela à coleção](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>Gerado a partir de dados locais versionados em 2026-07-22T13:56:39.730Z</sub>
+<sub>Gerado a partir de dados locais versionados em 2026-07-22T14:40:25.758Z</sub>
 
 </div>

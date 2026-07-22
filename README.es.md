@@ -181,9 +181,9 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 
 | Campo de la colección | Valor actual |
 |--------|-------|
-| Casos verificados | **6** |
-| Selección editorial | **4** |
-| Generado | **miércoles, 22 de julio de 2026, 13:56:39 UTC** |
+| Casos verificados | **7** |
+| Selección editorial | **5** |
+| Generado | **miércoles, 22 de julio de 2026, 14:40:25 UTC** |
 
 </div>
 
@@ -375,6 +375,51 @@ Create a bright ten-second tabletop commercial for a fictional sparkling pink le
 
 ---
 
+<a id="prompt-7"></a>
+
+### #5: Principio de Bernoulli con aire en stop motion
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/Featured-gold-gold)
+
+#### Por qué importa este flujo de trabajo
+
+Secuencia educativa de mesa que convierte presión, velocidad y sustentación en objetos legibles dentro de un único set.
+
+#### Prompt localizado
+
+```
+Vídeo educativo stop motion de 12 segundos sobre el principio de Bernoulli en una mesa artesanal. Usa flechas de papel, tarjetas de presión, un canal estrecho, una pelota ligera y dos tiras suspendidas. Empieza cenital con aire lento y flechas separadas: “LOW SPEED / HIGH PRESSURE”. Estrecha el canal, acelera las flechas y cambia a “HIGH SPEED / LOW PRESSURE”. En vista lateral, las tiras se acercan cuando pasa aire entre ellas; después la pelota flota en una corriente ascendente. Conserva materiales y mueve todo en pequeños pasos táctiles. Lámpara cálida, textura de papel, inglés nítido, planos fijos y Foley suave. Sin manos, fórmulas extra ni texto deformado.
+```
+
+<details>
+<summary>Prompt original de la fuente</summary>
+
+```
+Create a 12-second stop-motion educational video explaining the Bernoulli principle on a handcrafted classroom table. Use paper arrows, labeled pressure cards, a narrow paper channel, a lightweight ball, and two suspended paper strips. Begin with a top-down view of slow airflow and wide-spaced arrows marked “LOW SPEED / HIGH PRESSURE.” Compress the channel so the arrows move faster and replace the cards with “HIGH SPEED / LOW PRESSURE.” Cut to the two paper strips lifting toward each other as air passes between them, then show the lightweight ball hovering in a rising stream. Keep every prop materially consistent and move it in small tactile increments. Warm desk lamp, paper texture, clean English labels, locked overhead and close side angles, gentle tick-and-whoosh Foley, no hands, no extra equations, no warped text.
+```
+
+</details>
+
+#### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074600722080145408/vid/avc1/1280x720/uikPFoiwSEwIL0o1.mp4?tag=14"><img src="https://pbs.twimg.com/amplify_video_thumb/2074600722080145408/img/4YgeAwwyHuRDAR0v.jpg" height="420" alt="Principio de Bernoulli con aire en stop motion - Motion preview"></a>
+
+*Haz clic en la vista previa para abrir el video* · **[▶ Ver video →](https://video.twimg.com/amplify_video/2074600722080145408/vid/avc1/1280x720/uikPFoiwSEwIL0o1.mp4?tag=14)**
+</div>
+
+#### Evidencias
+
+- **Creador:** [Ishan Misra](https://x.com/imisra_)
+- **Fuente canónica:** [Fuente canónica](https://x.com/imisra_/status/2074600764451041536)
+- **Publicado:** 7 de julio de 2026
+- **Idioma del prompt:** en
+
+**[Crea con esta dirección · ImagineVid](https://imaginevid.io/es/reference-video)**
+
+---
+
 <a id="community-prompt-cases"></a>
 
 ## Flujos de prompts de vídeo
@@ -383,7 +428,7 @@ Create a bright ten-second tabletop commercial for a fictional sparkling pink le
 
 <a id="workflow-physical-motion-temporal-consistency"></a>
 
-### Movimiento físico y coherencia temporal (2)
+### Movimiento físico y coherencia temporal (3)
 
 Briefs de movimiento que ponen a prueba peso, contacto, aceleración, equilibrio y continuidad temporal.
 
@@ -391,6 +436,7 @@ Briefs de movimiento que ponen a prueba peso, contacto, aceleración, equilibrio
 
 - [Elefante en una cena incómoda](#prompt-1)
 - [Malabares con cuatro naranjas y remate cómico](#prompt-3)
+- [Principio de Bernoulli con aire en stop motion](#prompt-7)
 
 <a id="workflow-animals-counting-subject-continuity"></a>
 
@@ -555,6 +601,6 @@ El texto editorial y el código creados por ImagineVid están publicados bajo [C
 **[Envía un caso verificado](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Añade una estrella a la colección](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>Generado a partir de datos locales versionados el 2026-07-22T13:56:39.726Z</sub>
+<sub>Generado a partir de datos locales versionados el 2026-07-22T14:40:25.754Z</sub>
 
 </div>

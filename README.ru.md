@@ -181,9 +181,9 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 
 | Поле коллекции | Текущее значение |
 |--------|-------|
-| Проверенные примеры | **6** |
-| Редакционный выбор | **4** |
-| Сгенерировано | **среда, 22 июля 2026 г. в 13:56:39 UTC** |
+| Проверенные примеры | **7** |
+| Редакционный выбор | **5** |
+| Сгенерировано | **среда, 22 июля 2026 г. в 14:40:25 UTC** |
 
 </div>
 
@@ -375,6 +375,51 @@ Create a bright ten-second tabletop commercial for a fictional sparkling pink le
 
 ---
 
+<a id="prompt-7"></a>
+
+### #5: Принцип Бернулли в покадровом потоке воздуха
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/Featured-gold-gold)
+
+#### Зачем нужен этот рабочий процесс
+
+Учебная настольная сцена, где давление, скорость и подъёмная сила показаны понятными предметами в единой декорации.
+
+#### Локализованный промпт
+
+```
+Создайте 12-секундное учебное стоп-моушен-видео о принципе Бернулли на ручном настольном макете. Бумажные стрелки, карточки давления, узкий канал, лёгкий шарик и две подвешенные полоски. Вид сверху: медленный поток и редкие стрелки «LOW SPEED / HIGH PRESSURE». Сузьте канал, ускорьте стрелки и замените надпись на «HIGH SPEED / LOW PRESSURE». Сбоку полоски сближаются в потоке, затем шарик висит в восходящей струе. Единые материалы, небольшие тактильные шаги, тёплая лампа, фактура бумаги, чёткий английский, фиксированные планы и мягкие звуки. Без рук, лишних формул и искажённого текста.
+```
+
+<details>
+<summary>Оригинальный промпт</summary>
+
+```
+Create a 12-second stop-motion educational video explaining the Bernoulli principle on a handcrafted classroom table. Use paper arrows, labeled pressure cards, a narrow paper channel, a lightweight ball, and two suspended paper strips. Begin with a top-down view of slow airflow and wide-spaced arrows marked “LOW SPEED / HIGH PRESSURE.” Compress the channel so the arrows move faster and replace the cards with “HIGH SPEED / LOW PRESSURE.” Cut to the two paper strips lifting toward each other as air passes between them, then show the lightweight ball hovering in a rising stream. Keep every prop materially consistent and move it in small tactile increments. Warm desk lamp, paper texture, clean English labels, locked overhead and close side angles, gentle tick-and-whoosh Foley, no hands, no extra equations, no warped text.
+```
+
+</details>
+
+#### Видео
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074600722080145408/vid/avc1/1280x720/uikPFoiwSEwIL0o1.mp4?tag=14"><img src="https://pbs.twimg.com/amplify_video_thumb/2074600722080145408/img/4YgeAwwyHuRDAR0v.jpg" height="420" alt="Принцип Бернулли в покадровом потоке воздуха - Motion preview"></a>
+
+*Нажмите на превью, чтобы открыть видео* · **[▶ Смотреть видео →](https://video.twimg.com/amplify_video/2074600722080145408/vid/avc1/1280x720/uikPFoiwSEwIL0o1.mp4?tag=14)**
+</div>
+
+#### Доказательства
+
+- **Автор:** [Ishan Misra](https://x.com/imisra_)
+- **Канонический источник:** [Канонический источник](https://x.com/imisra_/status/2074600764451041536)
+- **Опубликовано:** 7 июля 2026 г.
+- **Язык промпта:** en
+
+**[Создать по этой режиссуре · ImagineVid](https://imaginevid.io/ru/reference-video)**
+
+---
+
 <a id="community-prompt-cases"></a>
 
 ## Рабочие процессы видеопромптов
@@ -383,7 +428,7 @@ Create a bright ten-second tabletop commercial for a fictional sparkling pink le
 
 <a id="workflow-physical-motion-temporal-consistency"></a>
 
-### Физическое движение и временная целостность (2)
+### Физическое движение и временная целостность (3)
 
 Брифы движения для проверки веса, контакта, ускорения, баланса и непрерывности во времени.
 
@@ -391,6 +436,7 @@ Create a bright ten-second tabletop commercial for a fictional sparkling pink le
 
 - [Слон на неловком званом ужине](#prompt-1)
 - [Жонглирование четырьмя апельсинами с комической развязкой](#prompt-3)
+- [Принцип Бернулли в покадровом потоке воздуха](#prompt-7)
 
 <a id="workflow-animals-counting-subject-continuity"></a>
 
@@ -555,6 +601,6 @@ First-person point of view strolling along the edge of a small half-frozen pond 
 **[Отправить проверенный пример](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Поставить звезду коллекции](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>Сгенерировано из версионируемых локальных данных 2026-07-22T13:56:39.756Z</sub>
+<sub>Сгенерировано из версионируемых локальных данных 2026-07-22T14:40:25.780Z</sub>
 
 </div>

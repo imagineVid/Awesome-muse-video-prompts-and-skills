@@ -181,9 +181,9 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 
 | コレクション項目 | 現在値 |
 |--------|-------|
-| 検証済みケース | **6** |
-| 編集部のおすすめ | **4** |
-| 生成日時 | **2026年7月22日水曜日 13:56:39 UTC** |
+| 検証済みケース | **7** |
+| 編集部のおすすめ | **5** |
+| 生成日時 | **2026年7月22日水曜日 14:40:25 UTC** |
 
 </div>
 
@@ -375,6 +375,51 @@ Create a bright ten-second tabletop commercial for a fictional sparkling pink le
 
 ---
 
+<a id="prompt-7"></a>
+
+### #5: ストップモーションの気流で示すベルヌーイの原理
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/Featured-gold-gold)
+
+#### このワークフローが重要な理由
+
+圧力、速度、揚力を読みやすい実物小道具で示し、一貫したストップモーションセットを保つ教育映像。
+
+#### ローカライズ済みプロンプト
+
+```
+手作りの教室机でベルヌーイの原理を説明する12秒のストップモーション教育映像。紙の矢印、圧力カード、細い紙の通路、軽い球、吊した2本の紙帯を使う。俯瞰で、ゆっくりした気流と間隔の広い矢印「LOW SPEED / HIGH PRESSURE」から開始。通路を狭め、矢印を速く動かし「HIGH SPEED / LOW PRESSURE」に替える。横から、間を流れる空気で紙帯が互いに持ち上がる様子、続いて上昇気流に浮く球を示す。小さな手触りのある刻みで動かし、素材を統一。暖かな卓上灯、紙の質感、明瞭な英語、固定俯瞰と近接側面、穏やかな効果音。手、余分な式、崩れた文字なし。
+```
+
+<details>
+<summary>元のソースプロンプト</summary>
+
+```
+Create a 12-second stop-motion educational video explaining the Bernoulli principle on a handcrafted classroom table. Use paper arrows, labeled pressure cards, a narrow paper channel, a lightweight ball, and two suspended paper strips. Begin with a top-down view of slow airflow and wide-spaced arrows marked “LOW SPEED / HIGH PRESSURE.” Compress the channel so the arrows move faster and replace the cards with “HIGH SPEED / LOW PRESSURE.” Cut to the two paper strips lifting toward each other as air passes between them, then show the lightweight ball hovering in a rising stream. Keep every prop materially consistent and move it in small tactile increments. Warm desk lamp, paper texture, clean English labels, locked overhead and close side angles, gentle tick-and-whoosh Foley, no hands, no extra equations, no warped text.
+```
+
+</details>
+
+#### 動画
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074600722080145408/vid/avc1/1280x720/uikPFoiwSEwIL0o1.mp4?tag=14"><img src="https://pbs.twimg.com/amplify_video_thumb/2074600722080145408/img/4YgeAwwyHuRDAR0v.jpg" height="420" alt="ストップモーションの気流で示すベルヌーイの原理 - Motion preview"></a>
+
+*プレビューをクリックして動画を開く* · **[▶ 動画を見る →](https://video.twimg.com/amplify_video/2074600722080145408/vid/avc1/1280x720/uikPFoiwSEwIL0o1.mp4?tag=14)**
+</div>
+
+#### エビデンス
+
+- **クリエイター:** [Ishan Misra](https://x.com/imisra_)
+- **正規の出典:** [正規の出典](https://x.com/imisra_/status/2074600764451041536)
+- **公開日:** 2026年7月7日
+- **プロンプト言語:** en
+
+**[この方向性で制作する · ImagineVid](https://imaginevid.io/ja/reference-video)**
+
+---
+
 <a id="community-prompt-cases"></a>
 
 ## 動画プロンプトのワークフロー
@@ -383,7 +428,7 @@ Create a bright ten-second tabletop commercial for a fictional sparkling pink le
 
 <a id="workflow-physical-motion-temporal-consistency"></a>
 
-### 物理モーションと時間的一貫性 (2)
+### 物理モーションと時間的一貫性 (3)
 
 重さ、接触、加速、バランス、時間的連続性を検証する動きのブリーフ。
 
@@ -391,6 +436,7 @@ Create a bright ten-second tabletop commercial for a fictional sparkling pink le
 
 - [気まずいディナーパーティーの象](#prompt-1)
 - [4個のオレンジのジャグリングとコミカルな結末](#prompt-3)
+- [ストップモーションの気流で示すベルヌーイの原理](#prompt-7)
 
 <a id="workflow-animals-counting-subject-continuity"></a>
 
@@ -555,6 +601,6 @@ ImagineVidが作成した編集テキストとコードは[CC BY 4.0](https://cr
 **[検証済みケースを投稿する](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[コレクションにスターを付ける](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>バージョン管理されたローカルデータから生成： 2026-07-22T13:56:39.745Z</sub>
+<sub>バージョン管理されたローカルデータから生成： 2026-07-22T14:40:25.769Z</sub>
 
 </div>
