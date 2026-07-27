@@ -183,7 +183,7 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 |--------|-------|
 | 検証済みケース | **7** |
 | 編集部のおすすめ | **5** |
-| 生成日時 | **2026年7月27日月曜日 17:43:05 UTC** |
+| 生成日時 | **2026年7月27日月曜日 21:11:14 UTC** |
 
 </div>
 
@@ -601,6 +601,6 @@ ImagineVidが作成した編集テキストとコードは[CC BY 4.0](https://cr
 **[検証済みケースを投稿する](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[コレクションにスターを付ける](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>バージョン管理されたローカルデータから生成： 2026-07-27T17:43:05.748Z</sub>
+<sub>バージョン管理されたローカルデータから生成： 2026-07-27T21:11:14.759Z</sub>
 
 </div>
