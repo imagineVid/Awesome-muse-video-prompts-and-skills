@@ -181,9 +181,9 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 
 | 集合字段 | 当前值 |
 |--------|-------|
-| 已核验案例 | **8** |
+| 已核验案例 | **9** |
 | 编辑精选 | **5** |
-| 生成时间 | **2026年8月3日星期一 UTC 14:40:43** |
+| 生成时间 | **2026年8月3日星期一 UTC 15:15:30** |
 
 </div>
 
@@ -430,7 +430,7 @@ Create a 12-second stop-motion educational video explaining the Bernoulli princi
 
 <a id="workflow-physical-motion-temporal-consistency"></a>
 
-### 物理运动与时间一致性 (4)
+### 物理运动与时间一致性 (5)
 
 检验重量、接触、加速度、平衡与时间连续性的运动简报。
 
@@ -486,6 +486,52 @@ Create an 8-second photorealistic nature video of a baby panda tumbling gently d
 
 ---
 
+<a id="prompt-9"></a>
+
+#### #2: 官方能力测试：原生音频与时间连续性
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 工作流为何重要
+
+透明重构 Meta 官方 Muse Video 介绍，用于检验提示词遵循、视觉保真、时间连续性、音画同步和物理可信的高速动作。
+
+##### 本地化提示词
+
+```
+为保持执行结果一致，标准提示词保留英文；下面是本地化意图摘要：
+
+Create an 8-second photorealistic video that tests prompt adherence, visual fidelity, temporal consistency, audio-video synchronization, and physically accurate fast motion. A courier sprints through a rain-slick urban plaza, vaults a low barrier, and slides to a stop beside a ringing bicycle bell. Keep the same subject, clothing, architecture, lighting, and wet-ground geometry throughout one continuous shot. Sync footsteps, fabric movement, water splashes, and the bell with visible actions. Use a stabilized handheld camera move with believable inertia, contact, and motion blur. No cuts, duplicated limbs, geometry drift, invented captions, or watermarks.
+```
+
+<details>
+<summary>原始来源提示词</summary>
+
+```
+Create an 8-second photorealistic video that tests prompt adherence, visual fidelity, temporal consistency, audio-video synchronization, and physically accurate fast motion. A courier sprints through a rain-slick urban plaza, vaults a low barrier, and slides to a stop beside a ringing bicycle bell. Keep the same subject, clothing, architecture, lighting, and wet-ground geometry throughout one continuous shot. Sync footsteps, fabric movement, water splashes, and the bell with visible actions. Use a stabilized handheld camera move with believable inertia, contact, and motion blur. No cuts, duplicated limbs, geometry drift, invented captions, or watermarks.
+```
+
+</details>
+
+##### 视频
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074556401674817536/vid/avc1/1920x1080/-zxEASNFKqyq4L5E.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2074556401674817536/img/8reQjnixFOt6s5EG.jpg" height="420" alt="官方能力测试：原生音频与时间连续性 - Motion preview"></a>
+
+*点击预览图打开视频* · **[▶ 观看视频 →](https://video.twimg.com/amplify_video/2074556401674817536/vid/avc1/1920x1080/-zxEASNFKqyq4L5E.mp4?tag=28)**
+</div>
+
+##### 证据
+
+- **创作者:** [AI at Meta](https://x.com/AIatMeta)
+- **规范来源:** [规范来源](https://x.com/AIatMeta/status/2074577662840832382)
+- **发布时间:** 2026年7月7日
+- **提示词语言:** en
+
+**[按此方向创作 · ImagineVid](https://imaginevid.io/zh/reference-video)**
+
+---
+
 <a id="workflow-animals-counting-subject-continuity"></a>
 
 ### 动物、计数与主体连续性 (2)
@@ -498,7 +544,7 @@ Create an 8-second photorealistic nature video of a baby panda tumbling gently d
 
 <a id="prompt-4"></a>
 
-#### #2: 恰好五只小鸭登上台阶
+#### #3: 恰好五只小鸭登上台阶
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -548,7 +594,7 @@ A mother duck leads a line of exactly FIVE ducklings toward a curb; the fifth an
 
 <a id="prompt-5"></a>
 
-#### #3: 半结冰池塘旁的夜间漫步
+#### #4: 半结冰池塘旁的夜间漫步
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -629,7 +675,7 @@ ImagineVid 编写的编辑文本和代码依据 [CC BY 4.0](https://creativecomm
 <details>
 <summary>查看并感谢社区作者 (4)</summary>
 
-[Alexandr Wang](https://x.com/alexandr_wang) · [Chris](https://x.com/ChrisGPT) · [Ishan Misra](https://x.com/imisra_) · [Meta AI](https://x.com/AIatMeta)
+[AI at Meta](https://x.com/AIatMeta) · [Alexandr Wang](https://x.com/alexandr_wang) · [Chris](https://x.com/ChrisGPT) · [Ishan Misra](https://x.com/imisra_)
 
 </details>
 
@@ -649,6 +695,6 @@ ImagineVid 编写的编辑文本和代码依据 [CC BY 4.0](https://creativecomm
 **[提交已核验案例](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[为集合加星](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>根据版本化本地数据生成于 2026-08-03T14:40:43.357Z</sub>
+<sub>根据版本化本地数据生成于 2026-08-03T15:15:30.514Z</sub>
 
 </div>

@@ -181,9 +181,9 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 
 | Collectieveld | Huidige waarde |
 |--------|-------|
-| Geverifieerde voorbeelden | **8** |
+| Geverifieerde voorbeelden | **9** |
 | Redactionele keuze | **5** |
-| Gegenereerd | **maandag 3 augustus 2026 om 14:40:43 UTC** |
+| Gegenereerd | **maandag 3 augustus 2026 om 15:15:30 UTC** |
 
 </div>
 
@@ -430,7 +430,7 @@ Create a 12-second stop-motion educational video explaining the Bernoulli princi
 
 <a id="workflow-physical-motion-temporal-consistency"></a>
 
-### Fysieke beweging en temporele consistentie (4)
+### Fysieke beweging en temporele consistentie (5)
 
 Bewegingsbriefings die gewicht, contact, versnelling, balans en temporele continuïteit testen.
 
@@ -486,6 +486,52 @@ Create an 8-second photorealistic nature video of a baby panda tumbling gently d
 
 ---
 
+<a id="prompt-9"></a>
+
+#### #2: Officiële capaciteitstest: native audio en temporele continuïteit
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Waarom de workflow belangrijk is
+
+Een transparante reconstructie van Meta’s officiële introductie van Muse Video, gericht op promptvolging, visuele trouw, temporele samenhang, audiosynchronisatie en fysiek geloofwaardige snelle beweging.
+
+##### Gelokaliseerde prompt
+
+```
+De canonieke prompt blijft in het Engels voor consistente uitvoering; deze notitie vat de gelokaliseerde bedoeling samen:
+
+Create an 8-second photorealistic video that tests prompt adherence, visual fidelity, temporal consistency, audio-video synchronization, and physically accurate fast motion. A courier sprints through a rain-slick urban plaza, vaults a low barrier, and slides to a stop beside a ringing bicycle bell. Keep the same subject, clothing, architecture, lighting, and wet-ground geometry throughout one continuous shot. Sync footsteps, fabric movement, water splashes, and the bell with visible actions. Use a stabilized handheld camera move with believable inertia, contact, and motion blur. No cuts, duplicated limbs, geometry drift, invented captions, or watermarks.
+```
+
+<details>
+<summary>Oorspronkelijke bronprompt</summary>
+
+```
+Create an 8-second photorealistic video that tests prompt adherence, visual fidelity, temporal consistency, audio-video synchronization, and physically accurate fast motion. A courier sprints through a rain-slick urban plaza, vaults a low barrier, and slides to a stop beside a ringing bicycle bell. Keep the same subject, clothing, architecture, lighting, and wet-ground geometry throughout one continuous shot. Sync footsteps, fabric movement, water splashes, and the bell with visible actions. Use a stabilized handheld camera move with believable inertia, contact, and motion blur. No cuts, duplicated limbs, geometry drift, invented captions, or watermarks.
+```
+
+</details>
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074556401674817536/vid/avc1/1920x1080/-zxEASNFKqyq4L5E.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2074556401674817536/img/8reQjnixFOt6s5EG.jpg" height="420" alt="Officiële capaciteitstest: native audio en temporele continuïteit - Motion preview"></a>
+
+*Klik op de voorvertoning om de video te openen* · **[▶ Video bekijken →](https://video.twimg.com/amplify_video/2074556401674817536/vid/avc1/1920x1080/-zxEASNFKqyq4L5E.mp4?tag=28)**
+</div>
+
+##### Bewijs
+
+- **Maker:** [AI at Meta](https://x.com/AIatMeta)
+- **Canonieke bron:** [Canonieke bron](https://x.com/AIatMeta/status/2074577662840832382)
+- **Gepubliceerd:** 7 juli 2026
+- **Prompttaal:** en
+
+**[Maak met deze regie · ImagineVid](https://imaginevid.io/nl/reference-video)**
+
+---
+
 <a id="workflow-animals-counting-subject-continuity"></a>
 
 ### Dieren, telling en onderwerpcontinuïteit (2)
@@ -498,7 +544,7 @@ Cases die dieridentiteit, aantallen, anatomie en ruimtelijke relaties tijdens be
 
 <a id="prompt-4"></a>
 
-#### #2: Precies vijf eendjes klimmen een opstap
+#### #3: Precies vijf eendjes klimmen een opstap
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -548,7 +594,7 @@ Shotbriefings rond camerapad, kadrering, perspectief, onthullingen en first-pers
 
 <a id="prompt-5"></a>
 
-#### #3: Nachtwandeling langs een halfbevroren vijver
+#### #4: Nachtwandeling langs een halfbevroren vijver
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -629,7 +675,7 @@ Redactionele tekst en code van ImagineVid vallen onder [CC BY 4.0](https://creat
 <details>
 <summary>Community creators we thank (4)</summary>
 
-[Alexandr Wang](https://x.com/alexandr_wang) · [Chris](https://x.com/ChrisGPT) · [Ishan Misra](https://x.com/imisra_) · [Meta AI](https://x.com/AIatMeta)
+[AI at Meta](https://x.com/AIatMeta) · [Alexandr Wang](https://x.com/alexandr_wang) · [Chris](https://x.com/ChrisGPT) · [Ishan Misra](https://x.com/imisra_)
 
 </details>
 
@@ -649,6 +695,6 @@ Redactionele tekst en code van ImagineVid vallen onder [CC BY 4.0](https://creat
 **[Een geverifieerd voorbeeld indienen](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Geef de collectie een ster](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>Gegenereerd uit versiebeheerste lokale data op 2026-08-03T14:40:43.359Z</sub>
+<sub>Gegenereerd uit versiebeheerste lokale data op 2026-08-03T15:15:30.516Z</sub>
 
 </div>

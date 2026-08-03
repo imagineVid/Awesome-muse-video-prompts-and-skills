@@ -181,9 +181,9 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 
 | Collection field | Current value |
 |--------|-------|
-| Verified Cases | **8** |
+| Verified Cases | **9** |
 | Editorial pick | **5** |
-| Generated | **Monday, August 3, 2026 at 2:40:43 PM UTC** |
+| Generated | **Monday, August 3, 2026 at 3:15:30 PM UTC** |
 
 </div>
 
@@ -383,7 +383,7 @@ Create a 12-second stop-motion educational video explaining the Bernoulli princi
 
 <a id="workflow-physical-motion-temporal-consistency"></a>
 
-### Physical Motion & Temporal Consistency (4)
+### Physical Motion & Temporal Consistency (5)
 
 Motion briefs that test weight, contact, acceleration, balance, and continuity across time.
 
@@ -428,6 +428,41 @@ Create an 8-second photorealistic nature video of a baby panda tumbling gently d
 
 ---
 
+<a id="prompt-9"></a>
+
+#### #2: Official capability probe: native audio and temporal continuity
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Why the workflow matters
+
+A transparent reconstruction from Meta’s official Muse Video introduction, designed to probe prompt adherence, visual fidelity, temporal consistency, audio sync, and physically accurate fast motion.
+
+##### Source prompt
+
+```
+Create an 8-second photorealistic video that tests prompt adherence, visual fidelity, temporal consistency, audio-video synchronization, and physically accurate fast motion. A courier sprints through a rain-slick urban plaza, vaults a low barrier, and slides to a stop beside a ringing bicycle bell. Keep the same subject, clothing, architecture, lighting, and wet-ground geometry throughout one continuous shot. Sync footsteps, fabric movement, water splashes, and the bell with visible actions. Use a stabilized handheld camera move with believable inertia, contact, and motion blur. No cuts, duplicated limbs, geometry drift, invented captions, or watermarks.
+```
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074556401674817536/vid/avc1/1920x1080/-zxEASNFKqyq4L5E.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2074556401674817536/img/8reQjnixFOt6s5EG.jpg" height="420" alt="Official capability probe: native audio and temporal continuity - Motion preview"></a>
+
+*Click the preview to open the video* · **[▶ Watch video →](https://video.twimg.com/amplify_video/2074556401674817536/vid/avc1/1920x1080/-zxEASNFKqyq4L5E.mp4?tag=28)**
+</div>
+
+##### Evidence
+
+- **Creator:** [AI at Meta](https://x.com/AIatMeta)
+- **Canonical source:** [Canonical source](https://x.com/AIatMeta/status/2074577662840832382)
+- **Published:** July 7, 2026
+- **Prompt language:** en
+
+**[Use this prompt on ImagineVid](https://imaginevid.io/reference-video)**
+
+---
+
 <a id="workflow-animals-counting-subject-continuity"></a>
 
 ### Animals, Counting & Subject Continuity (2)
@@ -440,7 +475,7 @@ Cases that keep animal identity, subject count, anatomy, and spatial relationshi
 
 <a id="prompt-4"></a>
 
-#### #2: Exactly Five Ducklings Climb a Step
+#### #3: Exactly Five Ducklings Climb a Step
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -481,7 +516,7 @@ Shot briefs built around camera path, framing, perspective, reveals, and first-p
 
 <a id="prompt-5"></a>
 
-#### #3: Night Walk Beside a Half-Frozen Pond
+#### #4: Night Walk Beside a Half-Frozen Pond
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -553,7 +588,7 @@ ImagineVid-authored editorial text and code are licensed under [CC BY 4.0](https
 <details>
 <summary>Community creators we thank (4)</summary>
 
-[Alexandr Wang](https://x.com/alexandr_wang) · [Chris](https://x.com/ChrisGPT) · [Ishan Misra](https://x.com/imisra_) · [Meta AI](https://x.com/AIatMeta)
+[AI at Meta](https://x.com/AIatMeta) · [Alexandr Wang](https://x.com/alexandr_wang) · [Chris](https://x.com/ChrisGPT) · [Ishan Misra](https://x.com/imisra_)
 
 </details>
 
@@ -573,6 +608,6 @@ ImagineVid-authored editorial text and code are licensed under [CC BY 4.0](https
 **[Submit a verified case](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star the collection](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>Generated from versioned local data on 2026-08-03T14:40:43.334Z</sub>
+<sub>Generated from versioned local data on 2026-08-03T15:15:30.485Z</sub>
 
 </div>

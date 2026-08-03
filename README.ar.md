@@ -181,9 +181,9 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 
 | حقل المجموعة | القيمة الحالية |
 |--------|-------|
-| أمثلة موثّقة | **8** |
+| أمثلة موثّقة | **9** |
 | اختيار تحريري | **5** |
-| تاريخ التوليد | **الاثنين، 3 أغسطس 2026 في 2:40:43 م UTC** |
+| تاريخ التوليد | **الاثنين، 3 أغسطس 2026 في 3:15:30 م UTC** |
 
 </div>
 
@@ -430,7 +430,7 @@ Create a 12-second stop-motion educational video explaining the Bernoulli princi
 
 <a id="workflow-physical-motion-temporal-consistency"></a>
 
-### الحركة الفيزيائية والاتساق الزمني (4)
+### الحركة الفيزيائية والاتساق الزمني (5)
 
 موجزات حركة تختبر الوزن والتلامس والتسارع والتوازن والاستمرارية عبر الزمن.
 
@@ -486,6 +486,52 @@ Create an 8-second photorealistic nature video of a baby panda tumbling gently d
 
 ---
 
+<a id="prompt-9"></a>
+
+#### #2: اختبار رسمي للقدرات: صوت أصلي واستمرارية زمنية
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### أهمية سير العمل
+
+إعادة بناء موضحة بصدق لمقدمة Meta الرسمية عن Muse Video، صممت لاختبار اتباع التعليمات، والدقة البصرية، والاستمرارية الزمنية، ومزامنة الصوت، والحركة السريعة المقنعة.
+
+##### المطالبة المترجمة
+
+```
+يبقى الموجّه الأساسي باللغة الإنجليزية للحفاظ على اتساق التنفيذ؛ يلخّص هذا التنبيه المقصد المحلي:
+
+Create an 8-second photorealistic video that tests prompt adherence, visual fidelity, temporal consistency, audio-video synchronization, and physically accurate fast motion. A courier sprints through a rain-slick urban plaza, vaults a low barrier, and slides to a stop beside a ringing bicycle bell. Keep the same subject, clothing, architecture, lighting, and wet-ground geometry throughout one continuous shot. Sync footsteps, fabric movement, water splashes, and the bell with visible actions. Use a stabilized handheld camera move with believable inertia, contact, and motion blur. No cuts, duplicated limbs, geometry drift, invented captions, or watermarks.
+```
+
+<details>
+<summary>المطالبة المصدرية الأصلية</summary>
+
+```
+Create an 8-second photorealistic video that tests prompt adherence, visual fidelity, temporal consistency, audio-video synchronization, and physically accurate fast motion. A courier sprints through a rain-slick urban plaza, vaults a low barrier, and slides to a stop beside a ringing bicycle bell. Keep the same subject, clothing, architecture, lighting, and wet-ground geometry throughout one continuous shot. Sync footsteps, fabric movement, water splashes, and the bell with visible actions. Use a stabilized handheld camera move with believable inertia, contact, and motion blur. No cuts, duplicated limbs, geometry drift, invented captions, or watermarks.
+```
+
+</details>
+
+##### الفيديو
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074556401674817536/vid/avc1/1920x1080/-zxEASNFKqyq4L5E.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2074556401674817536/img/8reQjnixFOt6s5EG.jpg" height="420" alt="اختبار رسمي للقدرات: صوت أصلي واستمرارية زمنية - Motion preview"></a>
+
+*انقر على المعاينة لفتح الفيديو* · **[▶ مشاهدة الفيديو →](https://video.twimg.com/amplify_video/2074556401674817536/vid/avc1/1920x1080/-zxEASNFKqyq4L5E.mp4?tag=28)**
+</div>
+
+##### الأدلة
+
+- **المبدع:** [AI at Meta](https://x.com/AIatMeta)
+- **المصدر الأصلي:** [المصدر الأصلي](https://x.com/AIatMeta/status/2074577662840832382)
+- **تاريخ النشر:** 7 يوليو 2026
+- **لغة المطالبة:** en
+
+**[أنشئ بهذا التوجيه · ImagineVid](https://imaginevid.io/ar/reference-video)**
+
+---
+
 <a id="workflow-animals-counting-subject-continuity"></a>
 
 ### الحيوانات والعد واستمرارية الموضوع (2)
@@ -498,7 +544,7 @@ Create an 8-second photorealistic nature video of a baby panda tumbling gently d
 
 <a id="prompt-4"></a>
 
-#### #2: خمس بطات صغيرة بالضبط تصعد درجة
+#### #3: خمس بطات صغيرة بالضبط تصعد درجة
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -548,7 +594,7 @@ A mother duck leads a line of exactly FIVE ducklings toward a curb; the fifth an
 
 <a id="prompt-5"></a>
 
-#### #3: نزهة ليلية قرب بركة نصف متجمدة
+#### #4: نزهة ليلية قرب بركة نصف متجمدة
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -629,7 +675,7 @@ First-person point of view strolling along the edge of a small half-frozen pond 
 <details>
 <summary>Community creators we thank (4)</summary>
 
-[Alexandr Wang](https://x.com/alexandr_wang) · [Chris](https://x.com/ChrisGPT) · [Ishan Misra](https://x.com/imisra_) · [Meta AI](https://x.com/AIatMeta)
+[AI at Meta](https://x.com/AIatMeta) · [Alexandr Wang](https://x.com/alexandr_wang) · [Chris](https://x.com/ChrisGPT) · [Ishan Misra](https://x.com/imisra_)
 
 </details>
 
@@ -649,6 +695,6 @@ First-person point of view strolling along the edge of a small half-frozen pond 
 **[أرسل مثالًا موثّقًا](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ضع نجمة للمجموعة](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>وُلّد من بيانات محلية مُدارة بالإصدارات في 2026-08-03T14:40:43.350Z</sub>
+<sub>وُلّد من بيانات محلية مُدارة بالإصدارات في 2026-08-03T15:15:30.505Z</sub>
 
 </div>

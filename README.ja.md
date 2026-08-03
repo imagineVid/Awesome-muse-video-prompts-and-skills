@@ -181,9 +181,9 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 
 | コレクション項目 | 現在値 |
 |--------|-------|
-| 検証済みケース | **8** |
+| 検証済みケース | **9** |
 | 編集部のおすすめ | **5** |
-| 生成日時 | **2026年8月3日月曜日 14:40:43 UTC** |
+| 生成日時 | **2026年8月3日月曜日 15:15:30 UTC** |
 
 </div>
 
@@ -430,7 +430,7 @@ Create a 12-second stop-motion educational video explaining the Bernoulli princi
 
 <a id="workflow-physical-motion-temporal-consistency"></a>
 
-### 物理モーションと時間的一貫性 (4)
+### 物理モーションと時間的一貫性 (5)
 
 重さ、接触、加速、バランス、時間的連続性を検証する動きのブリーフ。
 
@@ -486,6 +486,52 @@ Create an 8-second photorealistic nature video of a baby panda tumbling gently d
 
 ---
 
+<a id="prompt-9"></a>
+
+#### #2: 公式能力検証：ネイティブ音声と時間的連続性
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### このワークフローが重要な理由
+
+プロンプト追従、視覚的忠実度、時間的一貫性、音声同期、物理的に正確な高速動作を検証するMeta公式Muse Video紹介の透明な再構成。
+
+##### ローカライズ済みプロンプト
+
+```
+実行結果の一貫性を保つため、基準プロンプトは英語のまま掲載します。以下はローカライズした意図の要約です：
+
+Create an 8-second photorealistic video that tests prompt adherence, visual fidelity, temporal consistency, audio-video synchronization, and physically accurate fast motion. A courier sprints through a rain-slick urban plaza, vaults a low barrier, and slides to a stop beside a ringing bicycle bell. Keep the same subject, clothing, architecture, lighting, and wet-ground geometry throughout one continuous shot. Sync footsteps, fabric movement, water splashes, and the bell with visible actions. Use a stabilized handheld camera move with believable inertia, contact, and motion blur. No cuts, duplicated limbs, geometry drift, invented captions, or watermarks.
+```
+
+<details>
+<summary>元のソースプロンプト</summary>
+
+```
+Create an 8-second photorealistic video that tests prompt adherence, visual fidelity, temporal consistency, audio-video synchronization, and physically accurate fast motion. A courier sprints through a rain-slick urban plaza, vaults a low barrier, and slides to a stop beside a ringing bicycle bell. Keep the same subject, clothing, architecture, lighting, and wet-ground geometry throughout one continuous shot. Sync footsteps, fabric movement, water splashes, and the bell with visible actions. Use a stabilized handheld camera move with believable inertia, contact, and motion blur. No cuts, duplicated limbs, geometry drift, invented captions, or watermarks.
+```
+
+</details>
+
+##### 動画
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074556401674817536/vid/avc1/1920x1080/-zxEASNFKqyq4L5E.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2074556401674817536/img/8reQjnixFOt6s5EG.jpg" height="420" alt="公式能力検証：ネイティブ音声と時間的連続性 - Motion preview"></a>
+
+*プレビューをクリックして動画を開く* · **[▶ 動画を見る →](https://video.twimg.com/amplify_video/2074556401674817536/vid/avc1/1920x1080/-zxEASNFKqyq4L5E.mp4?tag=28)**
+</div>
+
+##### エビデンス
+
+- **クリエイター:** [AI at Meta](https://x.com/AIatMeta)
+- **正規の出典:** [正規の出典](https://x.com/AIatMeta/status/2074577662840832382)
+- **公開日:** 2026年7月7日
+- **プロンプト言語:** en
+
+**[この方向性で制作する · ImagineVid](https://imaginevid.io/ja/reference-video)**
+
+---
+
 <a id="workflow-animals-counting-subject-continuity"></a>
 
 ### 動物、数、被写体の連続性 (2)
@@ -498,7 +544,7 @@ Create an 8-second photorealistic nature video of a baby panda tumbling gently d
 
 <a id="prompt-4"></a>
 
-#### #2: ちょうど5羽のアヒルの子が段差を上る
+#### #3: ちょうど5羽のアヒルの子が段差を上る
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -548,7 +594,7 @@ A mother duck leads a line of exactly FIVE ducklings toward a curb; the fifth an
 
 <a id="prompt-5"></a>
 
-#### #3: 半分凍った池のそばを歩く夜
+#### #4: 半分凍った池のそばを歩く夜
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -629,7 +675,7 @@ ImagineVidが作成した編集テキストとコードは[CC BY 4.0](https://cr
 <details>
 <summary>Community creators we thank (4)</summary>
 
-[Alexandr Wang](https://x.com/alexandr_wang) · [Chris](https://x.com/ChrisGPT) · [Ishan Misra](https://x.com/imisra_) · [Meta AI](https://x.com/AIatMeta)
+[AI at Meta](https://x.com/AIatMeta) · [Alexandr Wang](https://x.com/alexandr_wang) · [Chris](https://x.com/ChrisGPT) · [Ishan Misra](https://x.com/imisra_)
 
 </details>
 
@@ -649,6 +695,6 @@ ImagineVidが作成した編集テキストとコードは[CC BY 4.0](https://cr
 **[検証済みケースを投稿する](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[コレクションにスターを付ける](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>バージョン管理されたローカルデータから生成： 2026-08-03T14:40:43.353Z</sub>
+<sub>バージョン管理されたローカルデータから生成： 2026-08-03T15:15:30.508Z</sub>
 
 </div>
