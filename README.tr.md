@@ -181,9 +181,9 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 
 | Koleksiyon alanı | Güncel değer |
 |--------|-------|
-| Doğrulanmış örnekler | **7** |
+| Doğrulanmış örnekler | **8** |
 | Editör seçimi | **5** |
-| Oluşturulma | **22 Temmuz 2026 Çarşamba 14:41:57 UTC** |
+| Oluşturulma | **3 Ağustos 2026 Pazartesi 13:15:42 UTC** |
 
 </div>
 
@@ -428,7 +428,7 @@ Create a 12-second stop-motion educational video explaining the Bernoulli princi
 
 <a id="workflow-physical-motion-temporal-consistency"></a>
 
-### Fiziksel hareket ve zamansal tutarlılık (3)
+### Fiziksel hareket ve zamansal tutarlılık (4)
 
 Ağırlık, temas, ivme, denge ve zamansal sürekliliği sınayan hareket brifleri.
 
@@ -437,6 +437,52 @@ Ağırlık, temas, ivme, denge ve zamansal sürekliliği sınayan hareket brifle
 - [Tuhaf bir akşam yemeğinde fil](#prompt-1)
 - [Dört portakallı jonglörlük ve komik final](#prompt-3)
 - [Stop-motion hava akışıyla Bernoulli ilkesi](#prompt-7)
+
+<a id="prompt-8"></a>
+
+#### #1: Yüz sürekliliğini koruyan yavru pandanın yuvarlanışı
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### İş akışı neden önemli
+
+“Yüz sürekliliğini koruyan yavru pandanın yuvarlanışı” konusunu yeniden kullanılabilir talimatlar ve doğrulanabilir sonuç medyasıyla ele alan kaynaklı bir vaka.
+
+##### Yerelleştirilmiş prompt
+
+```
+Yerelleştirilmiş sürüm: görsel amacı, özne sürekliliğini ve kanonik İngilizce promptun tüm kısıtlarını koruyun.
+
+Create an 8-second photorealistic nature video of a baby panda tumbling gently down a soft grassy slope in a bright meadow. Keep the panda’s facial features, fur pattern, body proportions, and eye line consistent through every movement. Start with a medium close-up as it loses balance and rolls naturally, then follow with a low, slightly wider camera move as it settles on the grass and looks toward the lens. Preserve one continuous meadow geography, stable daylight, believable contact with the ground, soft fur motion, and realistic inertia. Use clean natural ambience: light wind, grass rustle, small impacts, and a quiet panda vocalization. No cuts, morphing, duplicated animals, floating limbs, text, subtitles, or watermarks.
+```
+
+<details>
+<summary>Özgün kaynak prompt</summary>
+
+```
+Create an 8-second photorealistic nature video of a baby panda tumbling gently down a soft grassy slope in a bright meadow. Keep the panda’s facial features, fur pattern, body proportions, and eye line consistent through every movement. Start with a medium close-up as it loses balance and rolls naturally, then follow with a low, slightly wider camera move as it settles on the grass and looks toward the lens. Preserve one continuous meadow geography, stable daylight, believable contact with the ground, soft fur motion, and realistic inertia. Use clean natural ambience: light wind, grass rustle, small impacts, and a quiet panda vocalization. No cuts, morphing, duplicated animals, floating limbs, text, subtitles, or watermarks.
+```
+
+</details>
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074559506495979520/vid/avc1/1320x738/XlXs-RhVUeRvwWIH.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2074559506495979520/img/_qIUr7dVQK2_q3Rd.jpg" height="420" alt="Yüz sürekliliğini koruyan yavru pandanın yuvarlanışı - Motion preview"></a>
+
+*Videoyu açmak için önizlemeye tıklayın* · **[▶ Videoyu izle →](https://video.twimg.com/amplify_video/2074559506495979520/vid/avc1/1320x738/XlXs-RhVUeRvwWIH.mp4?tag=28)**
+</div>
+
+##### Kanıt
+
+- **Üretici:** [Chris](https://x.com/ChrisGPT)
+- **Kanonik kaynak:** [Kanonik kaynak](https://x.com/ChrisGPT/status/2074559584560410878)
+- **Yayımlandı:** 7 Temmuz 2026
+- **Prompt dili:** en
+
+**[Bu yönlendirmeyle oluştur · ImagineVid](https://imaginevid.io/tr/reference-video)**
+
+---
 
 <a id="workflow-animals-counting-subject-continuity"></a>
 
@@ -450,7 +496,7 @@ Hareket boyunca hayvan kimliğini, özne sayısını, anatomiyi ve mekânsal ili
 
 <a id="prompt-4"></a>
 
-#### #1: Tam beş ördek yavrusu basamağı çıkar
+#### #2: Tam beş ördek yavrusu basamağı çıkar
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -500,7 +546,7 @@ Kamera yolu, kadraj, perspektif, açığa çıkarma ve birinci şahıs sürükle
 
 <a id="prompt-5"></a>
 
-#### #2: Yarı donmuş gölet yanında gece yürüyüşü
+#### #3: Yarı donmuş gölet yanında gece yürüyüşü
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -579,9 +625,9 @@ ImagineVid'in editoryal metni ve kodu [CC BY 4.0](https://creativecommons.org/li
 ## Üretici kredileri
 
 <details>
-<summary>Community creators we thank (3)</summary>
+<summary>Community creators we thank (4)</summary>
 
-[Alexandr Wang](https://x.com/alexandr_wang) · [Ishan Misra](https://x.com/imisra_) · [Meta AI](https://x.com/AIatMeta)
+[Alexandr Wang](https://x.com/alexandr_wang) · [Chris](https://x.com/ChrisGPT) · [Ishan Misra](https://x.com/imisra_) · [Meta AI](https://x.com/AIatMeta)
 
 </details>
 
@@ -601,6 +647,6 @@ ImagineVid'in editoryal metni ve kodu [CC BY 4.0](https://creativecommons.org/li
 **[Doğrulanmış örnek gönder](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Koleksiyona yıldız ver](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>Sürümlenen yerel veriden oluşturulma zamanı 2026-07-22T14:41:57.529Z</sub>
+<sub>Sürümlenen yerel veriden oluşturulma zamanı 2026-08-03T13:15:42.476Z</sub>
 
 </div>

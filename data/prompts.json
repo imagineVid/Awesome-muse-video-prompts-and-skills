@@ -342,5 +342,72 @@
       ]
     },
     "sort": 7
+  },
+  {
+    "id": 8,
+    "model": "muse-video",
+    "title": {
+      "en": "Baby panda tumble with facial continuity"
+    },
+    "description": {
+      "en": "A source-backed reconstruction of Meta Muse Video’s public preview, designed to test natural inertia, facial continuity, ground contact, and one continuous meadow shot."
+    },
+    "content": {
+      "en": "Create an 8-second photorealistic nature video of a baby panda tumbling gently down a soft grassy slope in a bright meadow. Keep the panda’s facial features, fur pattern, body proportions, and eye line consistent through every movement. Start with a medium close-up as it loses balance and rolls naturally, then follow with a low, slightly wider camera move as it settles on the grass and looks toward the lens. Preserve one continuous meadow geography, stable daylight, believable contact with the ground, soft fur motion, and realistic inertia. Use clean natural ambience: light wind, grass rustle, small impacts, and a quiet panda vocalization. No cuts, morphing, duplicated animals, floating limbs, text, subtitles, or watermarks."
+    },
+    "sourceLink": "https://x.com/ChrisGPT/status/2074559584560410878",
+    "sourcePublishedAt": "2026-07-07T18:22:03.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2074559506495979520/img/_qIUr7dVQK2_q3Rd.jpg"
+    ],
+    "author": {
+      "name": "Chris",
+      "link": "https://x.com/ChrisGPT"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 8,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2074559584560410878",
+      "prompt_source": "official_preview_reconstruction",
+      "model_evidence": "muse-video-official-preview",
+      "collected_at": "2026-08-03",
+      "retweetCount": 9,
+      "replyCount": 3,
+      "likeCount": 86,
+      "quoteCount": 0,
+      "viewCount": 13136,
+      "bookmarkCount": 16
+    },
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2074559506495979520/vid/avc1/1320x738/XlXs-RhVUeRvwWIH.mp4?tag=28",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2074559506495979520/img/_qIUr7dVQK2_q3Rd.jpg"
+    },
+    "videoCategories": {
+      "workflows": [
+        {
+          "id": 61,
+          "title": {
+            "en": "Physical Motion & Temporal Consistency",
+            "es": "Movimiento físico y coherencia temporal",
+            "pt": "Movimento físico e coerência temporal",
+            "it": "Movimento fisico e coerenza temporale",
+            "de": "Physische Bewegung und zeitliche Konsistenz",
+            "fr": "Mouvement physique et cohérence temporelle",
+            "ar": "الحركة الفيزيائية والاتساق الزمني",
+            "ja": "物理モーションと時間的一貫性",
+            "ko": "물리적 움직임 및 시간 일관성",
+            "zh": "物理运动与时间一致性",
+            "nl": "Fysieke beweging en temporele consistentie",
+            "ru": "Физическое движение и временная целостность",
+            "tr": "Fiziksel hareket ve zamansal tutarlılık",
+            "pl": "Ruch fizyczny i spójność czasowa"
+          },
+          "slug": "physical-motion-temporal-consistency"
+        }
+      ]
+    }
   }
 ]

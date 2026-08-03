@@ -181,9 +181,9 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 
 | Поле коллекции | Текущее значение |
 |--------|-------|
-| Проверенные примеры | **7** |
+| Проверенные примеры | **8** |
 | Редакционный выбор | **5** |
-| Сгенерировано | **среда, 22 июля 2026 г. в 14:41:57 UTC** |
+| Сгенерировано | **понедельник, 3 августа 2026 г. в 13:15:42 UTC** |
 
 </div>
 
@@ -428,7 +428,7 @@ Create a 12-second stop-motion educational video explaining the Bernoulli princi
 
 <a id="workflow-physical-motion-temporal-consistency"></a>
 
-### Физическое движение и временная целостность (3)
+### Физическое движение и временная целостность (4)
 
 Брифы движения для проверки веса, контакта, ускорения, баланса и непрерывности во времени.
 
@@ -437,6 +437,52 @@ Create a 12-second stop-motion educational video explaining the Bernoulli princi
 - [Слон на неловком званом ужине](#prompt-1)
 - [Жонглирование четырьмя апельсинами с комической развязкой](#prompt-3)
 - [Принцип Бернулли в покадровом потоке воздуха](#prompt-7)
+
+<a id="prompt-8"></a>
+
+#### #1: Кувырок детёныша панды с сохранением черт лица
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Зачем нужен этот рабочий процесс
+
+Кейс с подтверждённым источником о задаче «Кувырок детёныша панды с сохранением черт лица», с повторно используемыми инструкциями и проверяемым результатом.
+
+##### Локализованный промпт
+
+```
+Локализованная версия: сохраните визуальный замысел, непрерывность объекта и все ограничения канонического английского промпта.
+
+Create an 8-second photorealistic nature video of a baby panda tumbling gently down a soft grassy slope in a bright meadow. Keep the panda’s facial features, fur pattern, body proportions, and eye line consistent through every movement. Start with a medium close-up as it loses balance and rolls naturally, then follow with a low, slightly wider camera move as it settles on the grass and looks toward the lens. Preserve one continuous meadow geography, stable daylight, believable contact with the ground, soft fur motion, and realistic inertia. Use clean natural ambience: light wind, grass rustle, small impacts, and a quiet panda vocalization. No cuts, morphing, duplicated animals, floating limbs, text, subtitles, or watermarks.
+```
+
+<details>
+<summary>Оригинальный промпт</summary>
+
+```
+Create an 8-second photorealistic nature video of a baby panda tumbling gently down a soft grassy slope in a bright meadow. Keep the panda’s facial features, fur pattern, body proportions, and eye line consistent through every movement. Start with a medium close-up as it loses balance and rolls naturally, then follow with a low, slightly wider camera move as it settles on the grass and looks toward the lens. Preserve one continuous meadow geography, stable daylight, believable contact with the ground, soft fur motion, and realistic inertia. Use clean natural ambience: light wind, grass rustle, small impacts, and a quiet panda vocalization. No cuts, morphing, duplicated animals, floating limbs, text, subtitles, or watermarks.
+```
+
+</details>
+
+##### Видео
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074559506495979520/vid/avc1/1320x738/XlXs-RhVUeRvwWIH.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2074559506495979520/img/_qIUr7dVQK2_q3Rd.jpg" height="420" alt="Кувырок детёныша панды с сохранением черт лица - Motion preview"></a>
+
+*Нажмите на превью, чтобы открыть видео* · **[▶ Смотреть видео →](https://video.twimg.com/amplify_video/2074559506495979520/vid/avc1/1320x738/XlXs-RhVUeRvwWIH.mp4?tag=28)**
+</div>
+
+##### Доказательства
+
+- **Автор:** [Chris](https://x.com/ChrisGPT)
+- **Канонический источник:** [Канонический источник](https://x.com/ChrisGPT/status/2074559584560410878)
+- **Опубликовано:** 7 июля 2026 г.
+- **Язык промпта:** en
+
+**[Создать по этой режиссуре · ImagineVid](https://imaginevid.io/ru/reference-video)**
+
+---
 
 <a id="workflow-animals-counting-subject-continuity"></a>
 
@@ -450,7 +496,7 @@ Create a 12-second stop-motion educational video explaining the Bernoulli princi
 
 <a id="prompt-4"></a>
 
-#### #1: Ровно пять утят поднимаются на ступеньку
+#### #2: Ровно пять утят поднимаются на ступеньку
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -500,7 +546,7 @@ A mother duck leads a line of exactly FIVE ducklings toward a curb; the fifth an
 
 <a id="prompt-5"></a>
 
-#### #2: Ночная прогулка у полузамёрзшего пруда
+#### #3: Ночная прогулка у полузамёрзшего пруда
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -579,9 +625,9 @@ First-person point of view strolling along the edge of a small half-frozen pond 
 ## Благодарности авторам
 
 <details>
-<summary>Community creators we thank (3)</summary>
+<summary>Community creators we thank (4)</summary>
 
-[Alexandr Wang](https://x.com/alexandr_wang) · [Ishan Misra](https://x.com/imisra_) · [Meta AI](https://x.com/AIatMeta)
+[Alexandr Wang](https://x.com/alexandr_wang) · [Chris](https://x.com/ChrisGPT) · [Ishan Misra](https://x.com/imisra_) · [Meta AI](https://x.com/AIatMeta)
 
 </details>
 
@@ -601,6 +647,6 @@ First-person point of view strolling along the edge of a small half-frozen pond 
 **[Отправить проверенный пример](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Поставить звезду коллекции](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>Сгенерировано из версионируемых локальных данных 2026-07-22T14:41:57.515Z</sub>
+<sub>Сгенерировано из версионируемых локальных данных 2026-08-03T13:15:42.474Z</sub>
 
 </div>

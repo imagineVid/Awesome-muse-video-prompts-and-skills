@@ -34,6 +34,11 @@
       "title": "Principio de Bernoulli con aire en stop motion",
       "description": "Secuencia educativa de mesa que convierte presión, velocidad y sustentación en objetos legibles dentro de un único set.",
       "content": "Vídeo educativo stop motion de 12 segundos sobre el principio de Bernoulli en una mesa artesanal. Usa flechas de papel, tarjetas de presión, un canal estrecho, una pelota ligera y dos tiras suspendidas. Empieza cenital con aire lento y flechas separadas: “LOW SPEED / HIGH PRESSURE”. Estrecha el canal, acelera las flechas y cambia a “HIGH SPEED / LOW PRESSURE”. En vista lateral, las tiras se acercan cuando pasa aire entre ellas; después la pelota flota en una corriente ascendente. Conserva materiales y mueve todo en pequeños pasos táctiles. Lámpara cálida, textura de papel, inglés nítido, planos fijos y Foley suave. Sin manos, fórmulas extra ni texto deformado."
+    },
+    "8": {
+      "title": "Revolcón de un panda bebé con continuidad facial",
+      "description": "Un caso respaldado por fuentes que explora «Revolcón de un panda bebé con continuidad facial», con instrucciones reutilizables y medios de resultado verificables.",
+      "content": "Versión localizada: conserva la intención visual, la continuidad del sujeto y todas las restricciones del prompt canónico en inglés.\n\nCreate an 8-second photorealistic nature video of a baby panda tumbling gently down a soft grassy slope in a bright meadow. Keep the panda’s facial features, fur pattern, body proportions, and eye line consistent through every movement. Start with a medium close-up as it loses balance and rolls naturally, then follow with a low, slightly wider camera move as it settles on the grass and looks toward the lens. Preserve one continuous meadow geography, stable daylight, believable contact with the ground, soft fur motion, and realistic inertia. Use clean natural ambience: light wind, grass rustle, small impacts, and a quiet panda vocalization. No cuts, morphing, duplicated animals, floating limbs, text, subtitles, or watermarks."
     }
   },
   "de": {
@@ -71,6 +76,11 @@
       "title": "Bernoulli-Prinzip mit Stop-Motion-Luftstrom",
       "description": "Eine pädagogische Tischsequenz, die Druck, Geschwindigkeit und Auftrieb mit lesbaren Requisiten in einem Set erklärt.",
       "content": "12-sekündiges Stop-Motion-Lehrvideo zum Bernoulli-Prinzip auf einem handgefertigten Klassenzimmertisch. Papierpfeile, Druckkarten, enger Papierkanal, leichter Ball und zwei hängende Papierstreifen. Draufsicht: langsamer Luftstrom und weit gesetzte Pfeile „LOW SPEED / HIGH PRESSURE“. Kanal verengen, Pfeile beschleunigen und Karten zu „HIGH SPEED / LOW PRESSURE“ wechseln. Seitenansicht: Streifen nähern sich im Luftstrom; danach schwebt der Ball im Aufwind. Einheitliche Materialien, kleine fühlbare Schritte, warme Tischlampe, Papiertextur, klare englische Beschriftung, feste Ansichten und sanfte Geräusche. Keine Hände, Zusatzformeln oder verzerrte Schrift."
+    },
+    "8": {
+      "title": "Baby-Panda-Rolle mit konsistenten Gesichtszügen",
+      "description": "Ein quellenbelegter Fall zu „Baby-Panda-Rolle mit konsistenten Gesichtszügen“ mit wiederverwendbaren Anweisungen und überprüfbaren Ergebnismedien.",
+      "content": "Lokalisierte Fassung: Bewahre die visuelle Absicht, die Motivkontinuität und alle Einschränkungen des englischen kanonischen Prompts.\n\nCreate an 8-second photorealistic nature video of a baby panda tumbling gently down a soft grassy slope in a bright meadow. Keep the panda’s facial features, fur pattern, body proportions, and eye line consistent through every movement. Start with a medium close-up as it loses balance and rolls naturally, then follow with a low, slightly wider camera move as it settles on the grass and looks toward the lens. Preserve one continuous meadow geography, stable daylight, believable contact with the ground, soft fur motion, and realistic inertia. Use clean natural ambience: light wind, grass rustle, small impacts, and a quiet panda vocalization. No cuts, morphing, duplicated animals, floating limbs, text, subtitles, or watermarks."
     }
   },
   "fr": {
@@ -108,6 +118,11 @@
       "title": "Principe de Bernoulli en flux d’air stop motion",
       "description": "Séquence pédagogique de table qui matérialise pression, vitesse et portance dans un décor stop motion cohérent.",
       "content": "Vidéo pédagogique stop motion de 12 secondes sur le principe de Bernoulli, sur une table artisanale. Utilisez flèches en papier, cartes de pression, canal étroit, balle légère et deux bandes suspendues. Commencez en plongée avec un flux lent et des flèches espacées: « LOW SPEED / HIGH PRESSURE ». Resserrez le canal, accélérez les flèches et passez à « HIGH SPEED / LOW PRESSURE ». De côté, les bandes se rapprochent lorsque l’air passe entre elles, puis la balle flotte dans un courant ascendant. Matériaux cohérents, petits déplacements tactiles, lampe chaude, papier visible, anglais net, plans fixes et Foley doux. Sans mains, formules supplémentaires ni texte déformé."
+    },
+    "8": {
+      "title": "Roulade d’un bébé panda avec continuité du visage",
+      "description": "Un cas documenté par une source autour de « Roulade d’un bébé panda avec continuité du visage », avec des instructions réutilisables et un résultat vérifiable.",
+      "content": "Version localisée : conservez l’intention visuelle, la continuité du sujet et toutes les contraintes du prompt canonique anglais.\n\nCreate an 8-second photorealistic nature video of a baby panda tumbling gently down a soft grassy slope in a bright meadow. Keep the panda’s facial features, fur pattern, body proportions, and eye line consistent through every movement. Start with a medium close-up as it loses balance and rolls naturally, then follow with a low, slightly wider camera move as it settles on the grass and looks toward the lens. Preserve one continuous meadow geography, stable daylight, believable contact with the ground, soft fur motion, and realistic inertia. Use clean natural ambience: light wind, grass rustle, small impacts, and a quiet panda vocalization. No cuts, morphing, duplicated animals, floating limbs, text, subtitles, or watermarks."
     }
   },
   "ja": {
@@ -145,6 +160,11 @@
       "title": "ストップモーションの気流で示すベルヌーイの原理",
       "description": "圧力、速度、揚力を読みやすい実物小道具で示し、一貫したストップモーションセットを保つ教育映像。",
       "content": "手作りの教室机でベルヌーイの原理を説明する12秒のストップモーション教育映像。紙の矢印、圧力カード、細い紙の通路、軽い球、吊した2本の紙帯を使う。俯瞰で、ゆっくりした気流と間隔の広い矢印「LOW SPEED / HIGH PRESSURE」から開始。通路を狭め、矢印を速く動かし「HIGH SPEED / LOW PRESSURE」に替える。横から、間を流れる空気で紙帯が互いに持ち上がる様子、続いて上昇気流に浮く球を示す。小さな手触りのある刻みで動かし、素材を統一。暖かな卓上灯、紙の質感、明瞭な英語、固定俯瞰と近接側面、穏やかな効果音。手、余分な式、崩れた文字なし。"
+    },
+    "8": {
+      "title": "顔の連続性を保つ子パンダの転がり",
+      "description": "「顔の連続性を保つ子パンダの転がり」を検証可能な結果メディアと再利用できる指示で試す、出典付きのケースです。",
+      "content": "ローカライズ版：英語の基準プロンプトにある視覚的意図、被写体の連続性、すべての制約を維持します。\n\nCreate an 8-second photorealistic nature video of a baby panda tumbling gently down a soft grassy slope in a bright meadow. Keep the panda’s facial features, fur pattern, body proportions, and eye line consistent through every movement. Start with a medium close-up as it loses balance and rolls naturally, then follow with a low, slightly wider camera move as it settles on the grass and looks toward the lens. Preserve one continuous meadow geography, stable daylight, believable contact with the ground, soft fur motion, and realistic inertia. Use clean natural ambience: light wind, grass rustle, small impacts, and a quiet panda vocalization. No cuts, morphing, duplicated animals, floating limbs, text, subtitles, or watermarks."
     }
   },
   "ko": {
@@ -182,6 +202,11 @@
       "title": "스톱모션 공기 흐름으로 설명하는 베르누이 원리",
       "description": "압력, 속도와 양력을 읽기 쉬운 실제 소품으로 보여 주며 하나의 스톱모션 세트를 유지하는 교육 영상.",
       "content": "수제 교실 테이블에서 베르누이 원리를 설명하는 12초 스톱모션 교육 영상. 종이 화살표, 압력 카드, 좁은 종이 통로, 가벼운 공, 매단 종이 띠 두 개를 사용한다. 위에서 느린 공기와 넓은 간격의 “LOW SPEED / HIGH PRESSURE” 화살표로 시작한다. 통로를 좁혀 화살표를 빠르게 움직이고 “HIGH SPEED / LOW PRESSURE”로 바꾼다. 옆면에서 두 종이 띠 사이로 공기가 지나가며 서로 가까워지는 모습, 이어 상승 기류에 공이 뜨는 모습을 보여 준다. 모든 소품은 동일한 재질과 작은 촉각적 단계로 움직인다. 따뜻한 스탠드 조명, 종이 질감, 선명한 영어, 고정된 탑뷰와 측면 클로즈업, 부드러운 효과음. 손, 추가 수식, 깨진 글자 없음."
+    },
+    "8": {
+      "title": "얼굴 연속성을 유지하는 아기 판다 구르기",
+      "description": "검증 가능한 결과 미디어와 재사용 가능한 지침으로 '얼굴 연속성을 유지하는 아기 판다 구르기'을 테스트하는 출처 기반 사례입니다.",
+      "content": "현지화 버전: 영어 기준 프롬프트의 시각적 의도, 피사체 연속성, 모든 제약을 유지합니다.\n\nCreate an 8-second photorealistic nature video of a baby panda tumbling gently down a soft grassy slope in a bright meadow. Keep the panda’s facial features, fur pattern, body proportions, and eye line consistent through every movement. Start with a medium close-up as it loses balance and rolls naturally, then follow with a low, slightly wider camera move as it settles on the grass and looks toward the lens. Preserve one continuous meadow geography, stable daylight, believable contact with the ground, soft fur motion, and realistic inertia. Use clean natural ambience: light wind, grass rustle, small impacts, and a quiet panda vocalization. No cuts, morphing, duplicated animals, floating limbs, text, subtitles, or watermarks."
     }
   },
   "zh": {
@@ -219,6 +244,11 @@
       "title": "用定格气流讲解伯努利原理",
       "description": "一段桌面教育短片，用可读的实体道具呈现压力、速度与升力，并保持统一的定格布景。",
       "content": "制作一段 12 秒定格动画教育视频，在手工课堂桌面上解释伯努利原理。使用纸箭头、压力标签卡、狭窄纸通道、轻质小球和两条悬挂纸带。俯拍开始：缓慢气流与间距较大的箭头，标签为“低速 / 高压”。压窄通道，让箭头移动更快，并替换为“高速 / 低压”。随后侧拍两条纸带在中间气流经过时彼此靠近，再展示小球悬浮在向上的气流中。所有道具材质和形态一致，以细小、可触感的步进移动。暖色台灯、纸张纹理、清晰英文标签、固定俯拍与近距离侧拍、轻柔滴答和呼呼声。不要出现手、额外公式或变形文字。"
+    },
+    "8": {
+      "title": "保持面部连续性的幼年熊猫翻滚",
+      "description": "以可复用指令和可核验结果媒体测试“保持面部连续性的幼年熊猫翻滚”的来源明确案例。",
+      "content": "本地化版本：保留英文基准提示词的视觉意图、主体连续性和全部约束。\n\nCreate an 8-second photorealistic nature video of a baby panda tumbling gently down a soft grassy slope in a bright meadow. Keep the panda’s facial features, fur pattern, body proportions, and eye line consistent through every movement. Start with a medium close-up as it loses balance and rolls naturally, then follow with a low, slightly wider camera move as it settles on the grass and looks toward the lens. Preserve one continuous meadow geography, stable daylight, believable contact with the ground, soft fur motion, and realistic inertia. Use clean natural ambience: light wind, grass rustle, small impacts, and a quiet panda vocalization. No cuts, morphing, duplicated animals, floating limbs, text, subtitles, or watermarks."
     }
   }
 }

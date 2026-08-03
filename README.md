@@ -181,9 +181,9 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 
 | Collection field | Current value |
 |--------|-------|
-| Verified Cases | **7** |
+| Verified Cases | **8** |
 | Editorial pick | **5** |
-| Generated | **Wednesday, July 22, 2026 at 2:41:57 PM UTC** |
+| Generated | **Monday, August 3, 2026 at 1:15:42 PM UTC** |
 
 </div>
 
@@ -383,7 +383,7 @@ Create a 12-second stop-motion educational video explaining the Bernoulli princi
 
 <a id="workflow-physical-motion-temporal-consistency"></a>
 
-### Physical Motion & Temporal Consistency (3)
+### Physical Motion & Temporal Consistency (4)
 
 Motion briefs that test weight, contact, acceleration, balance, and continuity across time.
 
@@ -392,6 +392,41 @@ Motion briefs that test weight, contact, acceleration, balance, and continuity a
 - [Elephant at an Awkward Dinner Party](#prompt-1)
 - [Four-Orange Juggle With a Comic Payoff](#prompt-3)
 - [Bernoulli principle explained with stop-motion airflow](#prompt-7)
+
+<a id="prompt-8"></a>
+
+#### #1: Baby panda tumble with facial continuity
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Why the workflow matters
+
+A source-backed reconstruction of Meta Muse Video’s public preview, designed to test natural inertia, facial continuity, ground contact, and one continuous meadow shot.
+
+##### Source prompt
+
+```
+Create an 8-second photorealistic nature video of a baby panda tumbling gently down a soft grassy slope in a bright meadow. Keep the panda’s facial features, fur pattern, body proportions, and eye line consistent through every movement. Start with a medium close-up as it loses balance and rolls naturally, then follow with a low, slightly wider camera move as it settles on the grass and looks toward the lens. Preserve one continuous meadow geography, stable daylight, believable contact with the ground, soft fur motion, and realistic inertia. Use clean natural ambience: light wind, grass rustle, small impacts, and a quiet panda vocalization. No cuts, morphing, duplicated animals, floating limbs, text, subtitles, or watermarks.
+```
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074559506495979520/vid/avc1/1320x738/XlXs-RhVUeRvwWIH.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2074559506495979520/img/_qIUr7dVQK2_q3Rd.jpg" height="420" alt="Baby panda tumble with facial continuity - Motion preview"></a>
+
+*Click the preview to open the video* · **[▶ Watch video →](https://video.twimg.com/amplify_video/2074559506495979520/vid/avc1/1320x738/XlXs-RhVUeRvwWIH.mp4?tag=28)**
+</div>
+
+##### Evidence
+
+- **Creator:** [Chris](https://x.com/ChrisGPT)
+- **Canonical source:** [Canonical source](https://x.com/ChrisGPT/status/2074559584560410878)
+- **Published:** July 7, 2026
+- **Prompt language:** en
+
+**[Use this prompt on ImagineVid](https://imaginevid.io/reference-video)**
+
+---
 
 <a id="workflow-animals-counting-subject-continuity"></a>
 
@@ -405,7 +440,7 @@ Cases that keep animal identity, subject count, anatomy, and spatial relationshi
 
 <a id="prompt-4"></a>
 
-#### #1: Exactly Five Ducklings Climb a Step
+#### #2: Exactly Five Ducklings Climb a Step
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -446,7 +481,7 @@ Shot briefs built around camera path, framing, perspective, reveals, and first-p
 
 <a id="prompt-5"></a>
 
-#### #2: Night Walk Beside a Half-Frozen Pond
+#### #3: Night Walk Beside a Half-Frozen Pond
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -516,9 +551,9 @@ ImagineVid-authored editorial text and code are licensed under [CC BY 4.0](https
 ## Creator Credits
 
 <details>
-<summary>Community creators we thank (3)</summary>
+<summary>Community creators we thank (4)</summary>
 
-[Alexandr Wang](https://x.com/alexandr_wang) · [Ishan Misra](https://x.com/imisra_) · [Meta AI](https://x.com/AIatMeta)
+[Alexandr Wang](https://x.com/alexandr_wang) · [Chris](https://x.com/ChrisGPT) · [Ishan Misra](https://x.com/imisra_) · [Meta AI](https://x.com/AIatMeta)
 
 </details>
 
@@ -538,6 +573,6 @@ ImagineVid-authored editorial text and code are licensed under [CC BY 4.0](https
 **[Submit a verified case](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star the collection](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>Generated from versioned local data on 2026-07-22T14:41:57.385Z</sub>
+<sub>Generated from versioned local data on 2026-08-03T13:15:42.452Z</sub>
 
 </div>

@@ -181,9 +181,9 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 
 | Collectieveld | Huidige waarde |
 |--------|-------|
-| Geverifieerde voorbeelden | **7** |
+| Geverifieerde voorbeelden | **8** |
 | Redactionele keuze | **5** |
-| Gegenereerd | **woensdag 22 juli 2026 om 14:41:57 UTC** |
+| Gegenereerd | **maandag 3 augustus 2026 om 13:15:42 UTC** |
 
 </div>
 
@@ -428,7 +428,7 @@ Create a 12-second stop-motion educational video explaining the Bernoulli princi
 
 <a id="workflow-physical-motion-temporal-consistency"></a>
 
-### Fysieke beweging en temporele consistentie (3)
+### Fysieke beweging en temporele consistentie (4)
 
 Bewegingsbriefings die gewicht, contact, versnelling, balans en temporele continuïteit testen.
 
@@ -437,6 +437,52 @@ Bewegingsbriefings die gewicht, contact, versnelling, balans en temporele contin
 - [Olifant op een ongemakkelijk diner](#prompt-1)
 - [Vier sinaasappels jongleren met komische afloop](#prompt-3)
 - [Bernoulli-principe met stop-motionlucht](#prompt-7)
+
+<a id="prompt-8"></a>
+
+#### #1: Een rollende babypanda met consistente gezichtskenmerken
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Waarom de workflow belangrijk is
+
+Een brononderbouwde case rond “Een rollende babypanda met consistente gezichtskenmerken”, met herbruikbare instructies en controleerbare resultaatmedia.
+
+##### Gelokaliseerde prompt
+
+```
+Gelokaliseerde versie: behoud de visuele bedoeling, onderwerpcontinuïteit en alle beperkingen van de canonieke Engelse prompt.
+
+Create an 8-second photorealistic nature video of a baby panda tumbling gently down a soft grassy slope in a bright meadow. Keep the panda’s facial features, fur pattern, body proportions, and eye line consistent through every movement. Start with a medium close-up as it loses balance and rolls naturally, then follow with a low, slightly wider camera move as it settles on the grass and looks toward the lens. Preserve one continuous meadow geography, stable daylight, believable contact with the ground, soft fur motion, and realistic inertia. Use clean natural ambience: light wind, grass rustle, small impacts, and a quiet panda vocalization. No cuts, morphing, duplicated animals, floating limbs, text, subtitles, or watermarks.
+```
+
+<details>
+<summary>Oorspronkelijke bronprompt</summary>
+
+```
+Create an 8-second photorealistic nature video of a baby panda tumbling gently down a soft grassy slope in a bright meadow. Keep the panda’s facial features, fur pattern, body proportions, and eye line consistent through every movement. Start with a medium close-up as it loses balance and rolls naturally, then follow with a low, slightly wider camera move as it settles on the grass and looks toward the lens. Preserve one continuous meadow geography, stable daylight, believable contact with the ground, soft fur motion, and realistic inertia. Use clean natural ambience: light wind, grass rustle, small impacts, and a quiet panda vocalization. No cuts, morphing, duplicated animals, floating limbs, text, subtitles, or watermarks.
+```
+
+</details>
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074559506495979520/vid/avc1/1320x738/XlXs-RhVUeRvwWIH.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2074559506495979520/img/_qIUr7dVQK2_q3Rd.jpg" height="420" alt="Een rollende babypanda met consistente gezichtskenmerken - Motion preview"></a>
+
+*Klik op de voorvertoning om de video te openen* · **[▶ Video bekijken →](https://video.twimg.com/amplify_video/2074559506495979520/vid/avc1/1320x738/XlXs-RhVUeRvwWIH.mp4?tag=28)**
+</div>
+
+##### Bewijs
+
+- **Maker:** [Chris](https://x.com/ChrisGPT)
+- **Canonieke bron:** [Canonieke bron](https://x.com/ChrisGPT/status/2074559584560410878)
+- **Gepubliceerd:** 7 juli 2026
+- **Prompttaal:** en
+
+**[Maak met deze regie · ImagineVid](https://imaginevid.io/nl/reference-video)**
+
+---
 
 <a id="workflow-animals-counting-subject-continuity"></a>
 
@@ -450,7 +496,7 @@ Cases die dieridentiteit, aantallen, anatomie en ruimtelijke relaties tijdens be
 
 <a id="prompt-4"></a>
 
-#### #1: Precies vijf eendjes klimmen een opstap
+#### #2: Precies vijf eendjes klimmen een opstap
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -500,7 +546,7 @@ Shotbriefings rond camerapad, kadrering, perspectief, onthullingen en first-pers
 
 <a id="prompt-5"></a>
 
-#### #2: Nachtwandeling langs een halfbevroren vijver
+#### #3: Nachtwandeling langs een halfbevroren vijver
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -579,9 +625,9 @@ Redactionele tekst en code van ImagineVid vallen onder [CC BY 4.0](https://creat
 ## Credits voor makers
 
 <details>
-<summary>Community creators we thank (3)</summary>
+<summary>Community creators we thank (4)</summary>
 
-[Alexandr Wang](https://x.com/alexandr_wang) · [Ishan Misra](https://x.com/imisra_) · [Meta AI](https://x.com/AIatMeta)
+[Alexandr Wang](https://x.com/alexandr_wang) · [Chris](https://x.com/ChrisGPT) · [Ishan Misra](https://x.com/imisra_) · [Meta AI](https://x.com/AIatMeta)
 
 </details>
 
@@ -601,6 +647,6 @@ Redactionele tekst en code van ImagineVid vallen onder [CC BY 4.0](https://creat
 **[Een geverifieerd voorbeeld indienen](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Geef de collectie een ster](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>Gegenereerd uit versiebeheerste lokale data op 2026-07-22T14:41:57.513Z</sub>
+<sub>Gegenereerd uit versiebeheerste lokale data op 2026-08-03T13:15:42.473Z</sub>
 
 </div>

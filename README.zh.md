@@ -181,9 +181,9 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 
 | 集合字段 | 当前值 |
 |--------|-------|
-| 已核验案例 | **7** |
+| 已核验案例 | **8** |
 | 编辑精选 | **5** |
-| 生成时间 | **2026年7月22日星期三 UTC 14:41:57** |
+| 生成时间 | **2026年8月3日星期一 UTC 13:15:42** |
 
 </div>
 
@@ -428,7 +428,7 @@ Create a 12-second stop-motion educational video explaining the Bernoulli princi
 
 <a id="workflow-physical-motion-temporal-consistency"></a>
 
-### 物理运动与时间一致性 (3)
+### 物理运动与时间一致性 (4)
 
 检验重量、接触、加速度、平衡与时间连续性的运动简报。
 
@@ -437,6 +437,52 @@ Create a 12-second stop-motion educational video explaining the Bernoulli princi
 - [尴尬晚宴中的大象](#prompt-1)
 - [四个橙子的杂耍失误与喜剧收尾](#prompt-3)
 - [用定格气流讲解伯努利原理](#prompt-7)
+
+<a id="prompt-8"></a>
+
+#### #1: 保持面部连续性的幼年熊猫翻滚
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 工作流为何重要
+
+以可复用指令和可核验结果媒体测试“保持面部连续性的幼年熊猫翻滚”的来源明确案例。
+
+##### 本地化提示词
+
+```
+本地化版本：保留英文基准提示词的视觉意图、主体连续性和全部约束。
+
+Create an 8-second photorealistic nature video of a baby panda tumbling gently down a soft grassy slope in a bright meadow. Keep the panda’s facial features, fur pattern, body proportions, and eye line consistent through every movement. Start with a medium close-up as it loses balance and rolls naturally, then follow with a low, slightly wider camera move as it settles on the grass and looks toward the lens. Preserve one continuous meadow geography, stable daylight, believable contact with the ground, soft fur motion, and realistic inertia. Use clean natural ambience: light wind, grass rustle, small impacts, and a quiet panda vocalization. No cuts, morphing, duplicated animals, floating limbs, text, subtitles, or watermarks.
+```
+
+<details>
+<summary>原始来源提示词</summary>
+
+```
+Create an 8-second photorealistic nature video of a baby panda tumbling gently down a soft grassy slope in a bright meadow. Keep the panda’s facial features, fur pattern, body proportions, and eye line consistent through every movement. Start with a medium close-up as it loses balance and rolls naturally, then follow with a low, slightly wider camera move as it settles on the grass and looks toward the lens. Preserve one continuous meadow geography, stable daylight, believable contact with the ground, soft fur motion, and realistic inertia. Use clean natural ambience: light wind, grass rustle, small impacts, and a quiet panda vocalization. No cuts, morphing, duplicated animals, floating limbs, text, subtitles, or watermarks.
+```
+
+</details>
+
+##### 视频
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074559506495979520/vid/avc1/1320x738/XlXs-RhVUeRvwWIH.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2074559506495979520/img/_qIUr7dVQK2_q3Rd.jpg" height="420" alt="保持面部连续性的幼年熊猫翻滚 - Motion preview"></a>
+
+*点击预览图打开视频* · **[▶ 观看视频 →](https://video.twimg.com/amplify_video/2074559506495979520/vid/avc1/1320x738/XlXs-RhVUeRvwWIH.mp4?tag=28)**
+</div>
+
+##### 证据
+
+- **创作者:** [Chris](https://x.com/ChrisGPT)
+- **规范来源:** [规范来源](https://x.com/ChrisGPT/status/2074559584560410878)
+- **发布时间:** 2026年7月7日
+- **提示词语言:** en
+
+**[按此方向创作 · ImagineVid](https://imaginevid.io/zh/reference-video)**
+
+---
 
 <a id="workflow-animals-counting-subject-continuity"></a>
 
@@ -450,7 +496,7 @@ Create a 12-second stop-motion educational video explaining the Bernoulli princi
 
 <a id="prompt-4"></a>
 
-#### #1: 恰好五只小鸭登上台阶
+#### #2: 恰好五只小鸭登上台阶
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -500,7 +546,7 @@ A mother duck leads a line of exactly FIVE ducklings toward a curb; the fifth an
 
 <a id="prompt-5"></a>
 
-#### #2: 半结冰池塘旁的夜间漫步
+#### #3: 半结冰池塘旁的夜间漫步
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -579,9 +625,9 @@ ImagineVid 编写的编辑文本和代码依据 [CC BY 4.0](https://creativecomm
 ## 创作者鸣谢
 
 <details>
-<summary>查看并感谢社区作者 (3)</summary>
+<summary>查看并感谢社区作者 (4)</summary>
 
-[Alexandr Wang](https://x.com/alexandr_wang) · [Ishan Misra](https://x.com/imisra_) · [Meta AI](https://x.com/AIatMeta)
+[Alexandr Wang](https://x.com/alexandr_wang) · [Chris](https://x.com/ChrisGPT) · [Ishan Misra](https://x.com/imisra_) · [Meta AI](https://x.com/AIatMeta)
 
 </details>
 
@@ -601,6 +647,6 @@ ImagineVid 编写的编辑文本和代码依据 [CC BY 4.0](https://creativecomm
 **[提交已核验案例](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[为集合加星](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>根据版本化本地数据生成于 2026-07-22T14:41:57.497Z</sub>
+<sub>根据版本化本地数据生成于 2026-08-03T13:15:42.471Z</sub>
 
 </div>

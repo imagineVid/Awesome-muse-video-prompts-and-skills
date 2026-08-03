@@ -181,9 +181,9 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 
 | コレクション項目 | 現在値 |
 |--------|-------|
-| 検証済みケース | **7** |
+| 検証済みケース | **8** |
 | 編集部のおすすめ | **5** |
-| 生成日時 | **2026年7月22日水曜日 14:41:57 UTC** |
+| 生成日時 | **2026年8月3日月曜日 13:15:42 UTC** |
 
 </div>
 
@@ -428,7 +428,7 @@ Create a 12-second stop-motion educational video explaining the Bernoulli princi
 
 <a id="workflow-physical-motion-temporal-consistency"></a>
 
-### 物理モーションと時間的一貫性 (3)
+### 物理モーションと時間的一貫性 (4)
 
 重さ、接触、加速、バランス、時間的連続性を検証する動きのブリーフ。
 
@@ -437,6 +437,52 @@ Create a 12-second stop-motion educational video explaining the Bernoulli princi
 - [気まずいディナーパーティーの象](#prompt-1)
 - [4個のオレンジのジャグリングとコミカルな結末](#prompt-3)
 - [ストップモーションの気流で示すベルヌーイの原理](#prompt-7)
+
+<a id="prompt-8"></a>
+
+#### #1: 顔の連続性を保つ子パンダの転がり
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### このワークフローが重要な理由
+
+「顔の連続性を保つ子パンダの転がり」を検証可能な結果メディアと再利用できる指示で試す、出典付きのケースです。
+
+##### ローカライズ済みプロンプト
+
+```
+ローカライズ版：英語の基準プロンプトにある視覚的意図、被写体の連続性、すべての制約を維持します。
+
+Create an 8-second photorealistic nature video of a baby panda tumbling gently down a soft grassy slope in a bright meadow. Keep the panda’s facial features, fur pattern, body proportions, and eye line consistent through every movement. Start with a medium close-up as it loses balance and rolls naturally, then follow with a low, slightly wider camera move as it settles on the grass and looks toward the lens. Preserve one continuous meadow geography, stable daylight, believable contact with the ground, soft fur motion, and realistic inertia. Use clean natural ambience: light wind, grass rustle, small impacts, and a quiet panda vocalization. No cuts, morphing, duplicated animals, floating limbs, text, subtitles, or watermarks.
+```
+
+<details>
+<summary>元のソースプロンプト</summary>
+
+```
+Create an 8-second photorealistic nature video of a baby panda tumbling gently down a soft grassy slope in a bright meadow. Keep the panda’s facial features, fur pattern, body proportions, and eye line consistent through every movement. Start with a medium close-up as it loses balance and rolls naturally, then follow with a low, slightly wider camera move as it settles on the grass and looks toward the lens. Preserve one continuous meadow geography, stable daylight, believable contact with the ground, soft fur motion, and realistic inertia. Use clean natural ambience: light wind, grass rustle, small impacts, and a quiet panda vocalization. No cuts, morphing, duplicated animals, floating limbs, text, subtitles, or watermarks.
+```
+
+</details>
+
+##### 動画
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074559506495979520/vid/avc1/1320x738/XlXs-RhVUeRvwWIH.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2074559506495979520/img/_qIUr7dVQK2_q3Rd.jpg" height="420" alt="顔の連続性を保つ子パンダの転がり - Motion preview"></a>
+
+*プレビューをクリックして動画を開く* · **[▶ 動画を見る →](https://video.twimg.com/amplify_video/2074559506495979520/vid/avc1/1320x738/XlXs-RhVUeRvwWIH.mp4?tag=28)**
+</div>
+
+##### エビデンス
+
+- **クリエイター:** [Chris](https://x.com/ChrisGPT)
+- **正規の出典:** [正規の出典](https://x.com/ChrisGPT/status/2074559584560410878)
+- **公開日:** 2026年7月7日
+- **プロンプト言語:** en
+
+**[この方向性で制作する · ImagineVid](https://imaginevid.io/ja/reference-video)**
+
+---
 
 <a id="workflow-animals-counting-subject-continuity"></a>
 
@@ -450,7 +496,7 @@ Create a 12-second stop-motion educational video explaining the Bernoulli princi
 
 <a id="prompt-4"></a>
 
-#### #1: ちょうど5羽のアヒルの子が段差を上る
+#### #2: ちょうど5羽のアヒルの子が段差を上る
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -500,7 +546,7 @@ A mother duck leads a line of exactly FIVE ducklings toward a curb; the fifth an
 
 <a id="prompt-5"></a>
 
-#### #2: 半分凍った池のそばを歩く夜
+#### #3: 半分凍った池のそばを歩く夜
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -579,9 +625,9 @@ ImagineVidが作成した編集テキストとコードは[CC BY 4.0](https://cr
 ## クリエイタークレジット
 
 <details>
-<summary>Community creators we thank (3)</summary>
+<summary>Community creators we thank (4)</summary>
 
-[Alexandr Wang](https://x.com/alexandr_wang) · [Ishan Misra](https://x.com/imisra_) · [Meta AI](https://x.com/AIatMeta)
+[Alexandr Wang](https://x.com/alexandr_wang) · [Chris](https://x.com/ChrisGPT) · [Ishan Misra](https://x.com/imisra_) · [Meta AI](https://x.com/AIatMeta)
 
 </details>
 
@@ -601,6 +647,6 @@ ImagineVidが作成した編集テキストとコードは[CC BY 4.0](https://cr
 **[検証済みケースを投稿する](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[コレクションにスターを付ける](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>バージョン管理されたローカルデータから生成： 2026-07-22T14:41:57.467Z</sub>
+<sub>バージョン管理されたローカルデータから生成： 2026-08-03T13:15:42.467Z</sub>
 
 </div>

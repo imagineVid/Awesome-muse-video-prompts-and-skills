@@ -181,9 +181,9 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 
 | Pole kolekcji | Bieżąca wartość |
 |--------|-------|
-| Zweryfikowane przykłady | **7** |
+| Zweryfikowane przykłady | **8** |
 | Wybór redakcji | **5** |
-| Wygenerowano | **środa, 22 lipca 2026 14:41:57 UTC** |
+| Wygenerowano | **poniedziałek, 3 sierpnia 2026 13:15:42 UTC** |
 
 </div>
 
@@ -428,7 +428,7 @@ Create a 12-second stop-motion educational video explaining the Bernoulli princi
 
 <a id="workflow-physical-motion-temporal-consistency"></a>
 
-### Ruch fizyczny i spójność czasowa (3)
+### Ruch fizyczny i spójność czasowa (4)
 
 Briefy ruchu sprawdzające ciężar, kontakt, przyspieszenie, równowagę i ciągłość w czasie.
 
@@ -437,6 +437,52 @@ Briefy ruchu sprawdzające ciężar, kontakt, przyspieszenie, równowagę i cią
 - [Słoń na niezręcznej kolacji](#prompt-1)
 - [Żonglerka czterema pomarańczami z komicznym finałem](#prompt-3)
 - [Zasada Bernoulliego w animowanym przepływie powietrza](#prompt-7)
+
+<a id="prompt-8"></a>
+
+#### #1: Turlający się mały panda z ciągłością rysów twarzy
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Dlaczego ten workflow ma znaczenie
+
+Udokumentowany przypadek dotyczący „Turlający się mały panda z ciągłością rysów twarzy”, z instrukcjami do ponownego użycia i weryfikowalnym materiałem wynikowym.
+
+##### Prompt zlokalizowany
+
+```
+Wersja zlokalizowana: zachowaj intencję wizualną, ciągłość obiektu i wszystkie ograniczenia kanonicznego promptu angielskiego.
+
+Create an 8-second photorealistic nature video of a baby panda tumbling gently down a soft grassy slope in a bright meadow. Keep the panda’s facial features, fur pattern, body proportions, and eye line consistent through every movement. Start with a medium close-up as it loses balance and rolls naturally, then follow with a low, slightly wider camera move as it settles on the grass and looks toward the lens. Preserve one continuous meadow geography, stable daylight, believable contact with the ground, soft fur motion, and realistic inertia. Use clean natural ambience: light wind, grass rustle, small impacts, and a quiet panda vocalization. No cuts, morphing, duplicated animals, floating limbs, text, subtitles, or watermarks.
+```
+
+<details>
+<summary>Oryginalny prompt źródłowy</summary>
+
+```
+Create an 8-second photorealistic nature video of a baby panda tumbling gently down a soft grassy slope in a bright meadow. Keep the panda’s facial features, fur pattern, body proportions, and eye line consistent through every movement. Start with a medium close-up as it loses balance and rolls naturally, then follow with a low, slightly wider camera move as it settles on the grass and looks toward the lens. Preserve one continuous meadow geography, stable daylight, believable contact with the ground, soft fur motion, and realistic inertia. Use clean natural ambience: light wind, grass rustle, small impacts, and a quiet panda vocalization. No cuts, morphing, duplicated animals, floating limbs, text, subtitles, or watermarks.
+```
+
+</details>
+
+##### Wideo
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074559506495979520/vid/avc1/1320x738/XlXs-RhVUeRvwWIH.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2074559506495979520/img/_qIUr7dVQK2_q3Rd.jpg" height="420" alt="Turlający się mały panda z ciągłością rysów twarzy - Motion preview"></a>
+
+*Kliknij podgląd, aby otworzyć wideo* · **[▶ Obejrzyj wideo →](https://video.twimg.com/amplify_video/2074559506495979520/vid/avc1/1320x738/XlXs-RhVUeRvwWIH.mp4?tag=28)**
+</div>
+
+##### Dowody
+
+- **Twórca:** [Chris](https://x.com/ChrisGPT)
+- **Źródło kanoniczne:** [Źródło kanoniczne](https://x.com/ChrisGPT/status/2074559584560410878)
+- **Opublikowano:** 7 lipca 2026
+- **Język promptu:** en
+
+**[Utwórz z tym kierunkiem · ImagineVid](https://imaginevid.io/pl/reference-video)**
+
+---
 
 <a id="workflow-animals-counting-subject-continuity"></a>
 
@@ -450,7 +496,7 @@ Przypadki zachowujące tożsamość zwierząt, liczbę obiektów, anatomię i re
 
 <a id="prompt-4"></a>
 
-#### #1: Dokładnie pięć kaczątek wchodzi na stopień
+#### #2: Dokładnie pięć kaczątek wchodzi na stopień
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -500,7 +546,7 @@ Briefy ujęć oparte na trasie kamery, kadrowaniu, perspektywie, ujawnieniach i 
 
 <a id="prompt-5"></a>
 
-#### #2: Nocny spacer przy częściowo zamarzniętym stawie
+#### #3: Nocny spacer przy częściowo zamarzniętym stawie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -579,9 +625,9 @@ Tekst redakcyjny i kod ImagineVid są objęte licencją [CC BY 4.0](https://crea
 ## Kredyty twórców
 
 <details>
-<summary>Community creators we thank (3)</summary>
+<summary>Community creators we thank (4)</summary>
 
-[Alexandr Wang](https://x.com/alexandr_wang) · [Ishan Misra](https://x.com/imisra_) · [Meta AI](https://x.com/AIatMeta)
+[Alexandr Wang](https://x.com/alexandr_wang) · [Chris](https://x.com/ChrisGPT) · [Ishan Misra](https://x.com/imisra_) · [Meta AI](https://x.com/AIatMeta)
 
 </details>
 
@@ -601,6 +647,6 @@ Tekst redakcyjny i kod ImagineVid są objęte licencją [CC BY 4.0](https://crea
 **[Prześlij zweryfikowany przykład](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Dodaj gwiazdkę kolekcji](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>Wygenerowano z wersjonowanych danych lokalnych dnia 2026-07-22T14:41:57.531Z</sub>
+<sub>Wygenerowano z wersjonowanych danych lokalnych dnia 2026-08-03T13:15:42.477Z</sub>
 
 </div>
