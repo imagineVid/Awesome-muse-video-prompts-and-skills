@@ -183,7 +183,7 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 |--------|-------|
 | 検証済みケース | **8** |
 | 編集部のおすすめ | **5** |
-| 生成日時 | **2026年8月3日月曜日 13:27:03 UTC** |
+| 生成日時 | **2026年8月3日月曜日 14:11:54 UTC** |
 
 </div>
 
@@ -287,19 +287,21 @@ A baby panda tumbling head over heels down a small grassy slope.
 
 <a id="prompt-3"></a>
 
-### #3: 4個のオレンジのジャグリングとコミカルな結末
+### #3: 公式プレビュー：音声同期と高速動作の連続性
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Featured](https://img.shields.io/badge/Featured-gold-gold)
 
 #### このワークフローが重要な理由
 
-数、手と物体、失敗、演技、物理、同期フォーリーを10秒の起承転結にまとめます。
+Meta公式Muse Videoプレビューを透明に再構成し、プロンプト追従、時間的一貫性、音声同期、物理的に正確な高速動作を検証するケース。
 
 #### ローカライズ済みプロンプト
 
 ```
-男性が3個のオレンジをジャグリングし、4個目を加え、全部落としてしまうが、それでもお辞儀をする。暖かな自然の朝光、穏やかなスローモーション。始まり、転換、オチが明確な約10秒のワンカット。音声：静かな室内音と鮮明なフォーリー。自然な照明と物理のフォトリアルな実写。アニメ調・スタイル化は禁止。
+実行結果の一貫性を保つため、基準プロンプトは英語のまま掲載します。以下はローカライズした意図の要約です：
+
+A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyway. Warm natural morning light, gentle slow motion. A single continuous approximately 10-second moment with a clear beginning, turn, and payoff. AUDIO: quiet room tone with crisp foley. Photorealistic, natural lighting and physics, believable real-world footage. Not a cartoon, not stylized.
 ```
 
 <details>
@@ -314,7 +316,7 @@ A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyw
 #### 動画
 
 <div align="center">
-<a href="https://video.twimg.com/amplify_video/2074598559400247296/vid/avc1/1280x720/MT-tOwM5MF3PII-y.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2074598559400247296/img/9mkUTmS0L1VPbKLA.jpg" height="420" alt="4個のオレンジのジャグリングとコミカルな結末 - Motion preview"></a>
+<a href="https://video.twimg.com/amplify_video/2074598559400247296/vid/avc1/1280x720/MT-tOwM5MF3PII-y.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2074598559400247296/img/9mkUTmS0L1VPbKLA.jpg" height="420" alt="公式プレビュー：音声同期と高速動作の連続性 - Motion preview"></a>
 
 *プレビューをクリックして動画を開く* · **[▶ 動画を見る →](https://video.twimg.com/amplify_video/2074598559400247296/vid/avc1/1280x720/MT-tOwM5MF3PII-y.mp4?tag=28)**
 </div>
@@ -435,7 +437,7 @@ Create a 12-second stop-motion educational video explaining the Bernoulli princi
 **注目のビデオプロンプト**
 
 - [気まずいディナーパーティーの象](#prompt-1)
-- [4個のオレンジのジャグリングとコミカルな結末](#prompt-3)
+- [公式プレビュー：音声同期と高速動作の連続性](#prompt-3)
 - [ストップモーションの気流で示すベルヌーイの原理](#prompt-7)
 
 <a id="prompt-8"></a>
@@ -647,6 +649,6 @@ ImagineVidが作成した編集テキストとコードは[CC BY 4.0](https://cr
 **[検証済みケースを投稿する](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[コレクションにスターを付ける](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>バージョン管理されたローカルデータから生成： 2026-08-03T13:27:03.887Z</sub>
+<sub>バージョン管理されたローカルデータから生成： 2026-08-03T14:11:54.976Z</sub>
 
 </div>

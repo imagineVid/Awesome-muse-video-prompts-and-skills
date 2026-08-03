@@ -183,7 +183,7 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 |--------|-------|
 | أمثلة موثّقة | **8** |
 | اختيار تحريري | **5** |
-| تاريخ التوليد | **الاثنين، 3 أغسطس 2026 في 1:27:03 م UTC** |
+| تاريخ التوليد | **الاثنين، 3 أغسطس 2026 في 2:11:54 م UTC** |
 
 </div>
 
@@ -287,19 +287,21 @@ A baby panda tumbling head over heels down a small grassy slope.
 
 <a id="prompt-3"></a>
 
-### #3: أربع برتقالات ونهاية كوميدية
+### #3: Official preview: synced audio and fast-motion continuity
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Featured](https://img.shields.io/badge/Featured-gold-gold)
 
 #### أهمية سير العمل
 
-قوس من عشر ثوان يجمع العد وتفاعل اليد والفشل والأداء والفيزياء والمؤثرات المتزامنة.
+A transparent reconstruction from Meta’s official Muse Video preview, designed to probe prompt adherence, temporal consistency, audio sync, and physically accurate fast motion.
 
 #### المطالبة المترجمة
 
 ```
-رجل يتلاعب بثلاث برتقالات، ثم يضيف رابعة، فتسقط كلها، لكنه ينحني للجمهور على أي حال. ضوء صباحي طبيعي دافئ وحركة بطيئة لطيفة. لحظة واحدة متصلة مدتها نحو 10 ثوانٍ لها بداية وتحول وخاتمة واضحة. الصوت: أجواء غرفة هادئة ومؤثرات دقيقة. واقعي بإضاءة وفيزياء طبيعية كأنه تصوير حقيقي، لا رسوم متحركة ولا أسلوب مبالغ فيه.
+يبقى الموجّه الأساسي باللغة الإنجليزية للحفاظ على اتساق التنفيذ؛ يلخّص هذا التنبيه المقصد المحلي:
+
+A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyway. Warm natural morning light, gentle slow motion. A single continuous approximately 10-second moment with a clear beginning, turn, and payoff. AUDIO: quiet room tone with crisp foley. Photorealistic, natural lighting and physics, believable real-world footage. Not a cartoon, not stylized.
 ```
 
 <details>
@@ -314,7 +316,7 @@ A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyw
 #### الفيديو
 
 <div align="center">
-<a href="https://video.twimg.com/amplify_video/2074598559400247296/vid/avc1/1280x720/MT-tOwM5MF3PII-y.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2074598559400247296/img/9mkUTmS0L1VPbKLA.jpg" height="420" alt="أربع برتقالات ونهاية كوميدية - Motion preview"></a>
+<a href="https://video.twimg.com/amplify_video/2074598559400247296/vid/avc1/1280x720/MT-tOwM5MF3PII-y.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2074598559400247296/img/9mkUTmS0L1VPbKLA.jpg" height="420" alt="Official preview: synced audio and fast-motion continuity - Motion preview"></a>
 
 *انقر على المعاينة لفتح الفيديو* · **[▶ مشاهدة الفيديو →](https://video.twimg.com/amplify_video/2074598559400247296/vid/avc1/1280x720/MT-tOwM5MF3PII-y.mp4?tag=28)**
 </div>
@@ -435,7 +437,7 @@ Create a 12-second stop-motion educational video explaining the Bernoulli princi
 **مطالبات فيديو مختارة**
 
 - [فيل في عشاء محرج](#prompt-1)
-- [أربع برتقالات ونهاية كوميدية](#prompt-3)
+- [Official preview: synced audio and fast-motion continuity](#prompt-3)
 - [مبدأ برنولي بتدفق هواء بإيقاف الحركة](#prompt-7)
 
 <a id="prompt-8"></a>
@@ -647,6 +649,6 @@ First-person point of view strolling along the edge of a small half-frozen pond 
 **[أرسل مثالًا موثّقًا](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ضع نجمة للمجموعة](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>وُلّد من بيانات محلية مُدارة بالإصدارات في 2026-08-03T13:27:03.884Z</sub>
+<sub>وُلّد من بيانات محلية مُدارة بالإصدارات في 2026-08-03T14:11:54.970Z</sub>
 
 </div>

@@ -183,7 +183,7 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 |--------|-------|
 | 검증된 사례 | **8** |
 | 에디터 추천 | **5** |
-| 생성 시각 | **2026년 8월 3일 월요일 오후 1시 27분 3초 UTC** |
+| 생성 시각 | **2026년 8월 3일 월요일 PM 2시 11분 54초 UTC** |
 
 </div>
 
@@ -287,19 +287,21 @@ A baby panda tumbling head over heels down a small grassy slope.
 
 <a id="prompt-3"></a>
 
-### #3: 오렌지 네 개 저글링과 코믹한 결말
+### #3: 공식 프리뷰: 오디오 동기화와 빠른 움직임의 연속성
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Featured](https://img.shields.io/badge/Featured-gold-gold)
 
 #### 이 워크플로가 중요한 이유
 
-개수, 손과 물체, 실패, 연기, 물리, 동기화된 폴리를 10초 안에 완성합니다.
+Meta의 공식 Muse Video 프리뷰를 투명하게 재구성해 프롬프트 준수, 시간적 연속성, 오디오 동기화, 물리적으로 자연스러운 빠른 움직임을 검증하는 사례입니다.
 
 #### 현지화 프롬프트
 
 ```
-남자가 오렌지 세 개를 저글링하다 네 번째를 더하고, 전부 떨어뜨린 뒤에도 인사한다. 따뜻한 자연광의 아침, 부드러운 슬로모션. 시작, 전환, 결말이 분명한 약 10초의 단일 연속 순간. 오디오: 조용한 실내 환경음과 선명한 폴리. 자연스러운 조명과 물리의 사실적인 실제 영상. 만화나 스타일화 금지.
+실행 결과의 일관성을 위해 기준 프롬프트는 영어로 유지합니다. 다음은 현지화된 의도의 요약입니다:
+
+A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyway. Warm natural morning light, gentle slow motion. A single continuous approximately 10-second moment with a clear beginning, turn, and payoff. AUDIO: quiet room tone with crisp foley. Photorealistic, natural lighting and physics, believable real-world footage. Not a cartoon, not stylized.
 ```
 
 <details>
@@ -314,7 +316,7 @@ A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyw
 #### 동영상
 
 <div align="center">
-<a href="https://video.twimg.com/amplify_video/2074598559400247296/vid/avc1/1280x720/MT-tOwM5MF3PII-y.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2074598559400247296/img/9mkUTmS0L1VPbKLA.jpg" height="420" alt="오렌지 네 개 저글링과 코믹한 결말 - Motion preview"></a>
+<a href="https://video.twimg.com/amplify_video/2074598559400247296/vid/avc1/1280x720/MT-tOwM5MF3PII-y.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2074598559400247296/img/9mkUTmS0L1VPbKLA.jpg" height="420" alt="공식 프리뷰: 오디오 동기화와 빠른 움직임의 연속성 - Motion preview"></a>
 
 *미리보기를 클릭하여 동영상을 여세요* · **[▶ 동영상 보기 →](https://video.twimg.com/amplify_video/2074598559400247296/vid/avc1/1280x720/MT-tOwM5MF3PII-y.mp4?tag=28)**
 </div>
@@ -435,7 +437,7 @@ Create a 12-second stop-motion educational video explaining the Bernoulli princi
 **추천 비디오 프롬프트**
 
 - [어색한 만찬의 코끼리](#prompt-1)
-- [오렌지 네 개 저글링과 코믹한 결말](#prompt-3)
+- [공식 프리뷰: 오디오 동기화와 빠른 움직임의 연속성](#prompt-3)
 - [스톱모션 공기 흐름으로 설명하는 베르누이 원리](#prompt-7)
 
 <a id="prompt-8"></a>
@@ -647,6 +649,6 @@ ImagineVid가 작성한 편집 문구와 코드는 [CC BY 4.0](https://creativec
 **[검증된 사례 제출](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[컬렉션에 별표하기](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-08-03T13:27:03.903Z</sub>
+<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-08-03T14:11:54.980Z</sub>
 
 </div>

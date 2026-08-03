@@ -183,7 +183,7 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 |--------|-------|
 | Cas vérifiés | **8** |
 | Sélection éditoriale | **5** |
-| Généré | **lundi 3 août 2026 à 13:27:03 UTC** |
+| Généré | **lundi 3 août 2026 à 14:11:54 UTC** |
 
 </div>
 
@@ -287,19 +287,21 @@ A baby panda tumbling head over heels down a small grassy slope.
 
 <a id="prompt-3"></a>
 
-### #3: Jonglage à quatre oranges avec chute comique
+### #3: Aperçu officiel : audio synchronisé et continuité des mouvements rapides
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Featured](https://img.shields.io/badge/Featured-gold-gold)
 
 #### Pourquoi le workflow est important
 
-Arc de dix secondes combinant comptage, interaction main-objet, échec, jeu, physique et bruitage synchronisé.
+Une reconstruction explicitement signalée de l’aperçu officiel de Muse Video, pour tester le respect du prompt, la continuité temporelle, la synchronisation audio et les mouvements rapides crédibles.
 
 #### Prompt localisé
 
 ```
-Un homme jongle avec trois oranges, en ajoute une quatrième, les fait toutes tomber et salue malgré tout. Lumière matinale naturelle et chaude, léger ralenti. Un seul moment continu d'environ 10 secondes, avec début, bascule et chute clairement lisibles. AUDIO : ambiance calme de la pièce et bruitages nets. Photoréaliste, lumière et physique naturelles, comme une vraie prise de vue. Ni dessin animé ni stylisation.
+Le prompt canonique reste en anglais pour garantir une exécution cohérente ; cette note résume l’intention localisée :
+
+A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyway. Warm natural morning light, gentle slow motion. A single continuous approximately 10-second moment with a clear beginning, turn, and payoff. AUDIO: quiet room tone with crisp foley. Photorealistic, natural lighting and physics, believable real-world footage. Not a cartoon, not stylized.
 ```
 
 <details>
@@ -314,7 +316,7 @@ A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyw
 #### Vidéo
 
 <div align="center">
-<a href="https://video.twimg.com/amplify_video/2074598559400247296/vid/avc1/1280x720/MT-tOwM5MF3PII-y.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2074598559400247296/img/9mkUTmS0L1VPbKLA.jpg" height="420" alt="Jonglage à quatre oranges avec chute comique - Motion preview"></a>
+<a href="https://video.twimg.com/amplify_video/2074598559400247296/vid/avc1/1280x720/MT-tOwM5MF3PII-y.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2074598559400247296/img/9mkUTmS0L1VPbKLA.jpg" height="420" alt="Aperçu officiel : audio synchronisé et continuité des mouvements rapides - Motion preview"></a>
 
 *Cliquez sur l'aperçu pour ouvrir la vidéo* · **[▶ Voir la vidéo →](https://video.twimg.com/amplify_video/2074598559400247296/vid/avc1/1280x720/MT-tOwM5MF3PII-y.mp4?tag=28)**
 </div>
@@ -435,7 +437,7 @@ Briefs de mouvement qui testent poids, contact, accélération, équilibre et co
 **Prompts vidéo à la une**
 
 - [Un éléphant à un dîner gênant](#prompt-1)
-- [Jonglage à quatre oranges avec chute comique](#prompt-3)
+- [Aperçu officiel : audio synchronisé et continuité des mouvements rapides](#prompt-3)
 - [Principe de Bernoulli en flux d’air stop motion](#prompt-7)
 
 <a id="prompt-8"></a>
@@ -647,6 +649,6 @@ Les textes éditoriaux et le code rédigés par ImagineVid sont placés sous [CC
 **[Proposer un cas vérifié](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Ajouter une étoile à la collection](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>Généré à partir des données locales versionnées le 2026-08-03T13:27:03.881Z</sub>
+<sub>Généré à partir des données locales versionnées le 2026-08-03T14:11:54.967Z</sub>
 
 </div>

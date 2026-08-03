@@ -183,7 +183,7 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 |--------|-------|
 | Zweryfikowane przykłady | **8** |
 | Wybór redakcji | **5** |
-| Wygenerowano | **poniedziałek, 3 sierpnia 2026 13:27:03 UTC** |
+| Wygenerowano | **poniedziałek, 3 sierpnia 2026 14:11:54 UTC** |
 
 </div>
 
@@ -287,19 +287,21 @@ A baby panda tumbling head over heels down a small grassy slope.
 
 <a id="prompt-3"></a>
 
-### #3: Żonglerka czterema pomarańczami z komicznym finałem
+### #3: Official preview: synced audio and fast-motion continuity
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Featured](https://img.shields.io/badge/Featured-gold-gold)
 
 #### Dlaczego ten workflow ma znaczenie
 
-Dziesięciosekundowy łuk z liczeniem, dłońmi, przedmiotami, porażką, grą, fizyką i zsynchronizowanym foley.
+A transparent reconstruction from Meta’s official Muse Video preview, designed to probe prompt adherence, temporal consistency, audio sync, and physically accurate fast motion.
 
 #### Prompt zlokalizowany
 
 ```
-Mężczyzna żongluje trzema pomarańczami, dodaje czwartą, upuszcza wszystkie i mimo to się kłania. Ciepłe naturalne światło poranka, łagodne zwolnienie. Jedna ciągła chwila około 10 sekund z wyraźnym początkiem, zwrotem i finałem. DŹWIĘK: cichy ton pokoju i wyraźny foley. Fotorealizm, naturalne światło i fizyka, wiarygodne nagranie. Bez kreskówkowości i stylizacji.
+Kanoniczny prompt pozostaje po angielsku dla spójnych wyników; ta nota podsumowuje lokalną intencję:
+
+A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyway. Warm natural morning light, gentle slow motion. A single continuous approximately 10-second moment with a clear beginning, turn, and payoff. AUDIO: quiet room tone with crisp foley. Photorealistic, natural lighting and physics, believable real-world footage. Not a cartoon, not stylized.
 ```
 
 <details>
@@ -314,7 +316,7 @@ A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyw
 #### Wideo
 
 <div align="center">
-<a href="https://video.twimg.com/amplify_video/2074598559400247296/vid/avc1/1280x720/MT-tOwM5MF3PII-y.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2074598559400247296/img/9mkUTmS0L1VPbKLA.jpg" height="420" alt="Żonglerka czterema pomarańczami z komicznym finałem - Motion preview"></a>
+<a href="https://video.twimg.com/amplify_video/2074598559400247296/vid/avc1/1280x720/MT-tOwM5MF3PII-y.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2074598559400247296/img/9mkUTmS0L1VPbKLA.jpg" height="420" alt="Official preview: synced audio and fast-motion continuity - Motion preview"></a>
 
 *Kliknij podgląd, aby otworzyć wideo* · **[▶ Obejrzyj wideo →](https://video.twimg.com/amplify_video/2074598559400247296/vid/avc1/1280x720/MT-tOwM5MF3PII-y.mp4?tag=28)**
 </div>
@@ -435,7 +437,7 @@ Briefy ruchu sprawdzające ciężar, kontakt, przyspieszenie, równowagę i cią
 **Wyróżnione prompty wideo**
 
 - [Słoń na niezręcznej kolacji](#prompt-1)
-- [Żonglerka czterema pomarańczami z komicznym finałem](#prompt-3)
+- [Official preview: synced audio and fast-motion continuity](#prompt-3)
 - [Zasada Bernoulliego w animowanym przepływie powietrza](#prompt-7)
 
 <a id="prompt-8"></a>
@@ -647,6 +649,6 @@ Tekst redakcyjny i kod ImagineVid są objęte licencją [CC BY 4.0](https://crea
 **[Prześlij zweryfikowany przykład](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Dodaj gwiazdkę kolekcji](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>Wygenerowano z wersjonowanych danych lokalnych dnia 2026-08-03T13:27:03.952Z</sub>
+<sub>Wygenerowano z wersjonowanych danych lokalnych dnia 2026-08-03T14:11:55.001Z</sub>
 
 </div>

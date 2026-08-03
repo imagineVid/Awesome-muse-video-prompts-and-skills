@@ -183,7 +183,7 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 |--------|-------|
 | Doğrulanmış örnekler | **8** |
 | Editör seçimi | **5** |
-| Oluşturulma | **3 Ağustos 2026 Pazartesi 13:27:03 UTC** |
+| Oluşturulma | **3 Ağustos 2026 Pazartesi 14:11:54 UTC** |
 
 </div>
 
@@ -287,19 +287,21 @@ A baby panda tumbling head over heels down a small grassy slope.
 
 <a id="prompt-3"></a>
 
-### #3: Dört portakallı jonglörlük ve komik final
+### #3: Official preview: synced audio and fast-motion continuity
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Featured](https://img.shields.io/badge/Featured-gold-gold)
 
 #### İş akışı neden önemli
 
-Sayım, el-nesne teması, başarısızlık, performans, fizik ve eşzamanlı foley içeren on saniyelik yay.
+A transparent reconstruction from Meta’s official Muse Video preview, designed to probe prompt adherence, temporal consistency, audio sync, and physically accurate fast motion.
 
 #### Yerelleştirilmiş prompt
 
 ```
-Bir adam üç portakalla jonglörlük yapar, dördüncüyü ekler, hepsini düşürür ve yine de selam verir. Sıcak doğal sabah ışığı, hafif ağır çekim. Başlangıcı, dönüşü ve finali net olan yaklaşık 10 saniyelik tek kesintisiz an. SES: sessiz oda ambiyansı ve berrak foley. Fotogerçekçi, doğal ışık ve fizik, inandırıcı gerçek dünya görüntüsü. Çizgi film veya stilizasyon değil.
+Tutarlı sonuçlar için kanonik prompt İngilizce bırakılmıştır; bu not yerelleştirilmiş amacı özetler:
+
+A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyway. Warm natural morning light, gentle slow motion. A single continuous approximately 10-second moment with a clear beginning, turn, and payoff. AUDIO: quiet room tone with crisp foley. Photorealistic, natural lighting and physics, believable real-world footage. Not a cartoon, not stylized.
 ```
 
 <details>
@@ -314,7 +316,7 @@ A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyw
 #### Video
 
 <div align="center">
-<a href="https://video.twimg.com/amplify_video/2074598559400247296/vid/avc1/1280x720/MT-tOwM5MF3PII-y.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2074598559400247296/img/9mkUTmS0L1VPbKLA.jpg" height="420" alt="Dört portakallı jonglörlük ve komik final - Motion preview"></a>
+<a href="https://video.twimg.com/amplify_video/2074598559400247296/vid/avc1/1280x720/MT-tOwM5MF3PII-y.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2074598559400247296/img/9mkUTmS0L1VPbKLA.jpg" height="420" alt="Official preview: synced audio and fast-motion continuity - Motion preview"></a>
 
 *Videoyu açmak için önizlemeye tıklayın* · **[▶ Videoyu izle →](https://video.twimg.com/amplify_video/2074598559400247296/vid/avc1/1280x720/MT-tOwM5MF3PII-y.mp4?tag=28)**
 </div>
@@ -435,7 +437,7 @@ Ağırlık, temas, ivme, denge ve zamansal sürekliliği sınayan hareket brifle
 **Öne çıkan video promptları**
 
 - [Tuhaf bir akşam yemeğinde fil](#prompt-1)
-- [Dört portakallı jonglörlük ve komik final](#prompt-3)
+- [Official preview: synced audio and fast-motion continuity](#prompt-3)
 - [Stop-motion hava akışıyla Bernoulli ilkesi](#prompt-7)
 
 <a id="prompt-8"></a>
@@ -647,6 +649,6 @@ ImagineVid'in editoryal metni ve kodu [CC BY 4.0](https://creativecommons.org/li
 **[Doğrulanmış örnek gönder](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Koleksiyona yıldız ver](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>Sürümlenen yerel veriden oluşturulma zamanı 2026-08-03T13:27:03.949Z</sub>
+<sub>Sürümlenen yerel veriden oluşturulma zamanı 2026-08-03T14:11:54.995Z</sub>
 
 </div>

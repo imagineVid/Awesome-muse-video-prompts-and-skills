@@ -183,7 +183,7 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 |--------|-------|
 | Casos verificados | **8** |
 | Seleção editorial | **5** |
-| Gerado | **segunda-feira, 3 de agosto de 2026 às 13:27:03 UTC** |
+| Gerado | **segunda-feira, 3 de agosto de 2026 às 14:11:54 UTC** |
 
 </div>
 
@@ -287,19 +287,21 @@ A baby panda tumbling head over heels down a small grassy slope.
 
 <a id="prompt-3"></a>
 
-### #3: Malabarismo com quatro laranjas e final cómico
+### #3: Official preview: synced audio and fast-motion continuity
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Featured](https://img.shields.io/badge/Featured-gold-gold)
 
 #### Porque é que o fluxo é importante
 
-Arco de dez segundos com contagem, mãos, objetos, falha, atuação, física e foley sincronizado.
+A transparent reconstruction from Meta’s official Muse Video preview, designed to probe prompt adherence, temporal consistency, audio sync, and physically accurate fast motion.
 
 #### Prompt localizado
 
 ```
-Um homem faz malabarismo com três laranjas, acrescenta uma quarta, deixa cair todas e faz uma vénia na mesma. Luz natural quente da manhã e câmara lenta suave. Um único momento contínuo de cerca de 10 segundos, com início, viragem e desfecho claros. ÁUDIO: ambiente silencioso de sala e foley nítido. Fotorrealista, com luz e física naturais, como filmagem real. Não cartoon, não estilizado.
+O prompt canónico permanece em inglês para manter resultados consistentes; esta nota resume a intenção localizada:
+
+A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyway. Warm natural morning light, gentle slow motion. A single continuous approximately 10-second moment with a clear beginning, turn, and payoff. AUDIO: quiet room tone with crisp foley. Photorealistic, natural lighting and physics, believable real-world footage. Not a cartoon, not stylized.
 ```
 
 <details>
@@ -314,7 +316,7 @@ A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyw
 #### Vídeo
 
 <div align="center">
-<a href="https://video.twimg.com/amplify_video/2074598559400247296/vid/avc1/1280x720/MT-tOwM5MF3PII-y.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2074598559400247296/img/9mkUTmS0L1VPbKLA.jpg" height="420" alt="Malabarismo com quatro laranjas e final cómico - Motion preview"></a>
+<a href="https://video.twimg.com/amplify_video/2074598559400247296/vid/avc1/1280x720/MT-tOwM5MF3PII-y.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2074598559400247296/img/9mkUTmS0L1VPbKLA.jpg" height="420" alt="Official preview: synced audio and fast-motion continuity - Motion preview"></a>
 
 *Clique na prévia para abrir o vídeo* · **[▶ Ver vídeo →](https://video.twimg.com/amplify_video/2074598559400247296/vid/avc1/1280x720/MT-tOwM5MF3PII-y.mp4?tag=28)**
 </div>
@@ -435,7 +437,7 @@ Briefings de movimento que testam peso, contacto, aceleração, equilíbrio e co
 **Prompts de vídeo em destaque**
 
 - [Elefante num jantar constrangedor](#prompt-1)
-- [Malabarismo com quatro laranjas e final cómico](#prompt-3)
+- [Official preview: synced audio and fast-motion continuity](#prompt-3)
 - [Princípio de Bernoulli com fluxo em stop motion](#prompt-7)
 
 <a id="prompt-8"></a>
@@ -647,6 +649,6 @@ O texto editorial e o código produzidos pelo ImagineVid estão licenciados ao a
 **[Enviar um caso verificado](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Adicionar uma estrela à coleção](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>Gerado a partir de dados locais versionados em 2026-08-03T13:27:03.838Z</sub>
+<sub>Gerado a partir de dados locais versionados em 2026-08-03T14:11:54.953Z</sub>
 
 </div>

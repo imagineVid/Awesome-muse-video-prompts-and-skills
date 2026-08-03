@@ -183,7 +183,7 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 |--------|-------|
 | 已核验案例 | **8** |
 | 编辑精选 | **5** |
-| 生成时间 | **2026年8月3日星期一 UTC 13:27:03** |
+| 生成时间 | **2026年8月3日星期一 UTC 14:11:54** |
 
 </div>
 
@@ -287,19 +287,21 @@ A baby panda tumbling head over heels down a small grassy slope.
 
 <a id="prompt-3"></a>
 
-### #3: 四个橙子的杂耍失误与喜剧收尾
+### #3: 官方预览：音画同步与高速动作连续性
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Featured](https://img.shields.io/badge/Featured-gold-gold)
 
 #### 工作流为何重要
 
-在十秒内协调计数、手物交互、失误、表演、自然物理与同步拟音。
+透明标注为 Meta 官方 Muse Video 预览重构，用于检验提示词遵循、时间连续性、音画同步和物理可信的高速动作。
 
 #### 本地化提示词
 
 ```
-一名男子先杂耍三个橙子，再加入第四个，最后全部掉落，但他仍然鞠躬谢幕。温暖自然的晨光，轻柔慢动作。约10秒的一镜到底，开端、转折和笑点清楚。音频：安静室内底噪与清晰拟音。照片级真实，自然光线与物理表现，像可信的真实拍摄。不要卡通，不要风格化。
+为保持执行结果一致，标准提示词保留英文；下面是本地化意图摘要：
+
+A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyway. Warm natural morning light, gentle slow motion. A single continuous approximately 10-second moment with a clear beginning, turn, and payoff. AUDIO: quiet room tone with crisp foley. Photorealistic, natural lighting and physics, believable real-world footage. Not a cartoon, not stylized.
 ```
 
 <details>
@@ -314,7 +316,7 @@ A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyw
 #### 视频
 
 <div align="center">
-<a href="https://video.twimg.com/amplify_video/2074598559400247296/vid/avc1/1280x720/MT-tOwM5MF3PII-y.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2074598559400247296/img/9mkUTmS0L1VPbKLA.jpg" height="420" alt="四个橙子的杂耍失误与喜剧收尾 - Motion preview"></a>
+<a href="https://video.twimg.com/amplify_video/2074598559400247296/vid/avc1/1280x720/MT-tOwM5MF3PII-y.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2074598559400247296/img/9mkUTmS0L1VPbKLA.jpg" height="420" alt="官方预览：音画同步与高速动作连续性 - Motion preview"></a>
 
 *点击预览图打开视频* · **[▶ 观看视频 →](https://video.twimg.com/amplify_video/2074598559400247296/vid/avc1/1280x720/MT-tOwM5MF3PII-y.mp4?tag=28)**
 </div>
@@ -435,7 +437,7 @@ Create a 12-second stop-motion educational video explaining the Bernoulli princi
 **精选视频提示词**
 
 - [尴尬晚宴中的大象](#prompt-1)
-- [四个橙子的杂耍失误与喜剧收尾](#prompt-3)
+- [官方预览：音画同步与高速动作连续性](#prompt-3)
 - [用定格气流讲解伯努利原理](#prompt-7)
 
 <a id="prompt-8"></a>
@@ -647,6 +649,6 @@ ImagineVid 编写的编辑文本和代码依据 [CC BY 4.0](https://creativecomm
 **[提交已核验案例](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[为集合加星](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>根据版本化本地数据生成于 2026-08-03T13:27:03.911Z</sub>
+<sub>根据版本化本地数据生成于 2026-08-03T14:11:54.983Z</sub>
 
 </div>

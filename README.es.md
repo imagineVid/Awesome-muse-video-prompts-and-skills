@@ -183,7 +183,7 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 |--------|-------|
 | Casos verificados | **8** |
 | Selección editorial | **5** |
-| Generado | **lunes, 3 de agosto de 2026, 13:27:03 UTC** |
+| Generado | **lunes, 3 de agosto de 2026, 14:11:54 UTC** |
 
 </div>
 
@@ -287,19 +287,21 @@ A baby panda tumbling head over heels down a small grassy slope.
 
 <a id="prompt-3"></a>
 
-### #3: Malabares con cuatro naranjas y remate cómico
+### #3: Vista previa oficial: audio sincronizado y continuidad del movimiento rápido
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Featured](https://img.shields.io/badge/Featured-gold-gold)
 
 #### Por qué importa este flujo de trabajo
 
-Arco de diez segundos con conteo, interacción mano-objeto, fallo, actuación, física y foley sincronizado.
+Una reconstrucción transparente de la vista previa oficial de Muse Video que prueba seguimiento de instrucciones, continuidad temporal, sincronización de audio y movimiento rápido físicamente creíble.
 
 #### Prompt localizado
 
 ```
-Un hombre hace malabares con tres naranjas, añade una cuarta, las deja caer todas y aun así hace una reverencia. Luz natural cálida de mañana y cámara lenta suave. Un único momento continuo de unos 10 segundos, con inicio, giro y remate claros. AUDIO: ambiente de sala tranquilo y foley nítido. Fotorrealista, con iluminación y física naturales, como metraje real. No es dibujos animados ni está estilizado.
+El prompt canónico se conserva en inglés para mantener la consistencia de ejecución; esta nota resume la intención localizada:
+
+A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyway. Warm natural morning light, gentle slow motion. A single continuous approximately 10-second moment with a clear beginning, turn, and payoff. AUDIO: quiet room tone with crisp foley. Photorealistic, natural lighting and physics, believable real-world footage. Not a cartoon, not stylized.
 ```
 
 <details>
@@ -314,7 +316,7 @@ A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyw
 #### Video
 
 <div align="center">
-<a href="https://video.twimg.com/amplify_video/2074598559400247296/vid/avc1/1280x720/MT-tOwM5MF3PII-y.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2074598559400247296/img/9mkUTmS0L1VPbKLA.jpg" height="420" alt="Malabares con cuatro naranjas y remate cómico - Motion preview"></a>
+<a href="https://video.twimg.com/amplify_video/2074598559400247296/vid/avc1/1280x720/MT-tOwM5MF3PII-y.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2074598559400247296/img/9mkUTmS0L1VPbKLA.jpg" height="420" alt="Vista previa oficial: audio sincronizado y continuidad del movimiento rápido - Motion preview"></a>
 
 *Haz clic en la vista previa para abrir el video* · **[▶ Ver video →](https://video.twimg.com/amplify_video/2074598559400247296/vid/avc1/1280x720/MT-tOwM5MF3PII-y.mp4?tag=28)**
 </div>
@@ -435,7 +437,7 @@ Briefs de movimiento que ponen a prueba peso, contacto, aceleración, equilibrio
 **Prompts de vídeo destacados**
 
 - [Elefante en una cena incómoda](#prompt-1)
-- [Malabares con cuatro naranjas y remate cómico](#prompt-3)
+- [Vista previa oficial: audio sincronizado y continuidad del movimiento rápido](#prompt-3)
 - [Principio de Bernoulli con aire en stop motion](#prompt-7)
 
 <a id="prompt-8"></a>
@@ -647,6 +649,6 @@ El texto editorial y el código creados por ImagineVid están publicados bajo [C
 **[Envía un caso verificado](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Añade una estrella a la colección](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>Generado a partir de datos locales versionados el 2026-08-03T13:27:03.817Z</sub>
+<sub>Generado a partir de datos locales versionados el 2026-08-03T14:11:54.951Z</sub>
 
 </div>

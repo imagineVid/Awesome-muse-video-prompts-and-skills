@@ -183,7 +183,7 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 |--------|-------|
 | Casi verificati | **8** |
 | Selezione editoriale | **5** |
-| Generato | **lunedì 3 agosto 2026 alle ore 13:27:03 UTC** |
+| Generato | **lunedì 3 agosto 2026 alle ore 14:11:54 UTC** |
 
 </div>
 
@@ -287,19 +287,21 @@ A baby panda tumbling head over heels down a small grassy slope.
 
 <a id="prompt-3"></a>
 
-### #3: Quattro arance in aria e finale comico
+### #3: Official preview: synced audio and fast-motion continuity
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Featured](https://img.shields.io/badge/Featured-gold-gold)
 
 #### Perché il workflow è importante
 
-Arco di dieci secondi con conteggio, interazione mano-oggetto, errore, performance, fisica e foley sincronizzato.
+A transparent reconstruction from Meta’s official Muse Video preview, designed to probe prompt adherence, temporal consistency, audio sync, and physically accurate fast motion.
 
 #### Prompt tradotto
 
 ```
-Un uomo fa il giocoliere con tre arance, ne aggiunge una quarta, le lascia cadere tutte e si inchina comunque. Luce naturale calda del mattino e delicato rallentatore. Un unico momento continuo di circa 10 secondi, con inizio, svolta e conclusione chiari. AUDIO: quieto tono della stanza e foley nitido. Fotorealistico, luce e fisica naturali, filmato credibile del mondo reale. Non cartoon, non stilizzato.
+Il prompt canonico resta in inglese per mantenere coerenti i risultati; questa nota riassume l’intento localizzato:
+
+A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyway. Warm natural morning light, gentle slow motion. A single continuous approximately 10-second moment with a clear beginning, turn, and payoff. AUDIO: quiet room tone with crisp foley. Photorealistic, natural lighting and physics, believable real-world footage. Not a cartoon, not stylized.
 ```
 
 <details>
@@ -314,7 +316,7 @@ A man juggles three oranges, adds a fourth, drops them all, and takes a bow anyw
 #### Video
 
 <div align="center">
-<a href="https://video.twimg.com/amplify_video/2074598559400247296/vid/avc1/1280x720/MT-tOwM5MF3PII-y.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2074598559400247296/img/9mkUTmS0L1VPbKLA.jpg" height="420" alt="Quattro arance in aria e finale comico - Motion preview"></a>
+<a href="https://video.twimg.com/amplify_video/2074598559400247296/vid/avc1/1280x720/MT-tOwM5MF3PII-y.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2074598559400247296/img/9mkUTmS0L1VPbKLA.jpg" height="420" alt="Official preview: synced audio and fast-motion continuity - Motion preview"></a>
 
 *Fai clic sull'anteprima per aprire il video* · **[▶ Guarda il video →](https://video.twimg.com/amplify_video/2074598559400247296/vid/avc1/1280x720/MT-tOwM5MF3PII-y.mp4?tag=28)**
 </div>
@@ -435,7 +437,7 @@ Brief di movimento che verificano peso, contatto, accelerazione, equilibrio e co
 **Prompt video in evidenza**
 
 - [Elefante a una cena imbarazzante](#prompt-1)
-- [Quattro arance in aria e finale comico](#prompt-3)
+- [Official preview: synced audio and fast-motion continuity](#prompt-3)
 - [Principio di Bernoulli con flusso in stop motion](#prompt-7)
 
 <a id="prompt-8"></a>
@@ -647,6 +649,6 @@ I testi editoriali e il codice realizzati da ImagineVid sono distribuiti con lic
 **[Invia un caso verificato](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Metti una stella alla raccolta](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>Generato dai dati locali versionati il 2026-08-03T13:27:03.853Z</sub>
+<sub>Generato dai dati locali versionati il 2026-08-03T14:11:54.959Z</sub>
 
 </div>
