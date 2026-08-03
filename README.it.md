@@ -181,9 +181,9 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 
 | Campo della raccolta | Valore corrente |
 |--------|-------|
-| Casi verificati | **8** |
+| Casi verificati | **9** |
 | Selezione editoriale | **5** |
-| Generato | **lunedì 3 agosto 2026 alle ore 14:11:54 UTC** |
+| Generato | **lunedì 3 agosto 2026 alle ore 15:15:30 UTC** |
 
 </div>
 
@@ -430,7 +430,7 @@ Create a 12-second stop-motion educational video explaining the Bernoulli princi
 
 <a id="workflow-physical-motion-temporal-consistency"></a>
 
-### Movimento fisico e coerenza temporale (4)
+### Movimento fisico e coerenza temporale (5)
 
 Brief di movimento che verificano peso, contatto, accelerazione, equilibrio e continuità nel tempo.
 
@@ -486,6 +486,52 @@ Create an 8-second photorealistic nature video of a baby panda tumbling gently d
 
 ---
 
+<a id="prompt-9"></a>
+
+#### #2: Test ufficiale delle capacità: audio nativo e continuità temporale
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Perché il workflow è importante
+
+Una ricostruzione trasparente dell’introduzione ufficiale di Meta a Muse Video, pensata per verificare aderenza al prompt, fedeltà visiva, continuità temporale, sincronizzazione audio e movimento rapido credibile.
+
+##### Prompt tradotto
+
+```
+Il prompt canonico resta in inglese per mantenere coerenti i risultati; questa nota riassume l’intento localizzato:
+
+Create an 8-second photorealistic video that tests prompt adherence, visual fidelity, temporal consistency, audio-video synchronization, and physically accurate fast motion. A courier sprints through a rain-slick urban plaza, vaults a low barrier, and slides to a stop beside a ringing bicycle bell. Keep the same subject, clothing, architecture, lighting, and wet-ground geometry throughout one continuous shot. Sync footsteps, fabric movement, water splashes, and the bell with visible actions. Use a stabilized handheld camera move with believable inertia, contact, and motion blur. No cuts, duplicated limbs, geometry drift, invented captions, or watermarks.
+```
+
+<details>
+<summary>Prompt della fonte originale</summary>
+
+```
+Create an 8-second photorealistic video that tests prompt adherence, visual fidelity, temporal consistency, audio-video synchronization, and physically accurate fast motion. A courier sprints through a rain-slick urban plaza, vaults a low barrier, and slides to a stop beside a ringing bicycle bell. Keep the same subject, clothing, architecture, lighting, and wet-ground geometry throughout one continuous shot. Sync footsteps, fabric movement, water splashes, and the bell with visible actions. Use a stabilized handheld camera move with believable inertia, contact, and motion blur. No cuts, duplicated limbs, geometry drift, invented captions, or watermarks.
+```
+
+</details>
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074556401674817536/vid/avc1/1920x1080/-zxEASNFKqyq4L5E.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2074556401674817536/img/8reQjnixFOt6s5EG.jpg" height="420" alt="Test ufficiale delle capacità: audio nativo e continuità temporale - Motion preview"></a>
+
+*Fai clic sull'anteprima per aprire il video* · **[▶ Guarda il video →](https://video.twimg.com/amplify_video/2074556401674817536/vid/avc1/1920x1080/-zxEASNFKqyq4L5E.mp4?tag=28)**
+</div>
+
+##### Elementi di prova
+
+- **Autore:** [AI at Meta](https://x.com/AIatMeta)
+- **Fonte canonica:** [Fonte canonica](https://x.com/AIatMeta/status/2074577662840832382)
+- **Pubblicato:** 7 luglio 2026
+- **Lingua del prompt:** en
+
+**[Crea con queste indicazioni · ImagineVid](https://imaginevid.io/it/reference-video)**
+
+---
+
 <a id="workflow-animals-counting-subject-continuity"></a>
 
 ### Animali, conteggio e continuità del soggetto (2)
@@ -498,7 +544,7 @@ Casi che mantengono stabili identità animale, numero di soggetti, anatomia e re
 
 <a id="prompt-4"></a>
 
-#### #2: Esattamente cinque anatroccoli salgono un gradino
+#### #3: Esattamente cinque anatroccoli salgono un gradino
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -548,7 +594,7 @@ Brief costruiti su percorso camera, inquadratura, prospettiva, rivelazioni e imm
 
 <a id="prompt-5"></a>
 
-#### #3: Passeggiata notturna accanto a uno stagno semigelato
+#### #4: Passeggiata notturna accanto a uno stagno semigelato
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -629,7 +675,7 @@ I testi editoriali e il codice realizzati da ImagineVid sono distribuiti con lic
 <details>
 <summary>Community creators we thank (4)</summary>
 
-[Alexandr Wang](https://x.com/alexandr_wang) · [Chris](https://x.com/ChrisGPT) · [Ishan Misra](https://x.com/imisra_) · [Meta AI](https://x.com/AIatMeta)
+[AI at Meta](https://x.com/AIatMeta) · [Alexandr Wang](https://x.com/alexandr_wang) · [Chris](https://x.com/ChrisGPT) · [Ishan Misra](https://x.com/imisra_)
 
 </details>
 
@@ -649,6 +695,6 @@ I testi editoriali e il codice realizzati da ImagineVid sono distribuiti con lic
 **[Invia un caso verificato](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Metti una stella alla raccolta](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>Generato dai dati locali versionati il 2026-08-03T14:11:54.959Z</sub>
+<sub>Generato dai dati locali versionati il 2026-08-03T15:15:30.497Z</sub>
 
 </div>

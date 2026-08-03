@@ -181,9 +181,9 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 
 | Поле коллекции | Текущее значение |
 |--------|-------|
-| Проверенные примеры | **8** |
+| Проверенные примеры | **9** |
 | Редакционный выбор | **5** |
-| Сгенерировано | **понедельник, 3 августа 2026 г. в 14:11:54 UTC** |
+| Сгенерировано | **понедельник, 3 августа 2026 г. в 15:15:30 UTC** |
 
 </div>
 
@@ -430,7 +430,7 @@ Create a 12-second stop-motion educational video explaining the Bernoulli princi
 
 <a id="workflow-physical-motion-temporal-consistency"></a>
 
-### Физическое движение и временная целостность (4)
+### Физическое движение и временная целостность (5)
 
 Брифы движения для проверки веса, контакта, ускорения, баланса и непрерывности во времени.
 
@@ -486,6 +486,52 @@ Create an 8-second photorealistic nature video of a baby panda tumbling gently d
 
 ---
 
+<a id="prompt-9"></a>
+
+#### #2: Официальная проверка возможностей: нативный звук и временная непрерывность
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Зачем нужен этот рабочий процесс
+
+Прозрачно обозначенная реконструкция официального представления Meta Muse Video для проверки следования промпту, визуальной точности, временной связности, синхронизации звука и физически убедительного быстрого движения.
+
+##### Локализованный промпт
+
+```
+Канонический промпт сохранён на английском для единообразного результата; эта заметка передаёт локализованный замысел:
+
+Create an 8-second photorealistic video that tests prompt adherence, visual fidelity, temporal consistency, audio-video synchronization, and physically accurate fast motion. A courier sprints through a rain-slick urban plaza, vaults a low barrier, and slides to a stop beside a ringing bicycle bell. Keep the same subject, clothing, architecture, lighting, and wet-ground geometry throughout one continuous shot. Sync footsteps, fabric movement, water splashes, and the bell with visible actions. Use a stabilized handheld camera move with believable inertia, contact, and motion blur. No cuts, duplicated limbs, geometry drift, invented captions, or watermarks.
+```
+
+<details>
+<summary>Оригинальный промпт</summary>
+
+```
+Create an 8-second photorealistic video that tests prompt adherence, visual fidelity, temporal consistency, audio-video synchronization, and physically accurate fast motion. A courier sprints through a rain-slick urban plaza, vaults a low barrier, and slides to a stop beside a ringing bicycle bell. Keep the same subject, clothing, architecture, lighting, and wet-ground geometry throughout one continuous shot. Sync footsteps, fabric movement, water splashes, and the bell with visible actions. Use a stabilized handheld camera move with believable inertia, contact, and motion blur. No cuts, duplicated limbs, geometry drift, invented captions, or watermarks.
+```
+
+</details>
+
+##### Видео
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074556401674817536/vid/avc1/1920x1080/-zxEASNFKqyq4L5E.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2074556401674817536/img/8reQjnixFOt6s5EG.jpg" height="420" alt="Официальная проверка возможностей: нативный звук и временная непрерывность - Motion preview"></a>
+
+*Нажмите на превью, чтобы открыть видео* · **[▶ Смотреть видео →](https://video.twimg.com/amplify_video/2074556401674817536/vid/avc1/1920x1080/-zxEASNFKqyq4L5E.mp4?tag=28)**
+</div>
+
+##### Доказательства
+
+- **Автор:** [AI at Meta](https://x.com/AIatMeta)
+- **Канонический источник:** [Канонический источник](https://x.com/AIatMeta/status/2074577662840832382)
+- **Опубликовано:** 7 июля 2026 г.
+- **Язык промпта:** en
+
+**[Создать по этой режиссуре · ImagineVid](https://imaginevid.io/ru/reference-video)**
+
+---
+
 <a id="workflow-animals-counting-subject-continuity"></a>
 
 ### Животные, счёт и непрерывность объекта (2)
@@ -498,7 +544,7 @@ Create an 8-second photorealistic nature video of a baby panda tumbling gently d
 
 <a id="prompt-4"></a>
 
-#### #2: Ровно пять утят поднимаются на ступеньку
+#### #3: Ровно пять утят поднимаются на ступеньку
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -548,7 +594,7 @@ A mother duck leads a line of exactly FIVE ducklings toward a curb; the fifth an
 
 <a id="prompt-5"></a>
 
-#### #3: Ночная прогулка у полузамёрзшего пруда
+#### #4: Ночная прогулка у полузамёрзшего пруда
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -629,7 +675,7 @@ First-person point of view strolling along the edge of a small half-frozen pond 
 <details>
 <summary>Community creators we thank (4)</summary>
 
-[Alexandr Wang](https://x.com/alexandr_wang) · [Chris](https://x.com/ChrisGPT) · [Ishan Misra](https://x.com/imisra_) · [Meta AI](https://x.com/AIatMeta)
+[AI at Meta](https://x.com/AIatMeta) · [Alexandr Wang](https://x.com/alexandr_wang) · [Chris](https://x.com/ChrisGPT) · [Ishan Misra](https://x.com/imisra_)
 
 </details>
 
@@ -649,6 +695,6 @@ First-person point of view strolling along the edge of a small half-frozen pond 
 **[Отправить проверенный пример](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Поставить звезду коллекции](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>Сгенерировано из версионируемых локальных данных 2026-08-03T14:11:54.989Z</sub>
+<sub>Сгенерировано из версионируемых локальных данных 2026-08-03T15:15:30.521Z</sub>
 
 </div>

@@ -409,5 +409,73 @@
         }
       ]
     }
+  },
+  {
+    "id": 9,
+    "model": "muse-video",
+    "title": {
+      "en": "Official capability probe: native audio and temporal continuity"
+    },
+    "description": {
+      "en": "A transparent reconstruction from Meta’s official Muse Video introduction, designed to probe prompt adherence, visual fidelity, temporal consistency, audio sync, and physically accurate fast motion."
+    },
+    "content": {
+      "en": "Create an 8-second photorealistic video that tests prompt adherence, visual fidelity, temporal consistency, audio-video synchronization, and physically accurate fast motion. A courier sprints through a rain-slick urban plaza, vaults a low barrier, and slides to a stop beside a ringing bicycle bell. Keep the same subject, clothing, architecture, lighting, and wet-ground geometry throughout one continuous shot. Sync footsteps, fabric movement, water splashes, and the bell with visible actions. Use a stabilized handheld camera move with believable inertia, contact, and motion blur. No cuts, duplicated limbs, geometry drift, invented captions, or watermarks."
+    },
+    "sourceLink": "https://x.com/AIatMeta/status/2074577662840832382",
+    "sourcePublishedAt": "2026-07-07T19:33:53.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2074556401674817536/img/8reQjnixFOt6s5EG.jpg"
+    ],
+    "author": {
+      "name": "AI at Meta",
+      "link": "https://x.com/AIatMeta"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 9,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2074577662840832382",
+      "prompt_source": "official_capability_reconstruction",
+      "model_evidence": "muse-video-official-preview",
+      "collected_at": "2026-08-03",
+      "retweetCount": 377,
+      "replyCount": 183,
+      "likeCount": 2524,
+      "quoteCount": 175,
+      "viewCount": 835400,
+      "bookmarkCount": 1072,
+      "source_note": "The source is Meta’s official Muse Video introduction. The reusable prompt is an editorial reconstruction from stated capability targets, not a verbatim Meta prompt."
+    },
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2074556401674817536/vid/avc1/1920x1080/-zxEASNFKqyq4L5E.mp4?tag=28",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2074556401674817536/img/8reQjnixFOt6s5EG.jpg"
+    },
+    "videoCategories": {
+      "workflows": [
+        {
+          "id": 61,
+          "title": {
+            "en": "Physical Motion & Temporal Consistency",
+            "es": "Movimiento físico y coherencia temporal",
+            "pt": "Movimento físico e coerência temporal",
+            "it": "Movimento fisico e coerenza temporale",
+            "de": "Physische Bewegung und zeitliche Konsistenz",
+            "fr": "Mouvement physique et cohérence temporelle",
+            "ar": "الحركة الفيزيائية والاتساق الزمني",
+            "ja": "物理モーションと時間的一貫性",
+            "ko": "물리적 움직임 및 시간 일관성",
+            "zh": "物理运动与时间一致性",
+            "nl": "Fysieke beweging en temporele consistentie",
+            "ru": "Физическое движение и временная целостность",
+            "tr": "Fiziksel hareket ve zamansal tutarlılık",
+            "pl": "Ruch fizyczny i spójność czasowa"
+          },
+          "slug": "physical-motion-temporal-consistency"
+        }
+      ]
+    }
   }
 ]

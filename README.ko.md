@@ -181,9 +181,9 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 
 | 컬렉션 필드 | 현재 값 |
 |--------|-------|
-| 검증된 사례 | **8** |
+| 검증된 사례 | **9** |
 | 에디터 추천 | **5** |
-| 생성 시각 | **2026년 8월 3일 월요일 PM 2시 11분 54초 UTC** |
+| 생성 시각 | **2026년 8월 3일 월요일 PM 3시 15분 30초 UTC** |
 
 </div>
 
@@ -430,7 +430,7 @@ Create a 12-second stop-motion educational video explaining the Bernoulli princi
 
 <a id="workflow-physical-motion-temporal-consistency"></a>
 
-### 물리적 움직임 및 시간 일관성 (4)
+### 물리적 움직임 및 시간 일관성 (5)
 
 무게, 접촉, 가속, 균형과 시간적 연속성을 시험하는 모션 브리프입니다.
 
@@ -486,6 +486,52 @@ Create an 8-second photorealistic nature video of a baby panda tumbling gently d
 
 ---
 
+<a id="prompt-9"></a>
+
+#### #2: 공식 기능 검증: 네이티브 오디오와 시간적 연속성
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 이 워크플로가 중요한 이유
+
+프롬프트 준수, 시각적 충실도, 시간적 연속성, 오디오 동기화와 물리적으로 자연스러운 빠른 동작을 검증하는 Meta 공식 Muse Video 소개의 투명한 재구성입니다.
+
+##### 현지화 프롬프트
+
+```
+실행 결과의 일관성을 위해 기준 프롬프트는 영어로 유지합니다. 다음은 현지화된 의도의 요약입니다:
+
+Create an 8-second photorealistic video that tests prompt adherence, visual fidelity, temporal consistency, audio-video synchronization, and physically accurate fast motion. A courier sprints through a rain-slick urban plaza, vaults a low barrier, and slides to a stop beside a ringing bicycle bell. Keep the same subject, clothing, architecture, lighting, and wet-ground geometry throughout one continuous shot. Sync footsteps, fabric movement, water splashes, and the bell with visible actions. Use a stabilized handheld camera move with believable inertia, contact, and motion blur. No cuts, duplicated limbs, geometry drift, invented captions, or watermarks.
+```
+
+<details>
+<summary>원문 출처 프롬프트</summary>
+
+```
+Create an 8-second photorealistic video that tests prompt adherence, visual fidelity, temporal consistency, audio-video synchronization, and physically accurate fast motion. A courier sprints through a rain-slick urban plaza, vaults a low barrier, and slides to a stop beside a ringing bicycle bell. Keep the same subject, clothing, architecture, lighting, and wet-ground geometry throughout one continuous shot. Sync footsteps, fabric movement, water splashes, and the bell with visible actions. Use a stabilized handheld camera move with believable inertia, contact, and motion blur. No cuts, duplicated limbs, geometry drift, invented captions, or watermarks.
+```
+
+</details>
+
+##### 동영상
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2074556401674817536/vid/avc1/1920x1080/-zxEASNFKqyq4L5E.mp4?tag=28"><img src="https://pbs.twimg.com/amplify_video_thumb/2074556401674817536/img/8reQjnixFOt6s5EG.jpg" height="420" alt="공식 기능 검증: 네이티브 오디오와 시간적 연속성 - Motion preview"></a>
+
+*미리보기를 클릭하여 동영상을 여세요* · **[▶ 동영상 보기 →](https://video.twimg.com/amplify_video/2074556401674817536/vid/avc1/1920x1080/-zxEASNFKqyq4L5E.mp4?tag=28)**
+</div>
+
+##### 근거
+
+- **제작자:** [AI at Meta](https://x.com/AIatMeta)
+- **정식 출처:** [정식 출처](https://x.com/AIatMeta/status/2074577662840832382)
+- **게시일:** 2026년 7월 7일
+- **프롬프트 언어:** en
+
+**[이 연출로 만들기 · ImagineVid](https://imaginevid.io/ko/reference-video)**
+
+---
+
 <a id="workflow-animals-counting-subject-continuity"></a>
 
 ### 동물, 개수 및 피사체 연속성 (2)
@@ -498,7 +544,7 @@ Create an 8-second photorealistic nature video of a baby panda tumbling gently d
 
 <a id="prompt-4"></a>
 
-#### #2: 정확히 다섯 마리 오리가 턱을 오르기
+#### #3: 정확히 다섯 마리 오리가 턱을 오르기
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -548,7 +594,7 @@ A mother duck leads a line of exactly FIVE ducklings toward a curb; the fifth an
 
 <a id="prompt-5"></a>
 
-#### #3: 반쯤 언 연못 옆 야간 산책
+#### #4: 반쯤 언 연못 옆 야간 산책
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -629,7 +675,7 @@ ImagineVid가 작성한 편집 문구와 코드는 [CC BY 4.0](https://creativec
 <details>
 <summary>Community creators we thank (4)</summary>
 
-[Alexandr Wang](https://x.com/alexandr_wang) · [Chris](https://x.com/ChrisGPT) · [Ishan Misra](https://x.com/imisra_) · [Meta AI](https://x.com/AIatMeta)
+[AI at Meta](https://x.com/AIatMeta) · [Alexandr Wang](https://x.com/alexandr_wang) · [Chris](https://x.com/ChrisGPT) · [Ishan Misra](https://x.com/imisra_)
 
 </details>
 
@@ -649,6 +695,6 @@ ImagineVid가 작성한 편집 문구와 코드는 [CC BY 4.0](https://creativec
 **[검증된 사례 제출](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[컬렉션에 별표하기](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-08-03T14:11:54.980Z</sub>
+<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-08-03T15:15:30.511Z</sub>
 
 </div>
