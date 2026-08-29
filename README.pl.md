@@ -183,7 +183,7 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 |--------|-------|
 | Zweryfikowane przykłady | **9** |
 | Wybór redakcji | **5** |
-| Wygenerowano | **piątek, 28 sierpnia 2026 19:56:18 UTC** |
+| Wygenerowano | **sobota, 29 sierpnia 2026 02:45:51 UTC** |
 
 </div>
 
@@ -695,6 +695,6 @@ Tekst redakcyjny i kod ImagineVid są objęte licencją [CC BY 4.0](https://crea
 **[Prześlij zweryfikowany przykład](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Dodaj gwiazdkę kolekcji](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>Wygenerowano z wersjonowanych danych lokalnych dnia 2026-08-28T19:56:18.386Z</sub>
+<sub>Wygenerowano z wersjonowanych danych lokalnych dnia 2026-08-29T02:45:51.088Z</sub>
 
 </div>
