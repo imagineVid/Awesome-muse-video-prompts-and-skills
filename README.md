@@ -183,7 +183,7 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 |--------|-------|
 | Verified Cases | **9** |
 | Editorial pick | **5** |
-| Generated | **Monday, September 21, 2026 at 11:02:34 PM UTC** |
+| Generated | **Tuesday, September 22, 2026 at 3:42:44 AM UTC** |
 
 </div>
 
@@ -608,6 +608,6 @@ ImagineVid-authored editorial text and code are licensed under [CC BY 4.0](https
 **[Submit a verified case](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star the collection](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>Generated from versioned local data on 2026-09-21T23:02:34.096Z</sub>
+<sub>Generated from versioned local data on 2026-09-22T03:42:44.597Z</sub>
 
 </div>
