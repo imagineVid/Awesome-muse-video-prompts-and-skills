@@ -183,7 +183,7 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 |--------|-------|
 | أمثلة موثّقة | **9** |
 | اختيار تحريري | **5** |
-| تاريخ التوليد | **الخميس، 22 أكتوبر 2026 في 9:12:45 ص UTC** |
+| تاريخ التوليد | **الخميس، 22 أكتوبر 2026 في 4:45:27 م UTC** |
 
 </div>
 
@@ -695,6 +695,6 @@ First-person point of view strolling along the edge of a small half-frozen pond 
 **[أرسل مثالًا موثّقًا](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ضع نجمة للمجموعة](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>وُلّد من بيانات محلية مُدارة بالإصدارات في 2026-10-22T09:12:45.156Z</sub>
+<sub>وُلّد من بيانات محلية مُدارة بالإصدارات في 2026-10-22T16:45:27.080Z</sub>
 
 </div>
