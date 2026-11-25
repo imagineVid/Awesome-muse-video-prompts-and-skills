@@ -183,7 +183,7 @@ First-person night walk beside a half-frozen pond in falling snow, with warm lam
 |--------|-------|
 | 검증된 사례 | **9** |
 | 에디터 추천 | **5** |
-| 생성 시각 | **2026년 11월 25일 수요일 오전 3시 23분 41초 UTC** |
+| 생성 시각 | **2026년 11월 25일 수요일 오후 1시 57분 22초 UTC** |
 
 </div>
 
@@ -695,6 +695,6 @@ ImagineVid가 작성한 편집 문구와 코드는 [CC BY 4.0](https://creativec
 **[검증된 사례 제출](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[컬렉션에 별표하기](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills)**
 
-<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-11-25T03:23:41.507Z</sub>
+<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-11-25T13:57:22.158Z</sub>
 
 </div>
